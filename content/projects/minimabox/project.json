@@ -1,0 +1,15 @@
+{
+  "slug": "minimabox",
+  "section": "work",
+  "title": "MinimaBOX",
+  "year": "2020",
+  "subtitle": "Computational pavilion study",
+  "layout": "standard",
+  "tags": ["Previous Work", "Pavilion", "Computational Design"],
+  "coverImage": "/projects/minimabox/cover.webp",
+  "coverAlt": "MinimaBOX computational pavilion proposal",
+  "summary": "A computational pavilion study assembled from interlocking patterned shells and differentiated openings.",
+  "body": ["The proposal studies how a compact enclosure can emerge from a family of related digitally generated components."],
+  "facts": [["Type", "Pavilion study"], ["Year", "2020"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [50]}
+}

@@ -1,0 +1,376 @@
+Source: Teaching_Portfolio.pdf
+Selected PDF pages: 12, 13, 14, 15, 16, 17
+
+===== PDF PAGE 12 =====
+22
+23
+GOKMEN TEACHING
+Pedagogical Premise 
+Morphing Skins explored architectural design through 
+a pedagogical reversal. Instead of beginning with site, 
+program, massing, and then envelope, the studio 
+began with surface. Students first developed analog 
+techniques through paper folding, cutting, curling, 
+faceting, crumpling, triangulating, and tessellating. 
+These operations were treated not as decorative 
+effects, but as tectonic systems capable of producing 
+structure, enclosure, spatial depth, light modulation, 
+and programmatic organization. 
+ 
+The studio asked students to think of the building en-
+velope as an active architectural agent. Surface was not 
+understood as a thin layer applied after design deci-
+sions were made, but as a generative medium through 
+which design decisions could emerge. Through this 
+outside-in process, students learned how a surface 
+technique could become a façade system, how a façade 
+system could inform massing, and how massing could 
+then be integrated with circulation, structure, and 
+program. 
+ 
+The pedagogical goal was to help students connect 
+material experimentation with architectural resolu-
+tion. Paper became a low-cost research medium for 
+testing geometric behavior, pattern, repetition, thick-
+ness, fold direction, aggregation, and transformation. 
+Digital modeling then allowed students to translate 
+these discoveries into scalable systems that could be 
+applied to a real architectural site. 
+ 
+Methodology 
+The semester was organized in two major phases. In 
+the first half, students worked in groups to develop pa-
+per-based tectonic systems. Each group investigated a 
+specific formal operation and produced physical mod-
+els, diagrams, digital translations, rule sets, and matri-
+ces of variation. The emphasis was on rigor: students 
+were asked to identify repeatable rules, test variations, 
+document transformations, through diagrams and 
+digital models and understand how a surface opera-
+tion could become a design method. 
+ 
+In the second half, students applied these research 
+systems to an architectural project for the Carolina 
+Theatre site. The shift from abstract surface research 
+to architectural design required students to adapt 
+their techniques to the demands of an urban context, 
+public program, building enclosure, structure, circu-
+lation, and interior experience. Projects moved from 
+surface to façade, from façade to massing, and from 
+massing to programmatic integration. The final goal 
+was to produce large physical models that translated 
+the performative aspects of folding towards various 
+building systems. 
+  
+Phase I: Paper Tectonics 
+Students began with analog experiments using paper 
+as a construction medium. Through distinct research 
+tracks: folding, crumpling, curling, faceting, trian-
+gulating, and tessellating, they produced families of 
+surface studies and developed diagrams explaining the 
+rules behind each transformation. 
+ 
+Phase II: Surface Tectonics 
+Students translated paper techniques into digital mod-
+els and larger physical systems. This phase focused on 
+connecting individual surface units into networks, 
+testing depth and scale, and producing model matri-
+ces that demonstrated formal variation. For midterm, 
+student groups were asked to develop a massing model 
+for a given volume that will become integrated into 
+the site / program in the second half of the studio.  
+ 
+Phase III: Site and Massing Integration 
+After midterm, students transformed their surface sys-
+tems to the given Carolina Theatre site and program. 
+They used their research to develop massing strategies, 
+façade systems, and spatial organizations that respond-
+ed to the urban block and public program. Overall 
+approach for design was to have the abstract massing 
+and structure drive the program integration into the 
+volume.  
+ 
+Phase IV: Program and Façade Design 
+The final phase integrated envelope, structure, circu-
+lation, and program. Students produced architectural 
+proposals through large physical models, plans, sec-
+tions, elevations, renderings, and diagrams explaining 
+how their surface systems shaped the building as a 
+whole. 
+ 
+Student Project Topics 
+The student work presented in the following pages 
+explored a range of surface-based design techniques, 
+including folded pleats, structural ribs, spatial parti-
+tions, tessellated and triangulated façade systems, lay-
+ered envelopes, faceted massing strategies, and curled 
+or crumpled skins. The work presented here includes 
+examples from the studio-wide scope, along with 
+selected projects from the coordinator’s section.  
+ 
+Learning Outcomes 
+In this studio, students learned to develop design 
+systems through material experimentation, document 
+formal operations through diagrams and rule sets, 
+translate analog techniques into digital models, and 
+apply abstract surface research to an architectural 
+project. The studio strengthened their ability to move 
+between hand-making and computational modeling, 
+between surface and structure, and between formal ex-
+perimentation and architectural resolution. They were 
+provided with weekly tutorials on translating paper 
+folding techniques to parametric and digital modeling 
+approaches. The final projects demonstrate how an 
+envelope-first design process can generate buildings 
+in which façade, massing, structure, circulation, and 
+program emerge as interconnected systems rather than 
+sequential stages. More broadly, the pedagogy chal-
+lenged conventional third-year studio expectations by 
+shifting the emphasis from designing a discrete “build-
+ing” toward developing analog-computational systems 
+capable of driving architectural form, tectonic expres-
+sion, and building-systems integration.
+Morphing Skins
+Third Y ear Design Studio
+UNC Charlotte School of Architecture 
+ 
+Instructors:  
+Loren Bartlett 
+David Thaddeus 
+T oby Witte 
+Melanie Reddrick  
+Sabri Gökmen (Coordinator)
+ARCH 3102 | Third Year Design Studio | Spring 2025
+MORPHING SKINS
+
+===== PDF PAGE 13 =====
+24
+25
+GOKMEN TEACHING
+Abraham V asquez + Ethan Bolton
+Tortoise
+Hummingbird
+Olas
+Paperplane
+Hourglass
+Stinggray
+Paper Tectonics
+Paper Tectonics
+Surface Tectonics
+Surface Tectonics
+=
+=
+=
++
++
++
+/gid00008/gid00019/gid00016/gid00022/gid00015/gid00005/gid00001/gid00007/gid00013/gid00016/gid00016/gid00019
+/gid00007/gid00013/gid00016/gid00016/gid00019/gid00001/gid00135
+/gid00008/gid00019/gid00016/gid00022/gid00015/gid00005/gid00001/gid00007/gid00013/gid00016/gid00016/gid00019
+/gid00007/gid00013/gid00016/gid00016/gid00019/gid00001/gid00134
+Massings
+Massings
+SOUL / 01  CASCADE / 02 RAINFALL / 03
+Generations
+Generations
+I
+V VI VII VIII
+II III IV
+Morphing Skins
+Third Y ear Design Studio
+T opic: Curling
+
+===== PDF PAGE 14 =====
+26
+27
+GOKMEN TEACHING
+Model 
+Model
+Morphing Skins
+Third Y ear Design Studio
+Abraham V asquez + Ethan Bolton
+T opic: Curling
+
+===== PDF PAGE 15 =====
+28
+29
+GOKMEN TEACHING
+Vitoria Muchiutti + Jordan Harrelson
+Paper Thectonics - 12 Study models
+PapagaioMariposa
+Tucano
+Borboleta
+Morcego Murmuração
+Falcão Peregrino Rouxinol Canário
+Beija-ﬂor Bem-te-viPavão
+Paper Thectonics - 12 Study models
+PapagaioMariposa
+Tucano
+Borboleta
+Morcego Murmuração
+Falcão Peregrino Rouxinol Canário
+Beija-ﬂor Bem-te-viPavão
+Paper Thectonics - 12 Study models
+PapagaioMariposa
+Tucano
+Borboleta
+Morcego Murmuração
+Falcão Peregrino Rouxinol Canário
+Beija-ﬂor Bem-te-viPavão
+Paper Thectonics - Final Paper Model
+Tessellated Murmuration
+Stretched, Morphed & Extended (A) Final Massing Scaled, Reduced & Morphed  (B) 
+A
+B
+Paper Thectonics - Final Paper Model
+Tessellated Murmuration
+Stretched, Morphed & Extended (A) Final Massing Scaled, Reduced & Morphed  (B) 
+A
+B
+Paper Thectonics - Final Paper Model
+Tessellated Murmuration
+Stretched, Morphed & Extended (A) Final Massing Scaled, Reduced & Morphed  (B) 
+A
+B
+Paper Thectonics - Final Paper Model
+Tessellated Murmuration
+Stretched, Morphed & Extended (A) Final Massing Scaled, Reduced & Morphed  (B) 
+A
+B
+Morphing Skins
+Third Y ear Design Studio
+T opic: T essellating
+
+===== PDF PAGE 16 =====
+30
+31
+GOKMEN TEACHING
+Paper Thectonics - Murmuração /f_loor Sections
+Paper Thectonics - Murmuração /f_loor plans
+LEVEL 7
+1
+2
+3
+4
+Open Style Kitchen
+Dining Room Seating
+Private Seating
+Bathrooms
+1
+2
+4
+3
+LEVEL 5
+1
+2
+Ofﬁce
+Bathroom
+2
+1
+LEVEL 2
+1
+2
+3
+4
+Lounge & Seating Area 
+Cafe
+FOTC Entry
+Theatre Entry
+1
+4
+3
+2
+LEVEL 1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+Ticketing & Customer Support
+Bathrooms
+Amphitheatre Style Lobby
+Theatre Entry
+FOTC Entry 
+Paper Thectonics - Murmuração /f_loor plans
+LEVEL 7
+1
+2
+3
+4
+Open Style Kitchen
+Dining Room Seating
+Private Seating
+Bathrooms
+1
+2
+4
+3
+LEVEL 5
+1
+2
+Ofﬁce
+Bathroom
+2
+1
+LEVEL 2
+1
+2
+3
+4
+Lounge & Seating Area 
+Cafe
+FOTC Entry
+Theatre Entry
+1
+4
+3
+2
+LEVEL 1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+Ticketing & Customer Support
+Bathrooms
+Amphitheatre Style Lobby
+Theatre Entry
+FOTC Entry 
+Paper Thectonics - Diagrid
+Skin
+Primary Diagrid
+Secundary Diagrid
+Paper Thectonics - Murmuração
+- Skin
+- Restaurant
+- Ofﬁces
+- Maintenance 
+& Storage
+- Lobby
+- Event Space
+- Gallery 
+- Cafe
+Elevation 1 Elevation 2 X-ray drawing
+Circulation Diagram
+Vitoria Muchiutti + Jordan Harrelson
+Morphing Skins
+Third Y ear Design Studio
+T opic: T essellating
+
+===== PDF PAGE 17 =====
+32
+33
+GOKMEN TEACHING
+Morphing Skins
+Third Y ear Design Studio
+Final Review Models

@@ -1,0 +1,288 @@
+Source: Teaching_Portfolio.pdf
+Selected PDF pages: 24, 25, 26, 27, 28, 29, 30, 31, 32, 33
+
+===== PDF PAGE 24 =====
+46
+47
+GOKMEN TEACHING
+Pedagogical Premise 
+Prototype introduced second-year students to archi-
+tecture as a generative discipline. Rather than treating 
+design as the production of a singular final object, 
+the studio asked students to understand architec-
+ture as a process of rule-making, iteration, variation, 
+testing, and material translation. Students learned to 
+design systems before designing buildings: workflows, 
+protocols, assemblies, and geometric rules that could 
+generate architectural outcomes. 
+ 
+The studio built on foundational first-year skills while 
+expanding students’ technical and conceptual range 
+through computational thinking, digital modeling, 
+physical construction, and AI-assisted design and 
+visualization. Emerging technologies were introduced 
+not as shortcuts, but as instruments for speculation, 
+representation, and critical authorship. Students used 
+computational tools to ask architectural questions, 
+test alternatives, and construct design logic through 
+drawings, models, scripts, prompts, and fabricated 
+assemblies. 
+ 
+The studio also supported the Archetype Sympo-
+sium, held at UNC Charlotte on October 24, 2025, 
+where student work was exhibited as part of a broader 
+conversation on architecture, artificial intelligence, 
+computation, authorship, and the future of design. 
+ 
+Methodology 
+The semester was structured through two comple-
+mentary projects: Bytescape and Foldscape. T ogether, 
+these projects introduced students to two opposing 
+but related design logics: tectonic and stereotomic. 
+The first project moved from parts to whole, asking 
+students to generate architecture through aggregation, 
+modularity, material assembly, and rule-based growth. 
+The second moved from whole to parts, asking stu-
+dents to begin with continuous surfaces and translate 
+them into folded tectonic systems, programs, and 
+inhabitable architectural proposals. 
+ 
+This pairing allowed students to understand archi-
+tecture through contrasting modes of production: 
+tectonic assembly and stereotomic continuity. In both 
+projects, students moved between analog and digital 
+methods, working through physical models, paramet-
+ric systems, LLM-generated scripting applications,  
+drawings, diagrams, and fabrication workflows. The 
+emphasis was not only on what students produced, 
+but on how they constructed the rules and procedures 
+that generated their work. 
+ 
+Project 1: Bytescape 
+Bytescape was a tectonic generator for modular archi-
+tecture. W orking in groups of four, students explored 
+aggregation and emergence through LLM scripting of 
+cellular automata systems, parametric variation, ma-
+terial constraints, and large-scale collaborative fabrica-
+tion. Students generated matrices of tower variations, 
+selected and developed one iteration as a continuous 
+exhibition space, and translated the design into a 
+physical tower model using modular materials (CMU 
+blocks and wood strips). 
+ 
+This project emphasized part-to-whole thinking. 
+Students learned how simple rules can produce 
+complex spatial organizations, how discrete elements 
+can become architectural systems, and how material 
+constraints shape design intelligence. The final towers 
+combined computation, representation, structure, 
+circulation, and fabrication into large collaborative 
+prototypes. 
+ 
+Project 2: Foldscape 
+Foldscape was a stereotomic generator for surface 
+architecture. Students began with exploring folding 
+techniques, including Miura-ori, V-fold, herringbone, 
+Ron Resch, Y oshimura, Kresling, hypar, spiral, and 
+waterbomb systems. W orking first in pairs and then 
+individually, they developed folding matrices, trans-
+lated analog models into architectural surfaces, and 
+designed artist pavilions that integrated studio, gallery, 
+and residential programs. 
+ 
+This project emphasized whole-to-parts thinking. 
+Students explored how continuous surfaces could be 
+folded, cut, articulated, and transformed into struc-
+ture, enclosure, circulation, and spatial atmosphere. 
+AI tools supported the development of artist narra-
+tives and conceptual renderings, while digital fabrica-
+tion enabled students to translate folded geometries 
+into precise physical models. 
+ 
+Student W ork Presented 
+The following portfolio pages showcase selected stu-
+dent work from Bytescape and Foldscape. The proj-
+ects demonstrate how second-year students developed 
+architectural proposals through rule-based experimen-
+tation, collaborative making, digital modeling, AI-as-
+sisted  scripting applications, and physical fabrication. 
+T ogether, the two projects show a pedagogical progres-
+sion from modular aggregation to folded continuity, 
+from abstract systems to inhabitable architectural 
+prototypes. 
+ 
+Learning Outcomes 
+Students learned to construct design methods through 
+rules, variations, and iterative testing; to translate 
+computational and analog experiments into archi-
+tectural form; and to communicate design intent 
+through drawings, models, diagrams, and visual 
+narratives. They developed technical proficiency in 
+digital modeling, parametric workflows, AI-assisted 
+design generation (LLMs), and digital fabrication, 
+while also strengthening collaboration, critique, time 
+management, and architectural decision-making. The 
+studio positioned second-year design education as an 
+experimental laboratory where foundational architec-
+tural skills are expanded through emerging tools and 
+generative thinking.
+Second Y ear Design Studio
+Prototype
+UNC Charlotte School of Architecture 
+ 
+Instructors:  
+Alexis Andrikanich  
+Jefferson Ellinger 
+Jeff Balmer 
+Sabri Gökmen (Coordinator)
+ARCH 2101 | Second Year Design Studio| Fall 2025
+PROTOTYPE
+
+===== PDF PAGE 25 =====
+48
+49
+GOKMEN TEACHING
+Second Y ear Design Studio
+Prototype
+Bytescape Phase I: Cellular Automata + Scripting  
+with LLMs 
+Students developed generative scripts inside Rhinoc-
+eros using Python to explore Cellular Automata as a 
+rule-based design method. W orking with large lan-
+guage models such as ChatGPT, Gemini, and Copi-
+lot, students used AI-assisted scripting to generate, 
+test, debug, and refine parametric algorithms. The goal 
+was not simply to produce forms, but to understand 
+how simple local rules could generate complex spa-
+tial organizations. Each group produced a matrix of 
+formal variations, documented the rules behind their 
+outputs, and selected key samples for 3D printing as 
+physical studies of computational aggregation.
+Mackenzie Dolle + Hunter Shaffer + Michael W allace + Hadley Melton
+
+===== PDF PAGE 26 =====
+50
+51
+GOKMEN TEACHING
+Second Y ear Design Studio
+Prototype
+Bytescape Phase II: Design Exploration +  
+Continuous Circulation 
+In the second phase, students transformed their ab-
+stract Cellular Automata volumes into programmatic 
+spatial studies. Each group selected one generated 
+massing and developed it as a continuous exhibition 
+space, integrating distinct program volumes through 
+ramps, stairs, corridors, and sectional connections. 
+The emphasis shifted from formal generation to 
+architectural inhabitation: students were asked to 
+test how computational massing could accommodate 
+spatial hierarchy, circulation, structure, and experi-
+ential sequence. This phase also introduced material 
+translation, as students developed scaled basswood 
+models to study how their digital geometries could be 
+reinterpreted through wood construction, detailing, 
+and assembly logic preparing them for the final phase.
+Olivia Dreyfus + Mo Pirela + Kaylie V ong + Iterland W ells
+Jameson Jensen + David Kushnir + Christian Richter + Agnes Rodts
+
+===== PDF PAGE 27 =====
+52
+53
+GOKMEN TEACHING
+Second Y ear Design Studio
+Prototype
+
+===== PDF PAGE 28 =====
+54
+55
+GOKMEN TEACHING
+Second Y ear Design Studio
+Prototype
+Phase III: Digital Fabrication Strategies + Tower 
+Construction 
+In the final phase, each group selected one basswood 
+design study to develop into a full tower prototype. 
+Students shifted from spatial exploration to fabrica-
+tion strategy, using part analysis, annotated drawings, 
+material detailing, and assembly logic to translate their 
+generated massing into a constructible model. W ork-
+ing within a fixed 24” x 24” x 72” volume, groups 
+developed tower structures using CMUs and wood 
+strips as the primary construction system. This phase 
+emphasized the relationship between computational 
+form, material constraint, structural stability, and fab-
+rication planning, requiring students to resolve how 
+abstract generative geometries could become physical 
+assemblies through sequencing, detailing, and collabo-
+rative construction.
+Fabrizio Farfan + Sabrina Coffaro + Paige Reed + Rishika Turlapaty
+Jameson Jensen + David Kushnir + Christian Richter + Agnes Rodts
+
+===== PDF PAGE 29 =====
+56
+57
+GOKMEN TEACHING
+Second Y ear Design Studio
+Prototype
+L16
+L15
+L13
+L11
+L8
+L6
+L4
+L2
+L14
+L12
+L10
+L9
+L7
+L5
+L3
+L1
+Vertical Member
+Horizontal Member
+Dowel w/ Adhesive
+/gid00006/gid00025/gid00017/gid00013/gid00016/gid00005/gid00006/gid00005/gid00001/gid00005/gid00010/gid00002/gid00008/gid00019/gid00002/gid00014/gid00020/gid00001/gid00020/gid00009/gid00016/gid00024/gid00010/gid00015/gid00008/gid00001/gid00002/gid00020/gid00020/gid00006/gid00014/gid00003/gid00013 /gid00026 /gid00164/gid00001/gid00017/gid00002/gid00019/gid00021/gid00020/gid00164/gid00001/gid00002/gid00015/gid00005/gid00001/gid00008/gid00019/gid00016/gid00022/gid00017/gid00020/gid00001/gid00007/gid00016/gid00019/gid00001/gid00014/gid00002/gid00015/gid00022/gid00007/gid00002/gid00004/gid00021/gid00022/gid00019/gid00010/gid00015/gid00008
+/gid00008/gid00045/gid00042/gid00048/gid00043/gid00001/gid00132/gid00002
+Assembly Process
+Vertical Members Horizonal Members Dowels
+Daniel Ragona + Eva Monson + Ian Rudert + Christina Aliatimi
+Mackenzie Dolle + Hunter Shaffer + Michael W allace + Hadley Melton
+
+===== PDF PAGE 30 =====
+59
+TEACHING
+58
+GOKMEN
+Midterm Review
+Second Y ear Design Studio
+Prototype
+
+===== PDF PAGE 31 =====
+60
+61
+GOKMEN TEACHING
+Melton Hadley
+Jair Rincon Padilla
+Second Y ear Design Studio
+Prototype
+
+===== PDF PAGE 32 =====
+62
+63
+GOKMEN TEACHING
+Jameson Jensen
+David Kushnir
+Second Y ear Design Studio
+Prototype
+
+===== PDF PAGE 33 =====
+64
+65
+GOKMEN TEACHING
+Mackenzie Dolle
+Jair Rincon Padilla
+Second Y ear Design Studio
+Prototype

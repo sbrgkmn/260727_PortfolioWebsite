@@ -1,0 +1,234 @@
+Source: Research_Portfolio.pdf
+Selected PDF pages: 23, 24, 25, 26
+
+===== PDF PAGE 23 =====
+Peer Reviewed Grants
+Project Title:  SteamBot: Computational Methods for Integrated Robotic Bending of   
+  Steamed Timber
+Agency: UNC Charlotte Faculty Research Grant (FRG)
+Amount:  16,000 USD
+Role:   Principal Investigator
+Co-PI:  Assoc. Prof. Dr. L. T aner Tunc, Mechanical Engineering and Engineering Science,  
+  UNC Charlotte 
+Duration: 18 Months (January 2025 – June 2026)
+Status:   Completed
+Project Title:  Computational Methods for the Analysis of Traditional Safranbolu House 
+  Plan Typologies using Generative Adversarial Network Algorithm (GAN)
+Agency:  Turkish Scientific and T echnology Research Institution (TUBITAK)
+Amount:  2,196,330.96 TL (approximately $52,000 USD as of January 11, 2025, based on an  
+  exchange rate of 1 USD = 35 TRY).
+Role:   Project Coordinator, Grant Recipient
+Researcher:  T aner Arsan, Associate Professor of Computer Science, KHAS
+Consultants: Fusun E.Alioglu, Professor of Architecture, KHAS
+  Figen Ozen, Asst. Prof. Of Electrical Engineering, Halic Uni.
+Duration: 30 Months (June 2023 – December 2025) 
+Status:   Completed
+Project Title:  Development of Computational Tools for Design Processes of Geometric 
+  Pattern Based Muqarnas
+Agency: Turkish Scientific and T echnology Research Institution (TUBITAK)
+Amount:  358, 020 TL (approximately 35.800 USD as of August, 2021, based on an ex  
+  change rate of 1 USD = 10 TRY). 
+Role:   Project Coordinator, Grant Recipient
+Researcher:  Sema Alacam, Associate Professor of Architecture, Istanbul T echnical Uni.
+Duration: 22 Months (October 2019 – August 2021)
+Status:   Completed. 
+ 
+ 
+Project Title:  Prompt-to-Geometry: Exploring Large Language Models for Generative  
+  Python  Scripting in Architectural Design
+Agency: Office of Undergraduate Research (OUR) Summer Program, UNC Charlotte
+Amount:  10,000 USD
+Role:   Mentor
+Fellows: Andrei Vince, Aidan Oh
+Duration: 10 weeks (May 2025 – July 2025)
+Status:   Completed
+Project Title:  From Mass to Meaning: Evaluating Human Judgment in AI-Generated 
+   Architectural Geometry
+Agency: ArtxSci Collaborative Exploration Grant, UNCC
+Amount:  20,000 USD
+Role:   Principal Investigator
+Co-PI:  Pu W ang, Associate Professor, Computer Science, UNCC
+Researcher: Hongfei Xue, Assistant Professor, Computer Science, UNCC
+Fellows:  Kunal Shah, Andrei Vince
+Status:  Under Review
+
+===== PDF PAGE 24 =====
+46
+47
+GOKMEN PD & RESEARCH
+Project Description
+SteamBot investigates how computational design and 
+industrial robotics can extend steam bending, one 
+of the oldest timber craft techniques. Conventional 
+steam bending softens wood through heat and mois-
+ture, shapes it around a mold, clamps it into position, 
+and allows it to cure. The process carries deep material 
+intelligence, but it is constrained by fixed formwork. 
+Each new curvature often requires a new jig, mold, 
+or clamping setup, making variation slow, labor-in-
+tensive, and difficult to scale. SteamBot begins from 
+this limitation and asks how robotic fabrication can 
+produce freeform timber components while preserv-
+ing wood’s grain, flexibility, springback, and organic 
+behavior.
+The project proposes a jigless robotic steam-bending 
+workflow for producing modular timber members 
+from linear wood strips. Rather than treating timber 
+as passive stock to be cut or milled after geometry has 
+already been defined, SteamBot works during the brief 
+interval when wood becomes flexible. In this softened 
+state, steam, grain direction, humidity, force, timing, 
+springback, and elastic memory all shape the final 
+geometry. The central research question is how to cre-
+ate a computational process that negotiates between 
+robotic precision and material response rather than 
+simply forcing a predetermined form onto wood.
+Research Context
+The project is positioned within computational 
+timber design, robotic fabrication, and material 
+computation. Much existing work in robotic timber 
+fabrication focuses on milling, cutting, drilling, or 
+assembling timber after it has stabilized. SteamBot 
+shifts the emphasis toward robotic forming while 
+the material is actively changing state. This requires 
+a different relationship between digital control and 
+physical behavior. Instead of assuming that geometry 
+can be imposed onto matter, the project treats wood 
+as responsive, resistant, and partially authorial.
+SteamBot also responds to growing architectural 
+interest in mass timber, low-waste fabrication, and 
+sustainable material systems. By producing custom 
+curved members without disposable molds or fixed 
+formwork, the project explores a flexible and material-
+ly efficient approach to non-standard timber fabrica-
+tion. It links architectural research, ecological material 
+practice, craft knowledge, and robotic manufacturing.
+Objectives
+The funded proposal was organized around four ob-
+jectives: to explore computational methods for robotic 
+steam bending; to study material behavior through 
+steam, humidity, grain orientation, thickness, cur-
+vature, and mechanical response; to develop robotic 
+bending techniques using KUKA robotic arms and 
+Parametric Robot Control; and to disseminate the 
+resulting knowledge through prototypes, parametric 
+workflows, an interdisciplinary fabrication course, and 
+publication or exhibition outcomes.
+At the level of design research, these objectives con-
+verge around a larger ambition: transforming timber 
+bending from a mold-based craft into a programmable 
+Funding Source 
+Funding Amount 
+Project Dates  
+PI   
+Co-Investigator
+UNC Charlotte Faculty Research Grant, 2025–2026  
+$16,000 
+January 15, 2025 – May 31, 2026  
+Sabri Gökmen, Assistant Professor, School of Architecture, UNC Charlotte 
+L. T aner Tunc, Associate Professor, Mechanical Engineering and Engineering Science
+SteamBot: Computational Methods for Integrated Robotic 
+Bending of Steamed Timber
+Workflow diagram linking digital modeling and material testing.
+Robotic bending tests featuring walnut, cherry and white oak strips.
+Digital Material
+Peer Reviewed Research Grants
+SteamBot
+
+===== PDF PAGE 25 =====
+48
+49
+GOKMEN  PD & RESEARCH
+fabrication system. In this context, the robot does not 
+simply replace the hand. It becomes a variable forming 
+instrument capable of producing controlled families 
+of related but non-identical members.
+Methods
+The project is structured through three work pack-
+ages: material characterization, robot integration and 
+programming, and parametric design. Material charac-
+terization studies timber species, strip thickness, grain 
+direction, curvature, elasticity, humidity, bendability, 
+springback, and breakage limits. These observations 
+inform a computational model that can guide bending 
+behavior and assess the feasibility of different curva-
+tures.
+Robot integration focuses on translating desired 
+curves into robotic movement sequences using KUKA 
+robotic arms and KUKA|prc. The setup tests path ac-
+curacy, rotation, timing, reach limits, and the effects of 
+humidity on the bending process. Parametric design 
+connects fabrication research to architectural out-
+comes by developing modular components, joinery 
+systems, assemblies, and larger spatial configurations.
+Material and Digital W orkflows
+SteamBot operates through two overlapping loops: a 
+digital workflow and a material workflow. The digital 
+workflow begins in Rhinoceros and Grasshopper, 
+where target member curves are extracted and con-
+verted into KUKA|prc robotic motion. The material 
+workflow begins with cutting linear wood strips, 
+steaming them according to species and thickness, 
+bending them through robotic movement, transfer-
+ring them into radial drying forms, and assembling 
+them into larger configurations.
+The critical exchange occurs during fabrication, where 
+an abstract spline becomes an angle-controlled robotic 
+operation and a softened wood strip becomes an archi-
+tectural member. This exchange defines the project’s 
+central contribution: a workflow in which compu-
+tational design and material behavior are developed 
+together rather than sequentially.
+Material Testing
+Material testing compared walnut, cherry, and white 
+oak across thicknesses ranging from 1/8 inch to 1/2 
+inch and steaming durations between fifteen and sixty 
+minutes. T ests evaluated flexibility, cracking, spring-
+KUKA|prc setup for double-rotation bending. XY rotation, XZ rotation, robot reach, and path sequencing 
+are used to translate target curvature into a programmable forming action.
+Column assembly process with curved members temporarily clamped into a radial base. 
+Peer Reviewed Research Grants
+SteamBot
+
+===== PDF PAGE 26 =====
+50
+51
+GOKMEN  PD & RESEARCH
+Final exhibited column prototype at Generative Fields, UNCC, 2026. 
+Parametric assembly possibilities. The same family of bent members can be reconfigured through plug-in 
+point connections into columns, linear walls, or larger pavilion structures.
+back, curing behavior, and post-bending stability. 
+Cherry performed best, particularly at 3/8 inch thick-
+ness after approximately thirty minutes of steaming. 
+This combination allowed each strip to move from the 
+steamer to the robot, bend in under thirty seconds, re-
+main temporarily held for approximately five minutes, 
+and then transfer into the radial drying rig while still 
+flexible. Members cured for approximately one week 
+before removal.
+This material phase demonstrates that robotic timber 
+bending cannot be reduced to toolpath generation 
+alone. The success of the process depends on species 
+behavior, moisture content, steaming duration, strip 
+thickness, robotic timing, temporary fixation, and the 
+choreography between material readiness and robotic 
+motion.
+Robotic Fabrication W orkflow
+The robotic workflow tested three movement families: 
+planar bending through XZ rotation, axial twisting 
+through XY rotation along the wood profile, and 
+compound double-curvature bending through coor-
+dinated XY and XZ rotations. These tests allowed the 
+project to move beyond simple arcs toward members 
+with more complex curvature and spatial variation.
+Custom Grasshopper scripts translated target geome-
+try into angle-based robot paths, shifting the workflow 
+from fixed forming infrastructure to variable robotic 
+motion, drying angles, and modular attachment 
+points. The resulting members can be reconfigured 
+into columns, walls, pavilion structures, or larger mod-
+ular assemblies, demonstrating how robotic steam 
+bending can support both material experimentation 
+and architectural design research.
+Peer Reviewed Research Grants
+SteamBot

@@ -1,0 +1,27 @@
+{
+  "slug": "archetype",
+  "section": "work",
+  "title": "Archetype",
+  "year": "2025",
+  "subtitle": "Building Intelligence through Generative Architecture",
+  "layout": "standard",
+  "tags": ["Symposium", "Editorial Design", "Artificial Intelligence"],
+  "coverImage": "/projects/archetype/gallery/poster.webp",
+  "coverAlt": "Archetype symposium poster",
+  "summary": "Archetype was the first Marley P. Carroll Symposium on AI and Architecture at UNC Charlotte, conceived as a public forum on generative design, pedagogy, authorship, and professional practice.",
+  "body": [
+    "The one-day symposium brought together keynote speakers, faculty, students, and professional practitioners. It combined lectures, faculty responses, an AI forum, and a student exhibition.",
+    "The event was extended into an approximately 128-page A5 booklet organized around theoretical framing, contemporary practice, and student work, creating a durable institutional record of the symposium."
+  ],
+  "facts": [
+    ["Date", "October 24, 2025"],
+    ["Location", "UNC Charlotte"],
+    ["Role", "Organizer, moderator, and booklet lead"],
+    ["Keynotes", "Andrew Kudless and Rob Otani"],
+    ["Format", "Symposium, exhibition, and booklet"]
+  ],
+  "source": {
+    "document": "Service_Portfolio.pdf",
+    "pages": [14, 15, 16, 17, 18, 19]
+  }
+}

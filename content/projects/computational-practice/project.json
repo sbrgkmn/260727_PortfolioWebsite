@@ -1,0 +1,29 @@
+{
+  "slug": "computational-practice",
+  "section": "teaching",
+  "title": "Computational Practice",
+  "year": "2025–2026",
+  "subtitle": "Computational design seminar",
+  "layout": "standard",
+  "tags": ["Parametric Design", "Minimal Surfaces", "Digital Fabrication"],
+  "coverImage": "/projects/computational-practice/cover.webp",
+  "coverAlt": "Computational Practice student work",
+  "summary": "A large-format seminar connecting parametric modeling, geometry, materiality, and digital fabrication through architectural applications.",
+  "body": [
+    "The course followed a dual trajectory of parametric facades and minimal surfaces, advancing from precedent analysis and geometric variation toward form finding, mesh modeling, physics-based simulation, fabrication, and installation-scale assembly.",
+    "Twelve weekly exercises and two major group projects created a scaffolded learning sequence. Approximately thirty percent of class time was dedicated to lectures and demonstrations, while seventy percent operated as an open workshop supported by tutorials, templates, scripts, and teaching assistants.",
+    "Three instructional sequences structured the semester: Parametric Facades, a Generative AI Workshop, and Minimal Surfaces. Students moved from rule-based facade systems to AI-assisted visualization and then to topology, mesh segmentation, joinery, fabrication, and collective construction.",
+    "The final work connected screen-based exploration to material practice through precedent studies, variation matrices, form-finding models, fabrication diagrams, mock-ups, and installation-scale assemblies."
+  ],
+  "facts": [
+    ["Course", "ARCH 4605 / 5605"],
+    ["Terms", "Spring 2025 and Spring 2026"],
+    ["Level", "Undergraduate + graduate"],
+    ["Role", "Seminar coordinator"],
+    ["Enrollment", "61 students in 2025; 90 in 2026"]
+  ],
+  "source": {
+    "document": "Teaching_Portfolio.pdf",
+    "pages": [38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]
+  }
+}

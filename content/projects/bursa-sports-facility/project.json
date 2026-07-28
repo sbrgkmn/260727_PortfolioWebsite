@@ -1,0 +1,15 @@
+{
+  "slug": "bursa-sports-facility",
+  "section": "work",
+  "title": "Bursa Ataturk Sports Facility",
+  "year": "2022",
+  "subtitle": "Architecture competition · Bursa",
+  "layout": "wide",
+  "tags": ["Previous Work", "Competition", "Architecture"],
+  "coverImage": "/projects/bursa-sports-facility/cover.webp",
+  "coverAlt": "Bursa Ataturk Sports Facility competition proposal",
+  "summary": "An architecture competition proposal for a civic sports facility in Bursa.",
+  "body": ["The design develops a continuous civic frontage and a sequence of public spaces around the sports program."],
+  "facts": [["Type", "Architecture competition"], ["Location", "Bursa"], ["Year", "2022"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [52]}
+}

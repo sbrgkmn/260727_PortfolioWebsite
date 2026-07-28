@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Minimal Matter: Permeable Interior Walls from 3D-Printed Minimal-Surface Clay Modules",
+    "slug": "minimal-matter",
+    "periodLabel": "2026–2027",
+    "summary": "Research into permeable interior wall systems assembled from modular, 3D-printed clay components derived from minimal-surface geometry."
+  },
+  {
+    "title": "Prompt-to-Geometry: Exploring Large Language Models for Generative Python Scripting in Architectural Design",
+    "slug": "prompt-to-geometry",
+    "periodLabel": "2025",
+    "summary": "An undergraduate research project examining how large language models can support reusable Python scripting and generative architectural design workflows."
+  },
+  {
+    "title": "SteamBot: Computational Methods for Integrated Robotic Bending of Steamed Timber",
+    "slug": "steambot",
+    "periodLabel": "2025–2026",
+    "summary": "A computational and robotic fabrication workflow for steam-bending timber members without fixed formwork, connecting material behavior with programmable geometry."
+  },
+  {
+    "title": "Computational Methods for the Analysis of Traditional Safranbolu House Plan Typologies using Generative Adversarial Network Algorithm",
+    "slug": "safranbolu-house-typologies",
+    "periodLabel": "2023–2025",
+    "summary": "Computational analysis of traditional Safranbolu house plans using machine-learning methods to study typological organization, variation, and architectural heritage."
+  },
+  {
+    "title": "Development of Computational Tools for Design Processes of Geometric Pattern-Based Muqarnas",
+    "slug": "muqarnas-design-tools",
+    "periodLabel": "2019–2021",
+    "summary": "Development of computational methods for analyzing, reconstructing, and generating geometric muqarnas systems as operational architectural design tools."
+  },
+  {
+    "title": "Founding of Digital Design and Fabrication Laboratory",
+    "slug": "digital-design-fabrication-lab",
+    "periodLabel": "2019–2021",
+    "summary": "Establishment of an institutional laboratory supporting computational design, digital fabrication, research, and hands-on architectural education."
+  },
+  {
+    "title": "DESIGNHUB-IST Design, Education and Development Center",
+    "slug": "designhub-ist",
+    "periodLabel": "2022–2023",
+    "summary": "Research participation in a design, education, and development center connecting academic expertise, creative production, and regional innovation."
+  },
+  {
+    "title": "CAREER: GRAFT — Geometry-Rich Alignment for Foundation-Model Training in Generative Building Design",
+    "slug": "graft",
+    "periodLabel": "2026 / In progress",
+    "summary": "A research proposal focused on geometry-rich alignment and architectural datasets for training foundation models in generative building design."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "src": "/projects/calyx/gallery/installation.webp",
+    "alt": "Calyx branching installation in the gallery",
+    "caption": "Calyx installation",
+    "sourcePage": 48
+  },
+  {
+    "src": "/projects/calyx/gallery/assembly.webp",
+    "alt": "Calyx assembly and fabrication detail",
+    "caption": "Assembly and fabrication detail",
+    "sourcePage": 49
+  },
+  {
+    "src": "/projects/calyx/gallery/geometry.webp",
+    "alt": "Calyx branching geometry and component diagram",
+    "caption": "Branching geometry and component diagram",
+    "sourcePage": 49
+  }
+]

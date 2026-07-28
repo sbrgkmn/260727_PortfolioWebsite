@@ -1,0 +1,38 @@
+[
+  {
+    "src": "/projects/computational-practice/gallery/exercise-01.webp",
+    "alt": "Computational Practice parametric exercise",
+    "caption": "Parametric exercise",
+    "sourcePage": 39
+  },
+  {
+    "src": "/projects/computational-practice/gallery/exercise-02.webp",
+    "alt": "Computational Practice geometric studies",
+    "caption": "Geometric studies",
+    "sourcePage": 40
+  },
+  {
+    "src": "/projects/computational-practice/gallery/exercise-03.webp",
+    "alt": "Computational Practice fabrication studies",
+    "caption": "Fabrication studies",
+    "sourcePage": 43
+  },
+  {
+    "src": "/projects/computational-practice/gallery/exercise-04.webp",
+    "alt": "Computational Practice student work",
+    "caption": "Selected student work",
+    "sourcePage": 45
+  },
+  {
+    "src": "/projects/computational-practice/gallery/exercise-05.webp",
+    "alt": "Computational Practice computational models",
+    "caption": "Computational models",
+    "sourcePage": 47
+  },
+  {
+    "src": "/projects/computational-practice/gallery/exercise-06.webp",
+    "alt": "Computational Practice final projects",
+    "caption": "Final projects",
+    "sourcePage": 49
+  }
+]

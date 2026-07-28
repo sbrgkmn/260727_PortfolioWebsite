@@ -1,0 +1,15 @@
+{
+  "slug": "didem-madak-tomb",
+  "section": "work",
+  "title": "Tomb for Didem Madak",
+  "year": "2020",
+  "subtitle": "Tomb Design Competition · Istanbul",
+  "layout": "wide",
+  "tags": ["Previous Work", "Competition", "Memorial"],
+  "coverImage": "/projects/didem-madak-tomb/cover.webp",
+  "coverAlt": "Tomb for Didem Madak competition proposal",
+  "summary": "A memorial landscape whose patterned metal surface frames and protects the poet’s grave.",
+  "body": ["The proposal received the Jury Prize in the Tomb for Didem Madak Design Competition."],
+  "facts": [["Type", "Memorial competition"], ["Location", "Istanbul"], ["Recognition", "Jury Prize"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [53]}
+}

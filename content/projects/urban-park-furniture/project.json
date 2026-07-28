@@ -1,0 +1,15 @@
+{
+  "slug": "urban-park-furniture",
+  "section": "work",
+  "title": "Furniture Design for Urban Parks",
+  "year": "2020",
+  "subtitle": "Design competition · Istanbul",
+  "layout": "wide",
+  "tags": ["Previous Work", "Competition", "Urban Furniture"],
+  "coverImage": "/projects/urban-park-furniture/cover.webp",
+  "coverAlt": "Urban park furniture competition proposal",
+  "summary": "A modular timber framework proposed as adaptable furniture and spatial infrastructure for urban parks.",
+  "body": ["Submitted to the Furniture Design for Urban Parks Competition in Istanbul."],
+  "facts": [["Type", "Design competition"], ["Location", "Istanbul"], ["Year", "2020"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [52]}
+}

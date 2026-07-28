@@ -1,0 +1,29 @@
+{
+  "slug": "prototype",
+  "section": "teaching",
+  "title": "Prototype",
+  "year": "2025",
+  "subtitle": "Second-year design studio",
+  "layout": "standard",
+  "tags": ["Computational Thinking", "AI-Assisted Design", "Fabrication"],
+  "coverImage": "/projects/prototype/cover.webp",
+  "coverAlt": "Prototype studio models and drawings",
+  "summary": "Prototype introduced second-year students to architecture as a process of rule-making, iteration, material translation, and the design of generative systems.",
+  "body": [
+    "The semester paired two complementary projects: Bytescape and Foldscape. Together, they introduced opposing but related design logics - tectonic assembly and stereotomic continuity - while asking students to construct the rules and procedures that generated their work.",
+    "Bytescape used cellular automata, LLM-assisted Python scripting, parametric variation, and modular fabrication to move from part-to-whole systems toward inhabitable exhibition towers. Students tested how simple local rules could produce complex spatial organization, circulation, structure, and assembly.",
+    "Foldscape began with analog folding systems including Miura-ori, V-fold, herringbone, Yoshimura, Kresling, hypar, spiral, and waterbomb patterns. Students translated continuous surfaces into artist pavilions integrating structure, enclosure, circulation, program, and atmosphere.",
+    "Across both projects, students worked through physical models, digital modeling, scripts, prompts, drawings, diagrams, and collaborative fabrication. The final work was exhibited during the Archetype Symposium at UNC Charlotte."
+  ],
+  "facts": [
+    ["Course", "ARCH 2101"],
+    ["Term", "Fall 2025"],
+    ["Level", "Second year"],
+    ["Role", "Studio coordinator"],
+    ["Enrollment", "79 students"]
+  ],
+  "source": {
+    "document": "Teaching_Portfolio.pdf",
+    "pages": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "src": "/projects/archetype/gallery/poster.webp",
+    "alt": "Archetype exhibition poster",
+    "caption": "Exhibition poster",
+    "sourcePage": 14
+  },
+  {
+    "src": "/projects/archetype/gallery/events.webp",
+    "alt": "Archetype exhibition events and gallery views",
+    "caption": "Exhibition events and gallery views",
+    "sourcePage": 15
+  },
+  {
+    "src": "/projects/archetype/gallery/booklet.webp",
+    "alt": "Archetype publication and booklet design",
+    "caption": "Publication and booklet design",
+    "sourcePage": 16
+  },
+  {
+    "src": "/projects/archetype/gallery/publication.webp",
+    "alt": "Archetype publication spreads",
+    "caption": "Publication spreads",
+    "sourcePage": 17
+  },
+  {
+    "src": "/projects/archetype/gallery/student-work.webp",
+    "alt": "Archetype student exhibition projects",
+    "caption": "Student exhibition projects",
+    "sourcePage": 19
+  }
+]

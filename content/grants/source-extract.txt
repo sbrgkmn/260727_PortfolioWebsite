@@ -1,0 +1,88 @@
+Source: CV_Sabri_Gokmen_2026_Revised.docx
+CV section: GRANTS
+
+0270: GRANTS
+0271: E1. As Project Coordinator
+0272: Project Title: Minimal Matter: Permeable Interior Walls from 3D-Printed Minimal-Surface Clay Modules Agency: School of Architecture Faculty Research Grant (FRG)
+0273: Amount: 5,000 USD
+0274: Role: Principal Investigator
+0275: Co-PI: Pelin Alkan
+0276: Duration: 12 Months (July 1st 2026 – May 1st 2027)
+0277: Status: Ongoing.
+0279: This project explores a modular system of 3D-printed clay components for permeable interior partitions that filter light, air, and visibility while defining space. Using computational geometry and ceramic fabrication technologies in the School of Architecture, the research will develop and test a workflow integrating parametric design, digital fabrication, and material performance, culminating in a full-scale mockup, exhibition, and scholarly dissemination.
+0281: Project Title: Prompt-to-Geometry: Exploring Large Language Models for Generative Python Scripting in Architectural Design
+0282: Agency: Office of Undergraduate Research (OUR) Summer Program, UNC Charlotte
+0283: Amount: 10,000 USD
+0284: Role: Mentor
+0285: Fellows: Andrei Vince, Aidan Oh
+0286: Duration: 10 weeks (May 2025 – July 2025)
+0287: Status: Completed
+0289: This project explores a modular system of 3D-printed clay components for permeable interior partitions that filter light, air, and visibility while defining space. Using computational geometry and ceramic fabrication technologies in the School of Architecture, the research will develop and test a workflow integrating parametric design, digital fabrication, and material performance, culminating in a full-scale mockup, exhibition, and scholarly dissemination.
+0291: Project Title: SteamBot: Computational Methods for Integrated Robotic Bending of Steamed Timber
+0292: Agency: UNC Charlotte Faculty Research Grant (FRG)
+0293: Amount: 16,000 USD
+0294: Role: Principal Investigator
+0295: Co-PI: Assoc. Prof. Dr. L. Taner Tunc, Mechanical Engineering and Engineering Science, UNC Charlotte
+0296: Duration: 18 Months (January 2025 – June 2026)
+0297: Status: Completed
+0299: The project aims to develop a robotic bending toolkit for automated fabrication of custom timber members. The toolkit will be based on Rhinoceros, Grasshopper, and Kuka PRC. The outcomes are (1) a robotic wood bending system (2) an elective seminar on robotic fabrication to explore steamed wood applications, producing custom toolsets, parametric codes, and prototypes. (3) Physical outcomes such as mock-ups, sculptures, material experiments, and a pavilion, will be exhibited to demonstrate potential applications. (4) Key findings will be published in peer-reviewed journals. (5) A report describing the design of a roller end effector for robotic fabrication of timber for Advanced Roller for Wood Bending (ARWB) will be presented.
+0301: Project Title: Computational Methods for the Analysis of Traditional Safranbolu House
+0302: Plan Typologies using Generative Adversarial Network Algorithm (GAN)
+0303: Agency: Turkish Scientific and Technology Research Institution (TUBITAK)
+0304: Amount: 2,196,330.96 TL (approximately $52,000 USD as of January 11, 2025, based on an exchange rate of 1 USD = 35 TRY).
+0305: Role: Project Coordinator, Grant Recipient
+0306: Researcher: Taner Arsan, Associate Professor of Computer Science, KHAS
+0307: Consultants: Fusun E.Alioglu, Professor of Architecture, KHAS
+0308: Figen Ozen, Asst. Prof. Of Electrical Engineering, Halic Uni.
+0309: Duration: 30 Months (June 2023 – December 2025)
+0310: Status: Completed
+0312: Safranbolu, a UNESCO World Heritage site, boasts well-preserved Ottoman-era houses dating back to the 18th century. Despite their cultural significance, there's a lack of comprehensive research on their architectural typology. This project seeks to fill this gap by using artificial intelligence (AI) to create a database and AI-driven methods for studying these unique house designs. It aims to analyze core architectural concepts like form, symmetry, and proportion through AI applications, offering valuable insights into historical building typologies. The project's innovative approach involves training a generative adversarial network algorithm on house plan drawings, enabling both qualitative and quantitative typological analysis. By sharing its datasets and applications as open source, this project aims to inspire future interdisciplinary research in AI and architecture.
+0314: Project Title: Development of Computational Tools for Design Processes of Geometric
+0315: Pattern Based Muqarnas
+0316: Agency: Turkish Scientific and Technology Research Institution (TUBITAK)
+0317: Amount: 358, 020 TL (approximately 35.800 USD as of August, 2021, based on an exchange rate of 1 USD = 10 TRY).
+0318: Role: Project Coordinator, Grant Recipient
+0319: Researcher: Sema Alacam, Associate Professor of Architecture, Istanbul Technical Uni.
+0320: Duration: 22 Months (October 2019 – August 2021)
+0321: Status: Completed.
+0323: This research focuses on automating the design and modeling of muqarnas elements in Anatolian Seljukid architecture, redefining their geometric rules using digital techniques. By integrating 3D modeling, point cloud scanning, and parametric design into architectural history, the project aims to revive this traditional design element for contemporary use, offering valuable data and digital resources. The goal is to establish a digital framework for interdisciplinary research on historical architectural elements within our cultural heritage, making Islamic art and architecture more accessible and adaptable to current parametric modeling and digital production strategies.
+0324: The project’s research outcomes have been published in Journal on Computing and Cultural Heritage and Nexus Network Journal and presented at conferences and symposia.
+0326: Project Title: Founding of Digital Design and Fabrication Laboratory
+0327: Agency: Scientific Research Grant Kadir Has University
+0328: Amount: 55,000 TL (approximately 9250 USD as of December, 2019, based on an exchange rate of 1 USD = 5.94 TRY).
+0329: Role: Project Coordinator
+0330: Contributors: Arzu Erdem, Didem Kilickiran, Sait Ali Koknar, Murat Cetin, Ayse Coskun Orlandi, Serkan Bayraktaroglu, Ufuk Soyoz, Mustafa Caghan Keskin, Fusun Alioglu
+0331: Duration: 24 Months (December 2019 – December 2021)
+0332: Status: Completed.
+0334: As for the strategic planning of the Art and Design Faculty at Kadir Has University, I proposed the founding of a “Digital Design and Fabrication Laboratory (DDFL)” for the advancement of digital technologies of the undergraduate design programs. Full-time faculty donated their annual scientific research budget for the purchase of machinery, and industry partners donated various furniture and building materials for the construction. The project was temporarily halted due to COVID-19, but the planning of the workspace and acquisition of a Laser Cutter machine, 3d Printers, 3d scanners were completed and the laboratory was operational for Spring 2021 academic year. The laboratory inventory is being expanded with 3d printers, drawbot, vacuuform machine, air compressor and other miscellaneous tools.
+0335: E2. As Researcher
+0336: Project Title: DESIGNHUB-IST Design, Education and Development Center
+0337: Agency: Istanbul Development Agency (ISTKA)
+0338: Amount: 1,500,000 TL (approximately 92137 USD as of April, 2022, based on an exchange rate of 1 USD = 16.28 TRY).
+0339: Role: Researcher
+0340: Principal: Banu Manav, Professor of Interior Architecture, Kadir Has Uni.
+0341: Duration: 18 Months (April 2022 – September 2023)
+0342: Status: Completed.
+0344: DESIGNHUB-IST Design, Training and Application Center carries out its work within Kadir Has University to develop high value-added projects, services and applications in the field of design in Istanbul. As a digital platform and a physical center, with the aim of increasing the weight of creative industries in the design sector in our country, we serve businesses that operate in design and have become design centers, especially in Istanbul. Within the general framework of interior design, contributing to the development of high value-added designs in the fields of lighting-acoustics, evidence-based, user-oriented design is among the main objectives of the project.
+0345: E3. Pending Proposals
+0346: Project Title: From Mass to Meaning: Evaluating Human Judgment in AI-Generated
+0347: Architectural Geometry
+0348: Agency: ArtxSci Collaborative Exploration Grant, UNCC
+0349: Amount: 20,000 USD
+0350: Role: Principal Investigator
+0351: Co-PI: Pu Wang, Associate Professor, Computer Science, UNCC
+0352: Researcher: Hongfei Xue, Assistant Professor, Computer Science, UNCC
+0353: Fellows: Kunal Shah, Andrei Vince
+0354: Status: Under Review.
+0356: Project Title: CAREER: GRAFT: Geometry-Rich Alignment for Foundation-Model Training in
+0357: Generative Building Design
+0358: Agency: National Science Foundation (NSF – CAREER) – Robust Intelligence
+0359: Amount: 566,894 USD
+0360: Role: Principal Investigator
+0361: Status: In Progress.
+0362: The project builds on the team’s recent development of a multimodal architectural dataset that has reached approximately 200,000 samples, linking prompts, images, and voxelized building massing models. This preliminary work has demonstrated the feasibility of automated prompt-image-geometry data production at scale. GRAFT will expand this foundation from feasibility toward diversification, quality control, and foundation-model training. The research will develop computational pipelines for generating, curating, aligning, and evaluating geometry-rich architectural datasets across multiple building typologies, including houses, public buildings, towers, and mixed-use forms. Each dataset record will integrate natural-language descriptions, rendered images, voxelized or structured 3D geometry, metadata, provenance, and quality metrics.
+0364: Project Title: Metamorphic Architecture: Goethean Polarity and Computational Morphology Agency: Graham Foundation for Advanced Studies in the Fine Arts – Individual Grant Amount: 30,000 USD Role: Principal Investigator Status: In Preparation. The project develops Digital Romanticism, a research framework connecting Goethean morphology, polarity, and transformation with contemporary computational design. The grant will support research, visual documentation, and preparation of the book Metamorphic Architecture: Goethean Polarity and Computational Morphology.
+0365: E4. Grant Proposals Submitted (Not Funded)
+0366: Gokmen, Sabri (PI), Pu Wang (Co-PI). Building Geometric Intelligence: Generative AI Training using Synthetic Architectural Datasets. Amazon Web Services (AWS) AI Research Award / Think Big – ARA, proposal under review. Requested: $100,000 cash funding + $70,000 AWS promotional credits. (2025).
+0367: Gokmen, Sabri (PI). Scaling Architectural Datasets for Transformer-Augmented Digital Building Modeling National Science Foundation (NSF – CAREER). Requested: $411,000. Submitted July 21st, 2025. Track: HCI (Human Computer Interaction)
+0368: Gokmen, Sabri (PI), Pu Wang (Co-PI). Prompt-to-Geometry: Generative AI for Reusable 3D Design Workflows. NCI Pipeline Development Program Summer 2026. Requested: $25,000.

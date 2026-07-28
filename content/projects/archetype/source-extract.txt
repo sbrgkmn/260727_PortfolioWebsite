@@ -1,0 +1,669 @@
+Source: Service_Portfolio.pdf
+Selected PDF pages: 14, 15, 16, 17, 18, 19
+
+===== PDF PAGE 14 =====
+26
+27
+GOKMEN SER VICE
+Internal Service
+October 24th, 2025, UNC Charlotte
+Marley P. Carroll Symposium on AI and Architecture
+ARCHETYPE SYMPOSIUM AND BOOKLET
+Symposium 
+In Fall 2025, I organized and moderated Archetype: 
+Building Intelligence through Generative Archi-
+tecture, the first Marley P. Carroll Symposium on 
+AI and Architecture at the UNC Charlotte School of 
+Architecture. The symposium was conceived as a pub-
+lic forum for examining how artificial intelligence is 
+reshaping architectural design, pedagogy, authorship, 
+and professional practice. Rather than treating AI as a 
+technical novelty, the event framed it through the lon-
+ger disciplinary concept of the archetype: a recurring 
+spatial, formal, and organizational pattern that persists 
+through historical transformation. 
+ 
+The one-day symposium brought together national 
+keynote speakers, faculty, students, and professional 
+practitioners to discuss the transition from draw-
+ing-centered design workflows to data-rich, mod-
+el-based, and AI-assisted environments. Keynote 
+lectures by Andrew Kudless and Rob Otani addressed 
+emerging intersections between generative systems, 
+architectural intelligence, material practice, and the 
+AEC industry. These lectures were followed by faculty 
+responses and an AI Forum with local and national 
+practitioners, including participants from academia, 
+architectural practice, and technology-oriented design 
+research. The event also included student work and 
+exhibition material, positioning the symposium as 
+both a scholarly conversation and a pedagogical plat-
+form. 
+ 
+My role involved developing the symposium theme, 
+coordinating the program structure, inviting and 
+communicating with speakers and panelists, moder-
+ating discussions, planning the student work exhibit 
+and connecting the event to broader curricular and 
+research conversations within the School of Architec-
+ture. The symposium supported the School’s growing 
+engagement with computation and AI by creating a 
+shared space for faculty, students, and practitioners 
+to discuss the cultural, ethical, and methodological 
+implications of generative technologies. 
+Archetype Symposium and Booklet
+Symposium Program 
+9:30 AM Opening Remarks 
+9:45 AM Keynote Lecture 1: Andrew Kudless 
+10:30 AM Keynote Lecture 2: Rob Otani 
+11:15 AM Conversation and Response with SoA 
+Faculty and Keynote Speakers: Andrew Kudless, Rob 
+Otani, Kyle Spence, Alexandra W aller, Nathaniel 
+Elberfeld 
+12:00 PM Lunch Break 
+1:00 PM AI Forum: Discussion with Local AEC 
+Practitioners and Faculty: Kyong-Hee Kim, Jefferson 
+Ellinger, Evelyn Lee, Garrett Herbst, Omid Shoghli, 
+Je’Nen Chastain 
+2:00 PM Wrap-up and Exhibition 
+ 
+Booklet 
+Following the event, I led the development of the 
+Archetype booklet, an A5 publication of approxi-
+mately 128 pages that extends the symposium into a 
+durable institutional record. The booklet is organized 
+into three parts: a theoretical and historical fram-
+ing of archetype and generative intelligence; faculty 
+contributions that situate archetypal thinking within 
+contemporary architectural practice; and student 
+work that demonstrates how these ideas are carried 
+forward through teaching, experimentation, and 
+design research. The publication includes symposium 
+documentation, keynote summaries, edited discus-
+sions, faculty essays, student projects, visual material, 
+contributor bios, and reflective framing texts. 
+ 
+T ogether, the symposium and booklet transformed 
+a one-day event into a broader service contribution: 
+a public forum, a pedagogical resource, a record of 
+faculty and student work, and a platform for position-
+ing UNC Charlotte’s School of Architecture within 
+contemporary conversations on AI and architectural 
+education. This work reflects my broader service 
+commitment to building connections among compu-
+tation, curriculum, public discourse, and professional 
+practice.
+
+===== PDF PAGE 15 =====
+28
+29
+GOKMEN SER VICE
+From Analog to AI 
+Rob Otani - Keynote Presentation
+Prototype 
+Student W ork Exhibit, Storrs Salon, UNCC
+Five Points of AI 
+Andrew Kudless - Keynote Presentation
+AI and the Discipline of Judgment 
+Discussion
+Internal Service
+Archetype Symposium and Booklet
+
+===== PDF PAGE 16 =====
+30
+31
+GOKMEN SER VICE
+Generative Archetypes  - Sabri Gokmen
+Five Points of Architecture and AI - Andrew Kudless
+From Analog to AI - Rob Otani
+AI and the Discipline of Judgment
+AI Forum: Practice, T ools and The Future of AEC 
+Prototype
+Symposium
+Afterword
+Contributors 
+ 
+Acknowledgements 
+A Question of Aesthetics - Jefferson Ellinger
+Computation and Cultivation – Jonathan Dessi-Olive
+Haeckel’s Slop – Nathaniel Elberfeld 
+ 
+Microalgae Enclosure Digital Twin – Kyong-Hee Kim 
+ 
+The Architecture of Language – Elizabeth L. McCormick 
+ 
+New Ways of Seeing – Alexandra Waller
+Immersive Urban Analytics – Ming-Chun Lee
+01
+02
+03
+ARCHETYPE:
+ARCHETYPE :
+ARCHETYPE:
+BUILDING 
+INTELLIGENCE
+PRACTICES
+GENERATIONS
+10
+18
+28
+38
+46
+102
+116
+124
+126 
+ 
+128
+58
+64
+70
+76
+82
+88
+94
+11
+PART 01 ARCHETYPE: BUILDING INTELLIGENCE
+10
+SABRI GOKMENGENERA TIVE ARCHETYPES
+SABRI GOKMEN
+GENERATIVE
+ARCHETYPES
+ 1 Charles Darwin, On the Origin of Species by Means of Natural Selection 
+(London: John Murray, 1859), 434.
+Architecture has long been sustained by recurring spatial 
+structures that transmit knowledge across generations. 
+Architectural forms such as courtyards, basilicas, hypo-
+style halls, and vernacular houses reappear across cultures 
+shaped by different climates and social conditions, yet they 
+reveal recognizable patterns of organization. These forms 
+are typically described through the language of typology; 
+however, the concept of the archetype offers a deeper 
+framework through which the persistence and transforma-
+tion of architectural intelligence may be understood.
+An archetype is a latent organizational pattern or principle 
+embedded within form. Rather than a fixed model to be 
+replicated, it operates as a generative structure capable 
+of producing variation. Much like homologous vertebrate 
+limbs, in which the hand, paw, paddle, and wing retain 
+comparable skeletal patterns while adapting to different 
+functions,1 architectural archetypes evolve through contin-
+uous adaptation to material conditions, cultural contexts, 
+and technological regimes. The built artifact therefore 
+represents only one manifestation of a deeper entity that 
+precedes and exceeds any singular manifestation.
+Architecture is increasingly shaped by computational and 
+data driven technologies through which the mechanisms 
+of form generation, classification, and transformation are 
+undergoing profound change. Generative algorithms, 
+parametric modeling systems, and machine learning frame-
+works now participate directly in the production of architec-
+tural variation. Far from displacing historical architectural 
+knowledge, these technologies reorganize the ways in 
+which such knowledge is encoded, retrieved, and extended.
+ARCHETYPES AND INTELLIGENCE
+Archetype Booklet (A5 format, 128 pages), UNC Charlotte, Forthcoming. 
+Graphic Design: Point of Reference (POR), Jeffrey Ludlow
+Internal Service
+Archetype Symposium and Booklet
+
+===== PDF PAGE 17 =====
+32
+33
+GOKMEN SER VICE
+27
+PART 01 ARCHETYPE: BUILDING INTELLIGENCE
+26
+FIVE POINTS OF ARCHITECTURE AND AI ANDREW KUDLESSPART 01 ARCHETYPE: BUILDING INTELLIGENCE
+THE FREEDOM OF INCOHERENCE
+Early stages of design are often characterized by ambigu-
+ity. Sketches are imprecise, contradictory, and incomplete, 
+yet they contain the seeds of future ideas. Traditional digital 
+tools frequently struggle to support this stage because 
+they require designers to commit to precise geometries 
+and structured workflows too early.
+Generative AI reintroduces a form of productive ambiguity. 
+The images produced by diffusion models are often imper-
+fect, surreal, or inconsistent. For designers, this apparent 
+incoherence can become a source 
+of inspiration.
+Instead of resolving every detail 
+immediately, architects can explore 
+a wide range of conceptual direc-
+tions. Images function as specu-
+lative sketches rather than final 
+representations.
+Kudless suggests that the value of AI lies precisely in this 
+capacity to sustain uncertainty. By allowing ideas to remain 
+unresolved, generative tools help designers navigate the 
+complex and contradictory conditions that shape architec-
+tural thinking.
+“Design does not begin with certainty— 
+it begins with contradictions.”
+39
+AI AND THE DISCIPLINE OF JUDGMENT DISCUSSIONPART 01 ARCHETYPE: BUILDING INTELLIGENCE
+38
+RETHINKING DESIGN AND COMPUTATION
+Sabri Gokmen: T o begin, I want to situate AI 
+within the longer history of computation in archi-
+tecture. For several decades, computation has 
+served as a medium for representation, mod-
+eling, scripting, and fabrication. But AI seems 
+to shift computation toward something more 
+generative, ambiguous, and collaborative. How 
+has the role of computation changed, and does 
+AI extend computational design or challenge it? 
+ 
+Andrew Kudless: I have been a big user of compu-
+tation since I was a student in the 1990s, and I found 
+it incredibly empowering. Most of my time on the 
+computer is spent in Grasshopper, writing code, or 
+working through computational tools. I enjoy that, 
+but there is also a frustrating side: spending hours 
+solving esoteric problems like data trees, equa-
+tions, software updates, or compatibility issues. 
+ 
+Generative AI feels like the opposite end of that 
+spectrum. “On the surface, it just works.” Y ou still 
+need to understand some of the details, but there 
+is a freedom in not having to manage a complex 
+data tree or build every operation through code. 
+Y ou can describe what you want. Most of the time 
+you will not get exactly what you want, but you will 
+get something that challenges your original think -
+ing. For me, AI is more like a sketch, “something 
+to help me work through ideas very, very quickly” 
+before I dive back into complex code, Grass -
+hopper models, or more structured systems. 
+Rob Otani: I think it depends where you are in 
+the landscape of design. If you are a designer, AI 
+might feel freeing in the way Andrew describes. 
+But if you are a computational designer, it can be 
+disruptive. Computational designers are used 
+to curating their design space very clearly, of -
+ten through Grasshopper or other parametric 
+tools. AI appears to create a design space au-
+tomatically, so there is a sense of threat there. 
+ 
+But I also think the best-case scenario is that AI 
+expands what computational designers can do. 
+In our office, computational designers are already 
+using AI-assisted coding to create custom appli-
+cations. So instead of replacing computational 
+design, AI may push it from a relatively narrow 
+area of parametric work toward a much broader 
+field of validation, iteration, and design impact. 
+ 
+Kyle Spence: From the standpoint of compu-
+tation, there is an important historical parallel. 
+In the 1990s, when computers became more 
+common in design, there was a period when 
+new geometries emerged that seemed un-
+familiar, often described as blobs. They were 
+exciting, but also difficult to rationalize, diffi-
+cult to sell to clients, and difficult to construct. 
+ 
+ANDREW KUDLESS
+ROB OT ANI
+ALEXANDRA WALLER
+NA THANIEL ELBERFELD
+KYLE SPENCE
+SABRI GOKMEN (MODERA TOR)
+AI AND THE 
+DISCIPLINE OF
+JUDGMENT
+The discussion frames AI as both an extension and dis-
+ruption of architectural computation, shifting design from 
+scripted control toward generative, image-based, and 
+data-driven workflows. The panel emphasizes that AI can 
+accelerate exploration, but architectural judgment remains 
+essential to connect images with structure, material, ethics, 
+authorship, and buildable reality.
+33
+PART 01 ARCHETYPE: BUILDING INTELLIGENCE
+32
+FROM ANALOG TO AI ROB OT ANIPART 01 ARCHETYPE: BUILDING INTELLIGENCE
+PARAMETRIC DESIGN AND 
+COMPUTATIONAL GEOMETRY
+AUTOMATION AND RISE OF DATA
+By the mid 2000s, computational design began to trans-
+form the relationship between geometry and engineering. 
+Parametric modeling environments allowed designers to 
+generate complex structural configurations while maintain-
+ing precise control over their underlying parameters.
+For engineers, this shift required new 
+forms of interdisciplinary collabo-
+ration. Architects were increasingly 
+using computational tools to explore 
+complex geometries, and structural 
+engineers had to develop new analyt-
+ical techniques capable of evaluating 
+these forms.
+Otani describes this moment as a turn-
+ing point in his own career. Exposure 
+to computational design communities 
+and emerging tools such as Grass-
+hopper introduced new possibilities 
+for integrating geometry, analysis, 
+and fabrication within a unified digital 
+workflow.
+These developments expanded the 
+role of engineers from purely analytical 
+consultants into active collaborators in 
+the generative process of design.
+As computational tools matured, engineering practice in-
+creasingly shifted toward data driven methods. Building In-
+formation Modeling (BIM) environments allowed structural 
+models to function not only as geometric representations 
+but also as databases containing detailed information about 
+materials, structural systems, and construction processes.
+Within this environment, the structure 
+of a building can be understood as a 
+network of interdependent relation-
+ships. Changes to one component 
+propagate through the system, requir -
+ing adjustments across multiple ele-
+ments of the design.
+Otani describes this condition us -
+ing the analogy of a directed graph in 
+which each structural decision influ-
+ences a chain of subsequent design 
+decisions. Engineering design there-
+fore becomes a process of managing 
+complex networks of dependencies.
+Automation tools began to emerge 
+as a way of navigating these relation-
+ships. Scripts and custom applications 
+allowed engineers to automate repetitive calculations and 
+design processes, reducing the time required to evaluate 
+structural alternatives.
+"Computation changed the way 
+engineers and architects could 
+work together. Geometry, analysis, 
+and design started to happen inside 
+the same environment."
+47
+PRACTICE, TOOLS, AND THE FUTURE OF AEC AI FORUMPART 01 ARCHETYPE: BUILDING INTELLIGENCE
+46
+FRAMING AI
+Sabri Gokmen: For this afternoon session, we 
+are shifting from the theoretical framework of the 
+morning lectures to a more practice-oriented dis -
+cussion. This forum brings together practitioners, 
+researchers, and educators who are actively en-
+gaging artificial intelligence in the AEC industry, 
+from design computation and digital fabrication 
+to business strategy, construction technology, 
+and regenerative systems. I want to begin broad-
+ly: how has computation changed the way you 
+think about design and problem-solving in your 
+work, and how do you see AI taking that further? 
+ 
+Kyong-Hee Kim: In my research, computation has 
+changed the way we frame questions. We begin 
+with a hypothesis: for instance, if we use AI-driv -
+en sensor integration, can we improve a certain 
+environmental performance by ten or twenty 
+percent compared to experiments without AI? 
+ 
+In our lab, we are working with microalgae as liv -
+ing organisms that can sequester carbon and 
+improve energy performance. Before using AI, 
+we relied on basic sensor integration, data col-
+lection, and trend analysis. We might study how 
+light levels affect algae cell density, for example. 
+With AI, we can monitor and curate data in real 
+time across multiple factors: light levels, CO 2 lev-
+els from occupants entering and leaving a space, 
+nutrient dosing, pH, temperature, and airflow. The 
+goal is to train algorithms that can predict the next 
+adjustment, perhaps the next hour’s light level or 
+CO2 flow. In that sense, AI is not only a design tool. 
+It becomes a way to validate performance and 
+test whether the hypothesis is actually working. 
+ 
+Garrett Herbst: I’ll take that from the practice side. 
+In our emerging technologies group, the mission 
+is to identify the parts of our discipline that are 
+mundane, repetitive, or administratively heavy, 
+and then ask how technology can reduce that 
+burden. The goal is not to automate the import -
+ant parts of architecture away. It is to create more 
+time for the work people are actually good at. 
+ 
+For example, firm leaders are often promoted be-
+cause they are excellent designers, practitioners, 
+or business developers. But once they move into 
+leadership, they are overwhelmed by staffing, fi-
+nancials, emails, and administrative tasks. If AI can 
+help reduce that load, then they can focus more 
+on clients, design quality, and, maybe most impor -
+tantly, mentoring the next generation. For us, the 
+opportunity is to use AI to improve the quality of 
+practice, not just to make things faster.
+JEFFERSON ELLINGER 
+GARRETT HERBST 
+OMID SHOGHLI 
+EVEL YN LEE
+AI FORUM: 
+PRACTICE, 
+TOOLS AND THE 
+FUTURE OF AEC 
+The AI Forum examines how artificial intelligence is re-
+shaping AEC practice through research, design workflows, 
+construction safety, collaboration, and business strategy. 
+Across the discussion, the panel emphasizes that AI can 
+accelerate work and expand professional roles, but its val-
+ue depends on critical judgment, ethical use, environmental 
+responsibility, and the ability to connect data, tools, people, 
+and built outcomes.
+“The goal is not to automate the important parts 
+of architecture away. It is to create more time for 
+the work people are actually good at.”
+JE’NEN CHAST AIN
+KYOUNG-HEE KIM
+SABRI GOKMEN (MODERA TOR)
+Internal Service
+Archetype Symposium and Booklet
+
+===== PDF PAGE 18 =====
+34
+35
+GOKMEN SER VICE
+59
+PART 02 ARCHETYPE:  PRACTICES
+58
+ 1 
+2 
+ For more on this see Jefferson Ellinger, Philosophical Difference and Advanced Com-
+putation in Architectural Theory From Less to More (New Y ork: Routledge, 2021).
+ Graham Harman, Art and Objects (Cambridge: Polity Press, 2020). For the precise 
+definition of beauty as an “RO-SQ split,” see Graham Harman, Object-Oriented Ontol-
+ogy: A New Theory of Everything (London: Pelican Books, 2018). On the architectural 
+implications, see Graham Harman, Architecture and Objects (Minneapolis: University 
+of Minnesota Press, 2022).
+JEFFERSON ELLINGERA QUESTION OF AESTHETICS
+The introduction of artificial intelligence (AI) into the disci-
+pline of architecture is producing anxiety about the future 
+of human contributions. However, this anxiety is largely 
+being framed in the wrong terms. The prevailing question of 
+whether AI will replace humans assumes that what humans 
+contribute and what machines contribute are commensu-
+rate – that the difference is one of degree rather than that 
+of kind and this is a mistaken assumption. This mistake can 
+in part be attributed to the discipline evolving over the last 
+century to privilege humans that act like machines – this 
+can be illustrated with so called evidence-based design for 
+example.1 What AI systems produce (the machine) is prop-
+ositional output: determinate solutions optimized against 
+specifiable criteria, generated by the recombination of pat-
+terns extracted from existing data. What the human con-
+tributes (or will need to re-learn to contribute), and what will 
+need to be foregrounded to maintain disciplinary relevance, 
+is the capacity to evaluate whether something achieves a 
+coherence, resonance or significance that exceeds what 
+can be determined by its functional adequacy, logical 
+correctness or empirical verification alone. This is aesthetic 
+judgement. Graham Harman’s Object-Oriented Ontology 
+(OOO) provides a philosophically precise account of aes-
+thetic judgement and does so through a concept architec-
+ture has become allergic to: beauty. 
+Harman defines beauty with unusual precision as a ten-
+sion between a thing and the qualities it presents to any 
+observer.2  This fissure or tension can be described clum-
+JEFFERSON ELLINGER
+A QUESTION 
+OF AESTHETICS
+“Design does not begin with certainty. It begins 
+with contradictions.”
+59 65
+PART 02 ARCHETYPE:  PRACTICES
+64
+ 1 Schroeder, M.R. (1975). ‘Diffuse sound reflection by maximum-length sequences.’ 
+Journal of the Acoustical Society of America, 57, 149- 150
+JONA THAN DESSI-OLIVEGENERA TIVE DESIGN THROUGH CUL TIVA TION
+The work presented here emerges from ongoing research 
+and fabrication at MycoMatters Lab, where architectural 
+design is approached through the integration of material 
+experimentation, computational methods, and spatial 
+design practices. The design research and education work 
+in the Lab focuses on the production of building-scale 
+installations, prototypes, and acoustical systems. Central 
+to this work is the cultivation of mycelium bio-composite 
+materials, in which chitinous fungal hyphae act as a self-
+generating adhesive that binds cellulosic substrates 
+sourced from waste streams. These material processes 
+are developed in parallel with computational design 
+methods that generate formal variation through rule-based 
+systems and support the evaluation of structural and 
+environmental performance. 
+Within this framework, acoustic diffuser panels provide a 
+relevant point of entry into the design research conducted 
+in the MycoMatters Lab. Diffuser panels are used to spread 
+sound both spatially and temporally while maintaining 
+total reflected energy. Although a wide range of non-flat 
+geometries such as hemispheres, pyramids, arcs, and 
+fractals can produce diffusion, acousticians commonly 
+rely on number theory generated forms such as Quadratic 
+Residue Diffuser (QRD) panels because they predictably 
+scatter sound and prevent harsh reflections or echoes 
+in a space. Composed of parallel wells of varying depths, 
+designing phase grating QRD panels is parametric, as the 
+depths of their wells correspond to optimal diffusive design 
+frequencies.1 Within practice and the literature, QRDs are 
+an ‘archetypal’ acoustic treatment commonly deployed as a 
+straight extrusion of its frequency dependent cross sec-
+tion, arranged in repeating patterns across entire surfaces. 
+JONA THAN DESSI-OLIVE
+GENERATIVE 
+DESIGN 
+THROUGH 
+CULTIVATION
+65
+77
+PART 02 ARCHETYPE:  PRACTICES
+76
+ 1 
+2 
+U.S. Department of Energy. (2024). DOE Releases New Report Evaluating Increase in 
+Electricity Demand from Data Centers.
+Advanced Research Projects Agency-Energy. (2022, September 22). U.S. Depart-
+ment of Energy announces $42 million to develop high performance cooling systems 
+for data centers. 
+KYOUNG-HEE KIMMICROALGAE ENCLOSURE DIGIT AL TWIN
+High-performance computing facilities are among the 
+most energy-intensive building types on the planet con-
+suming 176 TWh in 2023,1 and up to 40% of that energy is 
+dedicated to cooling load management.2 As computational 
+demand accelerates with AI workloads, this cooling burden 
+becomes an urgent design priority. This paper discusses 
+a digital twin approach for microalgae enclosures in data 
+center applications. By combining IoT sensing, predic-
+tive modeling, and adaptive control, the project enables 
+real-time management of a living infrastructure that sup-
+ports cooling reduction, carbon biofixation, and biomass 
+production. Framed as generative archetypes rather than 
+discrete modules, these microalgae enclosures operate as 
+adaptable architectural systems that can be reconfigured 
+across site locations, climatic conditions, and building con-
+figurations while retaining repeatable design logic between 
+building envelopes, living systems, and computational intel-
+ligence. The project therefore offers a transferable design 
+framework for next-generation high-performance comput-
+ing facilities and other building typologies.
+A bio-integrated envelope strategy: Our BioBlade sys-
+tem consists of a thin, blade-like photobioreactor module 
+that integrates AI-enabled controls. Waste heat expelled 
+by high-performance computing cooling infrastructure is 
+redirected into these BioBlade enclosures as a thermal 
+KYOUNG-HEE KIM
+MICROALGAE
+ENCLOSURE
+DIGITAL TWIN
+77 83
+PART 02 ARCHETYPE:  PRACTICES
+82
+ 1 Schroeder, M.R. (1975). ‘Diffuse sound reflection by maximum-length sequences.’ 
+Journal of the Acoustical Society of America, 57, 149- 150.
+ELIZABETH L. MCCORMICKTHE ARCHITECTURE OF LANGUAGE
+The promise of generative architecture is seductive: more 
+data, more knowledge, more optimization. Better forms, 
+better systems, better futures. But this promise rests on a 
+quiet assumption that intelligence can be extracted from 
+existing conditions, formalized into models, and recom-
+bined into something new. But what if that assumption is 
+the problem?
+Ask an image generator to produce a library and it will al-
+most invariably return shelves of books. Shelving systems, 
+stacks and spaces organized around the codex as the pri-
+mary vessel of knowledge. The image will be coherent and 
+legible, even persuasive. But it will also be constrained by a 
+very specific epistemological framework: that knowledge 
+is discrete, bounded, and stored in objects. That a library is 
+a place where those objects are collected and accessed. 
+The term “library” in itself activates a historically sediment-
+ed set of associations that the model cannot easily es-
+cape. In this sense, generative AI does not simply produce 
+images, it reproduces categories. Generative systems then 
+operate within the bounds of existing language, and there-
+fore within the confines of existing paradigms.
+Anthropologist Bruno Latour’s critique of modernity is 
+instructive here because it frames categories not as neutral 
+descriptions of reality, but as systems for organizing knowl-
+edge. Though written decades before the emergence of 
+generative AI, the categorical logic he critiques is precisely 
+the logic these systems operationalize at scale. Latour’s  
+ELIZABETH L. MCCORMICK
+THE 
+ARCHITECTURE
+OF LANGUAGE
+83
+Internal Service
+Archetype Symposium and Booklet
+
+===== PDF PAGE 19 =====
+36
+37
+GOKMEN SER VICE
+03
+ARCHETYPE:
+GENERATIONS
+“ Archetypes persist through repetition, 
+adaptation, and teaching.”
+101 121
+PART 03 ARCHETYPE: GENERA TIONS
+120
+PROTOTYPE GOKMEN, ANDRAKINICH, BALMER, ELLINGER
+119
+PART 03 ARCHETYPE: GENERA TIONS
+118
+PROTOTYPE GOKMEN, ANDRAKINICH, BALMER, ELLINGER
+October 24, 2025.  
+Prototype Studio Exhibit 
+UNCC Storrs Salon
+123
+PART 03 ARCHETYPE: GENERA TIONS
+122
+PROTOTYPE GOKMEN, ANDRAKINICH, BALMER, ELLINGER
+Internal Service
+Archetype Symposium and Booklet

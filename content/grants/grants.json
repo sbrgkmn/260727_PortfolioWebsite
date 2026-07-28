@@ -1,0 +1,119 @@
+[
+  {
+    "group": "Project coordinator",
+    "title": "Minimal Matter: Permeable Interior Walls from 3D-Printed Minimal-Surface Clay Modules",
+    "agency": "School of Architecture Faculty Research Grant",
+    "amount": "5,000 USD",
+    "role": "Principal Investigator",
+    "period": "July 2026–May 2027",
+    "status": "Ongoing"
+  },
+  {
+    "group": "Project coordinator",
+    "title": "Prompt-to-Geometry: Exploring Large Language Models for Generative Python Scripting in Architectural Design",
+    "agency": "Office of Undergraduate Research Summer Program, UNC Charlotte",
+    "amount": "10,000 USD",
+    "role": "Mentor",
+    "period": "May–July 2025",
+    "status": "Completed"
+  },
+  {
+    "group": "Project coordinator",
+    "title": "SteamBot: Computational Methods for Integrated Robotic Bending of Steamed Timber",
+    "agency": "UNC Charlotte Faculty Research Grant",
+    "amount": "16,000 USD",
+    "role": "Principal Investigator",
+    "period": "January 2025–June 2026",
+    "status": "Completed"
+  },
+  {
+    "group": "Project coordinator",
+    "title": "Computational Methods for the Analysis of Traditional Safranbolu House Plan Typologies using Generative Adversarial Network Algorithm",
+    "agency": "TÜBİTAK",
+    "amount": "2,196,330.96 TL",
+    "role": "Project Coordinator and Grant Recipient",
+    "period": "June 2023–December 2025",
+    "status": "Completed"
+  },
+  {
+    "group": "Project coordinator",
+    "title": "Development of Computational Tools for Design Processes of Geometric Pattern-Based Muqarnas",
+    "agency": "TÜBİTAK",
+    "amount": "358,020 TL",
+    "role": "Project Coordinator and Grant Recipient",
+    "period": "October 2019–August 2021",
+    "status": "Completed"
+  },
+  {
+    "group": "Project coordinator",
+    "title": "Founding of Digital Design and Fabrication Laboratory",
+    "agency": "Kadir Has University Scientific Research Grant",
+    "amount": "55,000 TL",
+    "role": "Project Coordinator",
+    "period": "December 2019–December 2021",
+    "status": "Completed"
+  },
+  {
+    "group": "Researcher",
+    "title": "DESIGNHUB-IST Design, Education and Development Center",
+    "agency": "Istanbul Development Agency",
+    "amount": "1,500,000 TL",
+    "role": "Researcher",
+    "period": "April 2022–September 2023",
+    "status": "Completed"
+  },
+  {
+    "group": "Pending proposal",
+    "title": "From Mass to Meaning: Evaluating Human Judgment in AI-Generated Architectural Geometry",
+    "agency": "ArtxSci Collaborative Exploration Grant, UNC Charlotte",
+    "amount": "20,000 USD",
+    "role": "Principal Investigator",
+    "period": "",
+    "status": "Under review"
+  },
+  {
+    "group": "Pending proposal",
+    "title": "CAREER: GRAFT — Geometry-Rich Alignment for Foundation-Model Training in Generative Building Design",
+    "agency": "National Science Foundation CAREER, Robust Intelligence",
+    "amount": "566,894 USD",
+    "role": "Principal Investigator",
+    "period": "",
+    "status": "In progress"
+  },
+  {
+    "group": "Pending proposal",
+    "title": "Metamorphic Architecture: Goethean Polarity and Computational Morphology",
+    "agency": "Graham Foundation for Advanced Studies in the Fine Arts",
+    "amount": "30,000 USD",
+    "role": "Principal Investigator",
+    "period": "",
+    "status": "In preparation"
+  },
+  {
+    "group": "Submitted proposal",
+    "title": "Building Geometric Intelligence: Generative AI Training using Synthetic Architectural Datasets",
+    "agency": "Amazon Web Services AI Research Award / Think Big",
+    "amount": "100,000 USD + 70,000 USD AWS credits requested",
+    "role": "Principal Investigator",
+    "period": "2025",
+    "status": "Listed under not funded in the revised CV"
+  },
+  {
+    "group": "Submitted proposal",
+    "title": "Scaling Architectural Datasets for Transformer-Augmented Digital Building Modeling",
+    "agency": "National Science Foundation CAREER",
+    "amount": "411,000 USD requested",
+    "role": "Principal Investigator",
+    "period": "Submitted July 21, 2025",
+    "status": "Listed under not funded in the revised CV"
+  },
+  {
+    "group": "Submitted proposal",
+    "title": "Prompt-to-Geometry: Generative AI for Reusable 3D Design Workflows",
+    "agency": "NCI Pipeline Development Program",
+    "amount": "25,000 USD requested",
+    "role": "Principal Investigator",
+    "period": "Summer 2026",
+    "status": "Listed under not funded in the revised CV"
+  }
+]

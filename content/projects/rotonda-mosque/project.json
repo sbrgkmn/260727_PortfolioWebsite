@@ -1,0 +1,15 @@
+{
+  "slug": "rotonda-mosque",
+  "section": "work",
+  "title": "Rotonda Mosque",
+  "year": "2019",
+  "subtitle": "Mosque Design Competition · Gaziantep",
+  "layout": "wide",
+  "tags": ["Previous Work", "Competition", "Architecture"],
+  "coverImage": "/projects/rotonda-mosque/cover.webp",
+  "coverAlt": "Rotonda Mosque design competition proposal",
+  "summary": "A mosque proposal combining a faceted central dome with a sequence of smaller vaulted volumes.",
+  "body": ["Submitted to the Mosque Design Competition in Gaziantep."],
+  "facts": [["Type", "Architecture competition"], ["Location", "Gaziantep"], ["Year", "2019"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [53]}
+}

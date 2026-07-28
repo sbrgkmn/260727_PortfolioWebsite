@@ -1,0 +1,1194 @@
+Source: Teaching_Portfolio.pdf
+Selected PDF pages: 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49
+
+===== PDF PAGE 38 =====
+74
+75
+GOKMEN TEACHING
+Computational Practice
+Computational Design Seminar
+*The course was taught across Spring 2025  (64 stu-
+dents) and Spring 2026 (80 students), with the struc-
+ture evolving through repeated delivery and expanded 
+support from teaching assistants.
+Course Summary 
+Computational Practice introduced students to 
+contemporary methods in computational design 
+through the combined study of parametric modeling, 
+geometry, materiality, and digital fabrication. As part 
+of the computational design curriculum, the course 
+advanced students from foundational parametric con-
+cepts toward architectural applications that connect 
+digital workflows with physical production. 
+ 
+The seminar followed a dual trajectory: paramet-
+ric façades and minimal surfaces. These two topics 
+allowed students to explore computation at different 
+scales and through different mediums. The façade 
+module focused on precedent analysis, parametric 
+modeling, and geometric variation. The minimal 
+surface module shifted toward form-finding, topolo-
+gy, mesh modeling, physics-based simulation, digital 
+fabrication, and installation-scale assembly. T ogether, 
+the course positioned computational practice as both 
+a technical discipline and a design methodology. 
+ 
+The course emphasized that computational tools 
+are most valuable when they support design rigor. 
+Students were asked to move beyond software execu-
+tion and toward an understanding of how geometric 
+systems are structured, controlled, varied, fabricated, 
+and evaluated. Assignments introduced progressively 
+complex workflows, helping students develop con-
+fidence in Rhinoceros, Grasshopper, and associated 
+plug-ins while connecting digital models to architec-
+tural problems. 
+ 
+Methodology 
+The semester was organized around twelve weekly 
+exercises and two major group projects for a large 
+cohort of students. Each exercise introduced a specific 
+computational workflow, gradually building student 
+competency in computational tools and workflows. 
+This scaffolded structure allowed students to build flu-
+ency through repetition while applying each new skill 
+to a larger project sequence. 
+ 
+The course operated as an open workshop environ-
+ment. Approximately thirty percent of class time was 
+dedicated to lectures, demonstrations, and concep-
+tual introductions, while seventy percent was work-
+shop-based. Students followed online tutorials pre-
+pared by the instructor, worked through template files 
+and scripts, and received technical support from the 
+instructor and teaching assistants during class. This 
+format allowed students to proceed at different speeds, 
+revisit material independently, and develop practical 
+skills through guided experimentation. 
+ 
+Course Structure 
+The semester was divided into three instructional 
+sequences: Parametric Façades, Generative AI W ork-
+shop, and Minimal Surfaces. 
+ 
+Module I: Parametric Façades 
+The first module introduced students to parametric 
+façade systems through precedent analysis and gen-
+erative modeling. W orking in pairs, students selected 
+contemporary façade precedents and developed scripts 
+capable of reproducing and varying their geometric 
+systems. W eekly workshops introduced NURBS mod-
+eling, graph structures, logic operators, subdivision, 
+panelization, and façade system development. The fi-
+nal outcome included a scaled model of the precedent 
+façade and a series of parametric variations. 
+ 
+This module asked students to understand façades 
+as systems of rules, subdivisions, panels, and variable 
+geometric relationships. Through this process, stu-
+dents learned how computational tools can be used 
+to analyze architectural precedents and translate them 
+into operational design systems. 
+ 
+Module II: AI W orkshop 
+A one-day AI workshop introduced students to Stable 
+Diffusion workflows for architectural visualization. 
+Students used AI-assisted rendering as a representa-
+tional extension of their parametric work, testing how 
+image-generation tools could support visual explora-
+tion, atmosphere, and communication. This module 
+connected computational modeling to emerging 
+visualization techniques and helped students situate 
+AI within a broader design workflow. 
+ 
+Module III: Minimal Surfaces 
+The second major project focused on minimal sur-
+faces, form-finding, and digital fabrication. W orking 
+in groups of three or four, students developed topo-
+logical models that could be rationalized, segmented, 
+fabricated, and assembled as installation-scale projects. 
+W orkshops introduced mesh modeling, W eaverbird, 
+Kangaroo physics, mesh segmentation, joinery, and 
+fabrication workflows. 
+ 
+This module emphasized the relationship between 
+geometry and material assembly. Students translat-
+ed abstract computational forms into constructible 
+systems, developing protocols for fabrication, jointing, 
+segmentation, and physical construction. The final 
+work demonstrated how computational geometry 
+can move from screen-based exploration into material 
+practice. 
+ 
+Student W ork Presented 
+The student work from this course documents a pro-
+gression from precedent-based parametric modeling to 
+digitally fabricated minimal surface installations. Proj-
+ects include façade analyses, parametric variation ma-
+trices, AI-assisted renderings, mesh-based form-finding 
+studies, fabrication diagrams, joinery systems, mock-
+ups, and installation-scale assemblies. 
+ 
+Learning Outcomes 
+Students developed technical proficiency in Rhi-
+noceros, Grasshopper, and computational modeling 
+workflows while strengthening their ability to think 
+through geometry, topology, variation, and fabrica-
+tion. They learned to analyze architectural precedents 
+as parametric systems, construct scripts that produce 
+controlled design variations, translate digital geom-
+etry into physical models, and collaborate on fabri-
+cation-based projects. The course reinforced com-
+putational design as a process-oriented practice that 
+connects research, experimentation, representation, 
+materiality, and making.
+UNC Charlotte School of Architecture 
+ 
+Instructor:  
+Sabri Gökmen 
+Teaching Assistants:  
+Anthony Espinosa Bravo, Spring 2025 
+Cooper Schwartz, Spring 2025  
+Balinase Kaonga, Spring 2026 
+Kayla Marindin, Spring 2026
+ARCH 4605/5605 | Computational Design Seminar | Spring 2025 + Spring 2026*
+COMPUTATIONAL PRACTICE
+
+===== PDF PAGE 39 =====
+76
+77
+GOKMEN TEACHING
+Mattie Smith + Jonah Jones 
+Computational Design Seminar
+Computational Practice
+W atson Davenport + Carter Bestafka
+Robotic 
+Fiber-Wounded
+Modules
+Unit Module
+Interwoven
+Black Carbon and 
+White Glass
+Fibers
+Paneling Strategy
+Attachment Points
+Robotic 
+Fiber-Wounded
+Modules
+Points from two opposing sides are wound with a central “pin” point. 
+The points are interpolated to simulate the winding around a pin process
+The number slider controls the size of the 
+opening and the spacing of the pins
+Our ﬁnal facade renders
+Subdivided triangle 
+generates woven curve
+Changing the LunchBox paneling 
+component alters and changes the 
+overall facade pattern. 
+Larger than or smaller than compo-
+nents can also assists in distributing 
+different sized openings over the facade
+Subdivided triangle 
+generates woven curve
+Changing the LunchBox paneling 
+component alters and changes the 
+overall facade pattern. 
+Larger than or smaller than compo-
+nents can also assists in distributing 
+different sized openings over the facade
+
+===== PDF PAGE 40 =====
+78
+79
+GOKMEN TEACHING
+Sene Cherry + Gabriella Ciceron
+Nick Vuchev
+BLACK   |   VUCHEV  
+PARAMETRIC PANEL
+04
+Variations
+Building: Dear Ginza Building, Amano Design Office
+Location: Tokyo, JP
+facade variation 1 facade variation 2
+perforated panel area 
+without the disruption of 
+metal flowers creates a nice, 
+illuminant facade that plays 
+with light and shadow
+standard facade with not 
+metal flowers, but instead 
+with open apertures where 
+panels are missing that 
+create a figure/ ground 
+resemblance and allows for 
+the exterior to breach into 
+the interior with certain 
+views
+area with flowers 
+create a positive 
+disruption that 
+catches the eye
+BLACK   |   VUCHEV  
+PARAMETRIC PANEL
+Script Diagrams - Triangular Perforation
+Building: Dear Ginza Building, Amano Design Office
+Location: Tokyo, JP
+triangular geometries pipe fold perforate
+Each panel is different and unique in their own 
+way, yet they all still compliment one another. 
+With each one being triangular and perforated, 
+they create relationships that influence how 
+light and air filter through the panels. Some 
+panels fold over another, and create shade, 
+when another could be almost flat-facing the 
+sun, allowing for light infiltration. This results in 
+shadow patterns within the building that differ 
+throughout the day.
+these commands create 
+the mesh
+panel variation 1
+panel variation 2
+panel variation 3
+these commands create 
+the panel framing
+these commands create the 
+perforations on the panels
+panel formation
+panel variations
+02
+We began by generating elliptical profiles in Grasshopper
+and experimenting with multiplication and rotated copies,
+stacking each ellipse vertically while rotating it at twice
+the angle of the profile below to produce a continuous
+twisting motion. These layered curves were lofted to
+establish the initial tower form, allowing us to study
+rotational geometry before refining the mass through
+SubD modeling. From this sculpted volume, we derived
+floor-by-floor sections to generate parametric slabs and
+continuous balcony rings, translating abstract geometry
+into inhabitable space. Balcony edge curves then became
+the driving logic for the railing system, where evenly
+spaced vertical posts and continuous handrails were
+developed as a modular component, enabling the façade,
+balconies, and circulation elements to respond
+dynamically as a unified parametric system.
+Repeated Planes Extruded Slabs Facade and HandrailsElliptical Rotation
+4
+Slab Surfaces
+ELLIPTICAL
+PARAMETER LOGIC
+10
+RENDERS
+5
+Curtain Wall & Mullions
+Railing Pipes
+Before transitioning into SubD, we began by generating stacked elliptical profiles in Grasshopper, rotating each curve at twice
+the angle of the one below to produce a spiraling vertical system. These curves were lofted to establish the primary tower
+mass, allowing us to explore rotational continuity through NURBS geometry, while a separate control script enabled us to
+manipulate the entire form through a single parameter slider. From this lifted spiral, we extracted guiding lines that informed
+our curtain wall system, using this logic to organize façade panel placement and vertical rhythm. The mullions were thickened
+using the Pipe command to establish structural hierarchy, emphasizing primary vertical elements while allowing secondary
+members to remain lighter and more transparent.
+CURTAIN WALL & RAILING PIPES PARAMETER LOGIC
+Curve Divide Curve Extrude Curve Pipe
+Balcony Dividers
+List Item 
+(isolate one edge of
+individual panel)
+Computational Design Seminar
+03BLACK   |   VUCHEV  
+PARAMETRIC PANEL
+Script Diagrams - Flower Panels
+Building: Dear Ginza Building, Amano Design Office
+Location: Tokyo, JP
+import Rhino.Geometry as rg
+import math
+# Initialize the output list
+FlowerCurves = []
+# Loop through every hole plane you generated
+for plane in Planes:
+    points = []
+    num_samples = 100 # Controls how smooth the curve is
+    
+    for i in range(num_samples):
+        # Calculate the angle in radians
+        t = (i / float(num_samples)) * 2 * math.pi
+        
+        # The polar math magic for the flower shape
+        r = BaseRadius + Amplitude * math.cos(Petals * t)
+        
+        # Convert polar back to Cartesian (X, Y)
+        x = r * math.cos(t)
+        y = r * math.sin(t)
+        
+        # Map the 2D flower onto your 3D panel's plane
+        pt = plane.PointAt(x, y)
+        points.append(pt)
+        
+    # Add the very first point to the end to perfectly close the shape
+    points.append(points[0])
+    
+    # Generate a smooth NURBS curve from the points
+    curve = rg.Curve.CreateInterpolatedCurve(points, 3)
+    FlowerCurves.append(curve)
+flower facade variation 1 flower facade variation 2 flower facade variation 3
+Shallow facade with standard amount of 
+panels & sizing. Flower design embedded 
+into the panel system in order to represent 
+the facade from the Dear Ginza building.
+Steep facade with three times the 
+amount of panels - changed through 
+grasshopper/ python parameters. Larger 
+flowers embedded into the panel system to 
+represent the facade from the Dear Ginza 
+building. Two layers are stacked to create 
+more volume and depth.
+Steeper facade with double the amount of 
+panels. Larger flowers embedded into the 
+panel system to represent the facade from 
+the Dear Ginza building. Voids are created in 
+place to create apertures that will be used 
+as windows.
+metal flowers 
+embedded 
+within the 
+facade large, multi-
+layered 
+paneling 
+system
+large, single-
+layered 
+paneling 
+system
+layered 
+metal flowers 
+embedded 
+everywhere 
+within the 
+facade
+layered 
+metal flowers 
+embedded 
+sporadically 
+within the 
+facade
+large, multi-
+layered 
+paneling 
+system
+python script that creates 
+the metal flowers, assisting 
+the grasshopper script with 
+the base of the triangular, 
+perforated facade.
+8
+LOBBY AND PENTHOUSE
+CURTAIN WALL
+ROOF TO END CURTAIN WALL 
+We began by referencing an elliptical curve that defines the
+perimeter of the mechanical penthouse enclosure at the top of
+the tower. Using a series of vertical translations in the Z
+direction, the ellipse was duplicated and stacked at consistent
+heights to establish the horizontal glass bands, which were then
+lofted to create the continuous glazed enclosure. To articulate
+the façade system, the base ellipse was divided into evenly
+spaced points that generate vertical mullion lines extending the
+full height of the enclosure. These lines were then piped to
+produce the structural mullion elements, creating a parametric
+glass room whose height, band spacing, and mullion density
+can all be adjusted through slider parameters.
+Curve
+Divide Curve Move (Z Axis)
+Move (Z Axis)
+Loft Pipe
+Pipe
+Curve Surface Edge Extrude (Z Axis)
+Computational Practice
+
+===== PDF PAGE 41 =====
+80
+81
+GOKMEN TEACHING
+Danielle Heckler + Robert T omazic
+Kennedy Reid + Karmyn Sessoms
+Ciudad de Leon Auditorium, Mansilla Tunon
+Variation 1
+ Variation 2
+ Variation 3
+Facade has varying sizes of square that 
+have apatures that open to the interior 
+that allow for lighting a nice views out
+This drawing shows the variation in apature location in 
+plan view
+Facade has varying sizes of square that 
+have apatures that open to the interior 
+that allow for lighting a nice views out
+This drawing shows the variation in apature location in 
+plan view
+Divided surface Randomly segmented surface
+Cull patterns
+Geometry 1 inserted Geometry 2 inserted Geometry 3 inserted
+Top view of varying angles within facade paneling 
+Side view
+Front view of facade with varying angled inset panels
+SW Isometric View
+/gid00017/gid00035/gid00028/gid00045/gid00040/gid00028/gid00030/gid00042/gid00039/gid00042/gid00034/gid00036/gid00030/gid00028/gid00039/gid00001/gid00019/gid00032/gid00046/gid00032/gid00028/gid00045/gid00030/gid00035/gid00001/gid00013/gid00028/gid00029/gid00042/gid00045/gid00028/gid00047/gid00042/gid00045/gid00036/gid00032/gid00046/gid00023/gid00028/gid00045/gid00036/gid00028/gid00047/gid00036/gid00042/gid00041/gid00046/gid00001/gid00194/gid00001/gid00002/gid00047/gid00047/gid00045/gid00028/gid00030/gid00047/gid00042/gid00045/gid00001/gid00017/gid00042/gid00036/gid00041/gid00047/gid00046/gid00001/gid00194/gid00001/gid00019/gid00042/gid00047/gid00028/gid00047/gid00036/gid00042/gid00041/gid00001/gid00194/gid00001/gid00010/gid00040/gid00028/gid00034/gid00032/gid00001/gid00020/gid00028/gid00040/gid00043/gid00039/gid00036/gid00041/gid00034
+/gid00136
+/gid00138
+/gid00139
+/gid00017/gid00035/gid00028/gid00045/gid00040/gid00028/gid00030/gid00042/gid00039/gid00042/gid00034/gid00036/gid00030/gid00028/gid00039/gid00001/gid00019/gid00032/gid00046/gid00032/gid00028/gid00045/gid00030/gid00035/gid00001/gid00013/gid00028/gid00029/gid00042/gid00045/gid00028/gid00047/gid00042/gid00045/gid00036/gid00032/gid00046/gid00020/gid00030/gid00045/gid00036/gid00043/gid00047/gid00001/gid00005/gid00032/gid00049/gid00032/gid00039/gid00042/gid00043/gid00040/gid00032/gid00041/gid00047/gid00001/gid00194/gid00001/gid00002/gid00047/gid00047/gid00045/gid00028/gid00030/gid00047/gid00042/gid00045/gid00001/gid00017/gid00042/gid00036/gid00041/gid00047/gid00046/gid00001/gid00194/gid00001/gid00019/gid00042/gid00047/gid00028/gid00047/gid00036/gid00042/gid00041/gid00001/gid00194/gid00001/gid00010/gid00040/gid00028/gid00034/gid00032/gid00001/gid00020/gid00028/gid00040/gid00043/gid00039/gid00036/gid00041/gid00034
+/gid00017/gid00035/gid00028/gid00045/gid00040/gid00028/gid00030/gid00042/gid00039/gid00042/gid00034/gid00036/gid00030/gid00028/gid00039/gid00001/gid00019/gid00032/gid00046/gid00032/gid00028/gid00045/gid00030/gid00035/gid00001/gid00013/gid00028/gid00029/gid00042/gid00045/gid00028/gid00047/gid00042/gid00045/gid00036/gid00032/gid00046/gid00023/gid00028/gid00045/gid00036/gid00028/gid00047/gid00036/gid00042/gid00041/gid00046/gid00001/gid00194/gid00001/gid00002/gid00047/gid00047/gid00045/gid00028/gid00030/gid00047/gid00042/gid00045/gid00001/gid00017/gid00042/gid00036/gid00041/gid00047/gid00046/gid00001/gid00194/gid00001/gid00019/gid00042/gid00047/gid00028/gid00047/gid00036/gid00042/gid00041/gid00001
+/gid00002 /gid00003 /gid00004 /gid00002 /gid00003 /gid00004
+ This script explores projecting images onto 
+surfaces through image sampling. Creating 
+custom domain and range number sliders 
+allows for adjustments in the spacing of the 
+panels. This can create interstitial spaces or 
+overlapping panels in either the X or Y 
+direction. There is also a number slider to 
+account for the angle of rotation on the panels 
+closest to the movable attractor points.  
+Variations of these parameters can create 
+arrays that incorporate diﬀerent images and 
+color palettes as well as compositions of void 
+and space exposed by either rotation or 
+spacing of panels.
+/gid00017/gid00035/gid00028/gid00045/gid00040/gid00028/gid00030/gid00042/gid00039/gid00042/gid00034/gid00036/gid00030/gid00028/gid00039/gid00001/gid00019/gid00032/gid00046/gid00032/gid00028/gid00045/gid00030/gid00035/gid00001/gid00013/gid00028/gid00029/gid00042/gid00045/gid00028/gid00047/gid00042/gid00045/gid00036/gid00032/gid00046/gid00023/gid00028/gid00045/gid00036/gid00028/gid00047/gid00036/gid00042/gid00041/gid00046/gid00001/gid00194/gid00001/gid00002/gid00047/gid00047/gid00045/gid00028/gid00030/gid00047/gid00042/gid00045/gid00001/gid00017/gid00042/gid00036/gid00041/gid00047/gid00046/gid00001/gid00194/gid00001/gid00019/gid00042/gid00047/gid00028/gid00047/gid00036/gid00042/gid00041/gid00001/gid00194/gid00001/gid00010/gid00040/gid00028/gid00034/gid00032/gid00001/gid00020/gid00028/gid00040/gid00043/gid00039/gid00036/gid00041/gid00034
+/gid00002 /gid00003 /gid00004
+Computational Practice
+Computational Design Seminar
+
+===== PDF PAGE 42 =====
+82
+83
+GOKMEN TEACHING
+Hannah Grace Coker + Emily Fox
+Script Diagrams
+Variations
+01
+Small & Condensed
+02
+Mid Range Variation - Precedent Match
+03
+Large Dispersed Panels
+Computational Practice
+AERIAL VIEW
+LONGITUDINAL SECTION TRANSVERSE SECTION
+Roof Glass 
+Panels 
+change in 
+length dimen-
+sion gradually 
+depending on 
+wave length 
+relationship 
+mirrored.
+The lineaments of the envelope breaks down the schematics 
+of parametric form. In aerial view, strecthed bays are length-
+ed in amplitude, then responding in height of the curves in 
+section. In the transverse section, the angle trajectory from 
+the ground is highest at these bays as well.
+FACADE SYSTEM DOCUMENTATION
+The panels, instead of defining the patterning of the facade, 
+are fillers between the repetitive pattern of the dynaic enve-
+lope. Through observation, we are able to alter the glass 
+panels through manipulating the framing in both plan and 
+section.
+Curtain Wall 
+Glass Panels 
+shift in the 
+z-plane 
+gradually, 
+again, depen-
+ing on the 
+wave length 
+relationship 
+copied.
+Mediopadana Station | Santiago Calatrava
+Reggio Emilia, Italy 2013
+Located in Reggio Emilia, Italy the Mediopadana station designed by the 
+famous Santiago Calatrava creates a beautiful skeletal-like structure. The 
+building primarily compromises its enveloped facade, encapsulating the 
+station from front to back. The form resembles waves with both vertical 
+and horizontal directionality. The top canopy is aligned with glass that 
+runs along the steel waves making it look like there is only the skeletal 
+structure above. Lastly, the structure itself uses 25 steel ports and reaches 
+a total distance of 483 meters. 
+Computational Practice - A1 - Group 24
+AERIAL VIEW
+LONGITUDINAL SECTION TRANSVERSE SECTION
+Roof Glass 
+Panels 
+change in 
+length dimen-
+sion gradually 
+depending on 
+wave length 
+relationship 
+mirrored.
+The lineaments of the envelope breaks down the schematics 
+of parametric form. In aerial view, strecthed bays are length-
+ed in amplitude, then responding in height of the curves in 
+section. In the transverse section, the angle trajectory from 
+the ground is highest at these bays as well.
+FACADE SYSTEM DOCUMENTATION
+The panels, instead of defining the patterning of the facade, 
+are fillers between the repetitive pattern of the dynaic enve-
+lope. Through observation, we are able to alter the glass 
+panels through manipulating the framing in both plan and 
+section.
+Curtain Wall 
+Glass Panels 
+shift in the 
+z-plane 
+gradually, 
+again, depen-
+ing on the 
+wave length 
+relationship 
+copied.
+Mediopadana Station | Santiago Calatrava
+Reggio Emilia, Italy 2013
+Located in Reggio Emilia, Italy the Mediopadana station designed by the 
+famous Santiago Calatrava creates a beautiful skeletal-like structure. The 
+building primarily compromises its enveloped facade, encapsulating the 
+station from front to back. The form resembles waves with both vertical 
+and horizontal directionality. The top canopy is aligned with glass that 
+runs along the steel waves making it look like there is only the skeletal 
+structure above. Lastly, the structure itself uses 25 steel ports and reaches 
+a total distance of 483 meters. 
+Computational Practice - A1 - Group 24
+AERIAL VIEW
+LONGITUDINAL SECTION TRANSVERSE SECTION
+Roof Glass 
+Panels 
+change in 
+length dimen-
+sion gradually 
+depending on 
+wave length 
+relationship 
+mirrored.
+The lineaments of the envelope breaks down the schematics 
+of parametric form. In aerial view, strecthed bays are length-
+ed in amplitude, then responding in height of the curves in 
+section. In the transverse section, the angle trajectory from 
+the ground is highest at these bays as well.
+FACADE SYSTEM DOCUMENTATION
+The panels, instead of defining the patterning of the facade, 
+are fillers between the repetitive pattern of the dynaic enve-
+lope. Through observation, we are able to alter the glass 
+panels through manipulating the framing in both plan and 
+section.
+Curtain Wall 
+Glass Panels 
+shift in the 
+z-plane 
+gradually, 
+again, depen-
+ing on the 
+wave length 
+relationship 
+copied.
+Mediopadana Station | Santiago Calatrava
+Reggio Emilia, Italy 2013
+Located in Reggio Emilia, Italy the Mediopadana station designed by the 
+famous Santiago Calatrava creates a beautiful skeletal-like structure. The 
+building primarily compromises its enveloped facade, encapsulating the 
+station from front to back. The form resembles waves with both vertical 
+and horizontal directionality. The top canopy is aligned with glass that 
+runs along the steel waves making it look like there is only the skeletal 
+structure above. Lastly, the structure itself uses 25 steel ports and reaches 
+a total distance of 483 meters. 
+Computational Practice - A1 - Group 24
+Evan Acome + Kim T ruong
+Computational Design Seminar
+
+===== PDF PAGE 43 =====
+84
+85
+GOKMEN TEACHING
+Sene Cherry + Gabriella Ciceron
+AJ Jackson + Ania Suber
+SCRIPT PROCESS (CONTINUATION OF A2 ADDING GLASS TO FACADE)
+STEP 1 : OUTLINE OF THE WINDOW WAS CREATED WITH THE INNER OUTLINE 
+OF THE FACADE PANEL
+STEP 3 : THE OUTLINE WAS THEN PATCHED TO CREATE A SURFACE
+STEP 2 : THE OUTLINE WAS MOVED TO MEET THE MIDPOINT OF THE FACADE 
+PANEL
+STEP 4 : THICKNESS WAS THEN ADDED TO MAKE A GLASS PANEL
+GRASSHOPPER SCRIPT
+A3 - ADDITION OF THE GLASS 
+SCRIPT PROCESS (CONTINUATION OF A2 ADDING GLASS TO FACADE)
+STEP 1 : OUTLINE OF THE WINDOW WAS CREATED WITH THE INNER OUTLINE 
+OF THE FACADE PANEL
+STEP 3 : THE OUTLINE WAS THEN PATCHED TO CREATE A SURFACE
+STEP 2 : THE OUTLINE WAS MOVED TO MEET THE MIDPOINT OF THE FACADE 
+PANEL
+STEP 4 : THICKNESS WAS THEN ADDED TO MAKE A GLASS PANEL
+GRASSHOPPER SCRIPT
+A3 - ADDITION OF THE GLASS 
+RENDERS
+FACADE WITH GLASS PANELSGLASS PANELS WITHOUT FRAME
+FACADE SURFACES
+APPLIED SURFACE 
+DIVSION (DIFFERENT
+SCALES) 
+OBJECT IN FILL ON 
+SURFACE DIVISON (CAN 
+RANDOMIZE WHERE 
+THESE GO)
+OBJECTS
+DIAGRAM OF HOW SCRIPT WORKS FOR ONE FACADE SURFACE
+PARAMETERS AND VARIABILITY APPLY TO ALL SURFACES
+Plane
+Object 1
+Object 1
+Object 3
+Object 3
+Object 4 Object 4
+Object 2
+Object 2
+Divide Panel Objects Object Infill
+**All darker purple highlighted elements are 
+paramaters used to create parametric variations
+Parameters:
+- Division of surface (can change to have 
+more or less panels in the surface)
+-For the Geomentries the Height of the 
+opening can change and be moved around 
+(change in Z axis of object)
+-Can also change the pinch size of the 
+opening of the objects
+-The randomaziation of which objects are 
+placed where can also be changed
+VARIATIONS
+Combonation of different divisions of surface
+-Randomized object placement (seed)
+-Objects at different infill scales
+More division of the surfaces
+-Randomized object placement (seed)
+-Infills are different for each side
+Less division of the surfaces
+-Randomized object placement (seed)
+-Infills are different for each side
+VARIATION 1 VARIATION 2 VARIATION 3
+RENDERINGS OF VARIATION 3
+Computational Design Seminar
+Computational Practice
+
+===== PDF PAGE 44 =====
+86
+87
+GOKMEN TEACHING
+Computational Design Seminar
+Computational Practice
+BESTAFKA   |   MATHIS   |   VUCHEV  
+MINIMAL SURFACE MODEL
+“Scherk with Handle” Parametric Modeling & Documentation
+Stripping the Mesh
+This variation of the scherk with handle explores the handle element, and how units of the handle segment can be 
+oriented together to create one unified mesh with quads that flow together nicely. The final geometry features three 
+cells offset from eachother in a checkerboard pattern. Each cell features a standard scherk at the bottom with a hole (or 
+handle) connecting the upper surfaces together. 
+07
+inner face outer face
+/gid00004/gid00016/gid00015/gid00020/gid00021/gid00019/gid00022/gid00004/gid00021/gid00010/gid00016/gid00015/gid00001/gid00005/gid00016/gid00004/gid00022/gid00014/gid00006/gid00015/gid00021/gid00002/gid00021/gid00010/gid00016/gid00015/gid00001/gid00183/gid00001/gid00013/gid00002/gid00020/gid00006/gid00019/gid00001/gid00021/gid00006/gid00014/gid00017/gid00013/gid00002/gid00021/gid00006
+/gid00015/gid00006/gid00004/gid00006/gid00020/gid00020/gid00002/gid00019/gid00026/gid00001/gid00014/gid00002/gid00021/gid00006/gid00019/gid00010/gid00002/gid00013/gid00020/gid00001/gid00030/gid00048/gid00047/gid00047/gid00036/gid00041/gid00034/gid00001/gid00042/gid00048/gid00047/gid00001
+/gid00028/gid00039/gid00039/gid00001/gid00138/gid00133/gid00001/gid00043/gid00036/gid00032/gid00030/gid00032/gid00046/gid00001/gid00045/gid00032/gid00044/gid00048/gid00036/gid00045/gid00032/gid00031/gid00001/gid00135/gid00001/gid00046/gid00035/gid00032/gid00032/gid00047/gid00046/gid00001/gid00042/gid00033/gid00001/gid00135/gid00139/gid00051/gid00133/gid00135/gid00001
+/gid00036/gid00041/gid00030/gid00035/gid00001/gid00134/gid00131/gid00131/gid00001/gid00034/gid00046/gid00040/gid00001/gid00029/gid00045/gid00036/gid00046/gid00047/gid00042/gid00039/gid00001/gid00043/gid00028/gid00043/gid00032/gid00045/gid00001/gid00028/gid00041/gid00031/gid00001/gid00136/gid00001/gid00046/gid00035/gid00032/gid00032/gid00047/gid00046/gid00001/gid00042/gid00033/gid00001
+/gid00133/gid00136/gid00051/gid00132/gid00140/gid00001/gid00036/gid00041/gid00030/gid00035/gid00001/gid00034/gid00045/gid00028/gid00052/gid00001/gid00030/gid00042/gid00041/gid00046/gid00047/gid00045/gid00048/gid00030/gid00047/gid00036/gid00042/gid00041/gid00001/gid00043/gid00028/gid00043/gid00032/gid00045/gid00163
+/gid00013/gid00002/gid00003/gid00006/gid00013/gid00013/gid00010/gid00015/gid00008/gid00001/gid00004/gid00016/gid00015/gid00023/gid00006/gid00015/gid00021/gid00010/gid00016/gid00015/gid00001/gid00039/gid00028/gid00029/gid00032/gid00039/gid00036/gid00041/gid00034/gid00001
+/gid00050/gid00028/gid00046/gid00001/gid00029/gid00028/gid00046/gid00032/gid00031/gid00001/gid00042/gid00041/gid00001/gid00047/gid00035/gid00032/gid00001/gid00028/gid00041/gid00041/gid00042/gid00047/gid00028/gid00047/gid00036/gid00042/gid00041/gid00001/gid00031/gid00042/gid00047/gid00046/gid00001/gid00050/gid00036/gid00047/gid00035/gid00036/gid00041/gid00001
+/gid00045/gid00035/gid00036/gid00041/gid00042/gid00163/gid00001/gid00020/gid00036/gid00041/gid00030/gid00032/gid00001/gid00047/gid00035/gid00032/gid00045/gid00032/gid00001/gid00028/gid00045/gid00032/gid00001/gid00047/gid00050/gid00042/gid00001/gid00046/gid00032/gid00047/gid00046/gid00001/gid00042/gid00033/gid00001/gid00031/gid00036/gid00045/gid00032/gid00030/gid00047/gid00036/gid00042/gid00041/gid00183
+/gid00028/gid00039/gid00046/gid00001/gid00187/gid00048/gid00001/gid00028/gid00041/gid00031/gid00001/gid00049/gid00001/gid00040/gid00032/gid00040/gid00029/gid00032/gid00045/gid00046/gid00188/gid00164/gid00001/gid00047/gid00035/gid00032/gid00045/gid00032/gid00001/gid00028/gid00045/gid00032/gid00001/gid00047/gid00050/gid00042/gid00001
+/gid00041/gid00048/gid00040/gid00029/gid00032/gid00045/gid00001/gid00046/gid00032/gid00047/gid00046/gid00165/gid00001/gid00132/gid00183/gid00132/gid00137/gid00164/gid00001/gid00028/gid00041/gid00031/gid00001/gid00132/gid00183/gid00001/gid00136/gid00137/gid00163/gid00001/gid00007/gid00042/gid00045/gid00001/gid00047/gid00035/gid00032/gid00001/gid00039/gid00042/gid00041/gid00034/gid00001
+/gid00043/gid00036/gid00032/gid00030/gid00032/gid00046/gid00001/gid00132/gid00183/gid00132/gid00137/gid00164/gid00001/gid00047/gid00035/gid00032/gid00001/gid00043/gid00036/gid00032/gid00030/gid00032/gid00046/gid00001/gid00028/gid00045/gid00032/gid00001/gid00031/gid00036/gid00126/gid00032/gid00045/gid00032/gid00041/gid00047/gid00036/gid00028/gid00047/gid00032/gid00031/gid00001
+/gid00032/gid00041/gid00042/gid00048/gid00034/gid00035/gid00001/gid00047/gid00035/gid00028/gid00047/gid00001/gid00050/gid00032/gid00001/gid00030/gid00028/gid00041/gid00001/gid00030/gid00042/gid00048/gid00039/gid00031/gid00001/gid00036/gid00031/gid00032/gid00041/gid00047/gid00036/gid00033/gid00052/gid00001/gid00047/gid00035/gid00032/gid00040/gid00001
+/gid00050/gid00036/gid00047/gid00035/gid00042/gid00048/gid00047/gid00001/gid00040/gid00028/gid00045/gid00038/gid00036/gid00041/gid00034/gid00001/gid00047/gid00035/gid00032/gid00040/gid00163/gid00001/gid00003/gid00048/gid00047/gid00164/gid00001/gid00033/gid00042/gid00045/gid00001/gid00047/gid00035/gid00032/gid00001/gid00046/gid00035/gid00042/gid00045/gid00047/gid00001
+/gid00043/gid00036/gid00032/gid00030/gid00032/gid00046/gid00001/gid00187/gid00132/gid00183/gid00136/gid00137/gid00188/gid00001/gid00032/gid00041/gid00034/gid00045/gid00028/gid00049/gid00036/gid00041/gid00034/gid00046/gid00001/gid00050/gid00032/gid00045/gid00032/gid00001/gid00028/gid00031/gid00031/gid00032/gid00031/gid00001/gid00029/gid00052/gid00001
+/gid00047/gid00035/gid00032/gid00001/gid00039/gid00042/gid00028/gid00046/gid00032/gid00045/gid00001/gid00046/gid00042/gid00001/gid00047/gid00035/gid00028/gid00047/gid00001/gid00050/gid00032/gid00001/gid00030/gid00042/gid00048/gid00039/gid00031/gid00001/gid00032/gid00028/gid00046/gid00036/gid00039/gid00052/gid00001/gid00036/gid00031/gid00032/gid00041/gid00047/gid00036/gid00033/gid00052/gid00001
+/gid00050/gid00035/gid00036/gid00030/gid00035/gid00001/gid00043/gid00036/gid00032/gid00030/gid00032/gid00001/gid00050/gid00028/gid00046/gid00001/gid00050/gid00035/gid00036/gid00030/gid00035/gid00163
+03
+MINIMAL SURFACE MODEL
+BESTAFKA   |   MATHIS   |   VUCHEV  
+“Scherk with Handle” Parametric Modeling Documentation
+Form-Finding
+In order to understand the geometry of 
+the scherk with handle, it is important 
+to understand the basic scherk cell. 
+By looking at the Scherk with handle 
+alone, it is hard to comprehend its 
+construction, but by thinking about it 
+as a part of a whole that is isolated it is 
+easy to see how the geometry employs 
+the basic scherk cell. The geometry 
+displayed is derived from seven scherk 
+cells layed out in a checkerboard 
+pattern where the 3 middle cells are 
+scaled down in the x and y axis. Each 
+of these 3 middle cells features a 
+cylindrical span that connects the 
+upper walls of the scherk cell. The base 
+geometry is shown on the left. Once 
+joined and referenced as one Brep, the 
+grasshopper definition outputs a single 
+open mesh shown above.
+grasshopper script
+05
+MINIMAL SURFACE MODEL
+BESTAFKA   |   MATHIS   |   VUCHEV  
+“Scherk with Handle” Variations
+Form-Finding
+Using the basic scherk geometry, one side is 
+skewed at a 45 degree angle. Then, hollow cylinders 
+extrude outward from the flaps, creating beveled 
+punctures on each side of the scherk.
+Variation 4 Variation 5 Variation 6
+Using the typical scherk base geometry, hollow 
+cylinders connect the two sets of vertical flaps 
+on the top and bottom. When plugged into the 
+grasshopper definition, a scherk is created with 
+cylindrical bridges that span the width of the scherk
+A base geometry of a hollow 3D cross with 6 nodes  
+creates a minimal surface where the outside edges 
+remain square, while the connecting geometry 
+relaxes to create an organic web.
+04
+MINIMAL SURFACE MODEL
+BESTAFKA   |   MATHIS   |   VUCHEV  
+“Scherk with Handle” Variations
+Form-Finding
+Using the original Scherk-with-handle geometry, 
+the base formwork was mirrored vertically and left 
+untrimmed in its natural checkerboard pattern.
+The original formwork is flipped onto its side and 
+mirrored along the x-axis. The resulting geometry 
+generates large circular openings, with two small 
+holes positioned next to each other that pierce the 
+full length.
+The untrimmed version of the Scherk with handle 
+features altered proportions to make the side 
+“wings” smaller. The center point of these was also 
+lowered below the midpoint.
+Variation 1 Variation 2 Variation 3
+Carter Bestafka + Jonathan Mathis + Nick Vuchev
+/gid00045/gid00032/gid00041/gid00031/gid00032/gid00045/gid00046/gid00193/gid00049/gid00028/gid00045/gid00036/gid00028/gid00047/gid00036/gid00042/gid00041/gid00046
+/gid00049/gid00163/gid00132/gid00001/gid00036/gid00041/gid00030/gid00045/gid00032/gid00028/gid00046/gid00032/gid00031/gid00001/gid00028/gid00040/gid00042/gid00048/gid00041/gid00047/gid00049/gid00163/gid00133/gid00001/gid00031/gid00032/gid00030/gid00045/gid00032/gid00028/gid00046/gid00032/gid00031/gid00001/gid00028/gid00040/gid00040/gid00042/gid00048/gid00041/gid00047/gid00049/gid00163/gid00134/gid00001/gid00035/gid00036/gid00034/gid00035/gid00032/gid00045/gid00001/gid00046/gid00043/gid00039/gid00036/gid00047/gid00001/gid00035/gid00032/gid00036/gid00034/gid00035/gid00047/gid00049/gid00163/gid00135/gid00001/gid00047/gid00028/gid00039/gid00039/gid00032/gid00045/gid00001/gid00040/gid00042/gid00031/gid00048/gid00039/gid00032/gid00046/gid00049/gid00163/gid00136/gid00001/gid00050/gid00036/gid00031/gid00032/gid00045/gid00001/gid00040/gid00042/gid00031/gid00048/gid00039/gid00032/gid00046/gid00049/gid00163/gid00137/gid00001/gid00046/gid00035/gid00042/gid00045/gid00047/gid00032/gid00045/gid00001/gid00040/gid00042/gid00031/gid00048/gid00039/gid00032/gid00046
+/gid00019/gid00032/gid00041/gid00031/gid00032/gid00045/gid00001/gid00133/gid00019/gid00032/gid00041/gid00031/gid00032/gid00045/gid00001/gid00132
+/gid00012/gid00028/gid00041/gid00034/gid00028/gid00045/gid00042/gid00042/gid00001/gid00021/gid00036/gid00034/gid00035/gid00047/gid00032/gid00041/gid00036/gid00041/gid00034/gid00024/gid00032/gid00028/gid00049/gid00032/gid00045/gid00029/gid00036/gid00045/gid00031/gid00001/gid00046/gid00048/gid00029/gid00031/gid00036/gid00049/gid00036/gid00046/gid00036/gid00042/gid00041/gid00015/gid00048/gid00045/gid00029/gid00046/gid00001/gid00014/gid00042/gid00031/gid00032/gid00039/gid00036/gid00041/gid00034/gid00004/gid00042/gid00041/gid00047/gid00045/gid00042/gid00039/gid00046
+/gid00034/gid00045/gid00028/gid00046/gid00046/gid00035/gid00042/gid00043/gid00043/gid00032/gid00045
+/gid00046/gid00030/gid00045/gid00036/gid00043/gid00047/gid00163
+scherk surface U + V
+The surface is 
+understood in 
+a grid labeled 
+with the 
+relative 
+dimensions 
+(u) and (v)
+U V
+scherk surface U + V
+The surface is 
+understood in 
+a grid labeled 
+with the 
+relative 
+dimensions 
+(u) and (v)
+U V
+scherk surface U + V
+The surface is 
+understood in 
+a grid labeled 
+with the 
+relative 
+dimensions 
+(u) and (v)
+U V
+scherk surface U + V
+The surface is 
+understood in 
+a grid labeled 
+with the 
+relative 
+dimensions 
+(u) and (v)
+U V
+Ethan Elmer + Wills Sims + Leo Rossi
+
+===== PDF PAGE 45 =====
+88
+89
+GOKMEN TEACHING
+Evolution of The Schoen’s F-RD(r) Surface
+1. Geometry 2. Geometry 3. Mirror
+4. Mirror 5. Mirror z-axes 6. Rotate 90 degree
+Geometry
+Tags and Annotations
+ Laser-cut Pieces
+Unroll component and Building a gridMesh Topology Direction
+ Deconstruct Pieces
+Initial Mirror Symmetry
+Low Poly Mesh Constructed in Rhino
+Relaxed Surface with Grasshopper
+From Mirror To Surface:
+Final Minimal Surface
+Translating Low Poly Mesh to Minimal Surface
+Batwing Construction
+Initial Mirror Symmetry Two “Batwings”, which form a part 
+of the trisection
+Final FormThese two mirrored units form the 
+third stage of the trisection
+SCHOEN’S BA TWING SURFACE
+Minimal Surface Study | Topology + Symmetry
+Definition
+Schoen’s batwing surface is a minimal surface derived from the study of triply periodic 
+minimal surfaces. It is defined by zero mean curvature and constructed through symmetry 
+operations that generate a continuous, non-self-intersecting structure.
+Key Properties
+-Zero mean curvature (minimal surface)
+-Derived from TPMS framework
+-High genus (multiple openings)
+-Continuous surface (no edges or boundaries)
+Symmetry + Topology
+The surface is generated from a fundamental region using mirror and rotational 
+symmetry. A C2 symmetry axis (180° rotation) allows the formation of paired regions, 
+producing the characteristic “batwing” geometry. Repetition of these regions 
+constructs a cubic unit cell and larger periodic lattice.
+Topologically, the surface is continuous and high genus, forming an interconnected 
+network of voids without boundaries or self-intersections.
+14
+10 11 12
+13
+84321
+16
+6
+5
+24
+9
+7
+25
+LASERCUT SHEETS
+Lasercut on 18"x24" Bristol paper, 
+the 96 strips consist of five unique 
+sheets repeated to account for 
+the symmetry of our minimal 
+surface. The final physical model is 
+assembled as a 3x3x3 structure.
+The strips are connected through  
+tabs that create a flush edge and 
+are secured with split pins. This 
+technique emphasizes the 
+surface's topology, revealing the 
+specific transitions where the 
+minimal surface flips inside out.
+MODEL DET AILS JOINERY
+Split pins
+Step 1
+Step 2
+This portion organizes the pieces and 
+creates a midpoint for each strip of surface. 
+During model construction this will be used 
+for tagging the individual pieces
+The unrolling logic utilizes a 
+development algorithm to flatten 3D 
+components into 2D cutting patterns. 
+The indexing script transfers the labels 
+onto these templates, ensuring the 
+digital data is transferred to the 
+physical model
+This section applies forces tension, 
+pressure, and smoothing to the mesh so 
+it can relax into a minimal surface
+This component fixes certain points in 
+space so the mesh doesn’t collapse 
+during simulation
+This is the Kangaroo Solver, which 
+calculates the equilibrium state where 
+all forces balance to form the minimal 
+surface.
+This section extracts points and constrains 
+them to curves and meshes so the surface 
+deforms in a controlled way during 
+simulation
+PARAMETRIC MODELING & DOCUMENT A TION 1
+This section prepares and optimizes 
+the mesh so it behaves correctly in 
+the physics simulation
+This section converts the mesh edges 
+into spring forces, which simulate 
+tension across the surface
+Data logic and point generation, this 
+portion sections the surface into strips 
+going in the U and V direction. The more 
+amount of points, the smoother the 
+surface can be modeled. 
+Base geometry used as a canvas for all 
+subsequent parametric operations.
+This section acts as a visual 
+"check-point." By mapping the 
+construction logic to a color 
+spectrum, we can instantly verify 
+that the parametric data is 
+distributed correctly across the 
+model.
+PARAMETRIC MODELING & DOCUMENT A TION 2
+Sundus Abu Reyal + Koutar Baddy + Jenny Shima
+Navya Agrawal + Samantha Lopez Boza + Carolina Moreira + Paula Sanchez Barrera
+Computational Design Seminar
+Computational Practice
+
+===== PDF PAGE 46 =====
+90
+91
+GOKMEN TEACHING
+Horizontal Rings
+Inner Shell
+Outer Shell
+Vertical Strips
+Strip Division
+Horizontal Rings
+Inner Shell
+Outer Shell
+Vertical Strips
+Strip Division
+Physical Production
+123456789
+101112131415161718192021222324
+25
+26
+27
+28
+Rings Part List 1 2 3 4 5 6 7
+8 9 10 11 12 13 14
+15 16 17 18 19 20 21
+22 23 24 25 26 27 28
+Zoom Detail of Parts
+Physical Production
+A B C D
+E
+F
+G
+H
+I
+J
+K
+L
+MNOPQ
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+AA BB
+Strips Part List
+Z
+O
+H L
+M
+Y
+K
+P
+CB
+U XS
+BB
+W
+E
+N
+T
+JG
+Q R
+F
+I
+A D
+AA
+V
+Connection Method
+Pros:
+- Easy to use
+- Cheap
+- Durable
+Cons:
+- Not easily hidden
+- Need around 700 for the 
+model
+/gid00013/gid00042/gid00030/gid00028/gid00047/gid00036/gid00042/gid00041/gid00001/gid00028/gid00041/gid00031/gid00001/gid00018/gid00048/gid00028/gid00041/gid00047/gid00036/gid00047/gid00052
+How to Use
+The pin is inserted legs 
+down into a pre-deter-
+mined slot in the paper.
+Flare the legs out on the other 
+side of the paper to hold the 
+two pieces together.
+Physical Production
+Abby Mitchell + Charlie Pyle + Ryan Ragona
+Ayesha Akhter + V alery Badawy + Sally Hunley
+Computational Design Seminar
+Computational Practice
+Step One
+Input mesh
+From Mesh to make a 2 directional curve.Topo Dir analyzes 
+the mesh topology (basically understanding its edge flow).
+That generates directional curves. Dir Strips turns those 
+curves into strip-like geometry.
+The gradient component introduces a visual mapping system 
+that is translated into color variation across the geometry.
+Directional Strips Color Coded Strips
+Step One
+Input mesh
+From Mesh to make a 2 directional curve.Topo Dir analyzes 
+the mesh topology (basically understanding its edge flow).
+That generates directional curves. Dir Strips turns those 
+curves into strip-like geometry.
+The gradient component introduces a visual mapping system 
+that is translated into color variation across the geometry.
+Directional Strips Color Coded Strips
+Triangulated Neovius Surface
+Surface formulation with Equation
+The iteration demonstrates how manipulating the domain parameter of the implicit surface 
+equation controls the periodicity, density, and morphology of the Schwartz P TPMS. As the 
+domain expands, the surface tiles across space producing multiple unit cells. As the domain 
+contracts or shifts, the surface transitions from an open lattice to a closed, solid-dominant 
+geometry with reduced porosity.The surface also flipped throughout the process.
+Variations
+Overall Layout
+(1)Primary quad mesh (2)Mesh relaxation (3)Form formulation
+(4) Directional curve.
+(6)Unrolled strips
+(5)Color coding the  strips
+(7)Create Tag in forms
+(8)Number coding the unrolled strips
+(9)Strip preparation for physical model making
+(10)Final strips
+Triangulated Neovius Surface
+Surface formulation with Equation
+The iteration demonstrates how manipulating the domain parameter of the implicit surface 
+equation controls the periodicity, density, and morphology of the Schwartz P TPMS. As the 
+domain expands, the surface tiles across space producing multiple unit cells. As the domain 
+contracts or shifts, the surface transitions from an open lattice to a closed, solid-dominant 
+geometry with reduced porosity.The surface also flipped throughout the process.
+Variations
+
+===== PDF PAGE 47 =====
+92
+93
+GOKMEN TEACHING
+O R IGINAL FO R M
+F O RM DIVIDED I N THE 
+“U” DIR E CTION
+F O RM DIVIDED I N THE 
+O R IGINAL FO R M
+F O RM DIVIDED I N THE 
+“U” DIR E CTION
+F O RM DIVIDED I N THE 
+“ V ” DIR E CTION
+O R IGINAL FO R M
+O R IGINAL FO R M
+U Direction Stripping
+Annotating Points
+Unrolling Strips
+Unrolling Strips
+Annotating Points
+V Direction Stripping
+a5: parametric modeling - 
+division and grouping
+This section of the script divides the relaxed topolo-
+gy into strips for an assemblage. The division is done 
+in the U and V directions, allowing for two separate 
+groups of strips that will cross each other in a  physi-
+cal fabrication.
+strip #0 strip #0, #1 strip #0, #1, #2 strip #0, #1, #2, #3 
+(FINAL MODULE)
+assembly documentation
+INDIVIDUAL MODULE 
+INFORMATION:
+Each octant is made up from 4 
+strips, resulting in 32 strips total for 
+the complete form. In order to 
+conserve paper, we split each 
+strip into three pieces, shown in 
+the diagram.
+Red arrows indicate wher ethe 
+split strips are meant to overlap 
+for the faces to be glued togeth-
+er, acting as one strip.  
+assembly documentation
+STEP 2:  two octant modulesSTEP 1: individual octant module 
+(1/8 of I-WP)
+STEP 4: attached two sets of paired 
+octant modules (1/2 of I-WP)
+STEP 3: attached pair of octant 
+modules (1/4 of I-WP)
+Final Schoen’s I-WP minimal surface 
+(attach a repition of steps 1-4)
+MODULES TO 
+FINAL FORM
+O R IGINAL FO R M
+F O RM DIVIDED I N THE 
+“U” DIR E CTION
+F O RM DIVIDED I N THE 
+O R IGINAL FO R M
+F O RM DIVIDED I N THE 
+“U” DIR E CTION
+F O RM DIVIDED I N THE 
+“ V ” DIR E CTION
+O R IGINAL FO R M
+O R IGINAL FO R M
+U Direction Stripping
+Annotating Points
+Unrolling Strips
+Unrolling Strips
+Annotating Points
+V Direction Stripping
+a5: parametric modeling - 
+division and grouping
+This section of the script divides the relaxed topolo-
+gy into strips for an assemblage. The division is done 
+in the U and V directions, allowing for two separate 
+groups of strips that will cross each other in a  physi-
+cal fabrication.
+T aylor Beard + Kayla Evans + Cora Hunt
+AJ Jackson + Ania Suber + J’ Anna W orth
+Computational Design Seminar
+Computational Practice
+GRASSHOPPER SCRIPT BREAKDOWN
+STEP 1STEP 2STEP 3
+STEP 4STEP 5STEP 6
+BEGIN WITH DEFINING THE MESH.
+AFTER DEFINING THE MESH WE GOT THE DIRECTIONAL MESH
+TYPOLOGIES. THIS GAVE US TWO CHOICES OF WHICH DIRECTION WE
+WANTED THE PIECES TO ORIENT.
+WE THEN GOT THE STRIPS IN THE DIRECTION WE WANTED AND THEN
+OFFSET THE EDGES OF THE STRIPS BY A SMALL AMOUNT 
+THEN WE LABELED EACH STRIP WITH THE ANNOTATION DOT TO HELP
+WITH THE ASSEMBLY AFTER THE CUTS OF EACH STRIP
+TO ALSO HELP THE ASSEMBLY, COLORS WERE ASSIGNED TO EACH
+STRIP.
+LASTLY, THE SURFACES WERE UNROLLED INTO A GRID SYSTEM AND
+LABELED TO GET OUR LASER CUTS.  
+STRIP CUT MAPPING
+STRIPS
+CONFIGURATION
+ANNOTATED/
+NUMBERED STRIPS
+
+===== PDF PAGE 48 =====
+94
+95
+GOKMEN TEACHING
+Final Review, May 5th, 2026
+Computational Design Seminar
+Computational Practice
+
+===== PDF PAGE 49 =====
+96
+97
+GOKMEN TEACHING
+Final Review, May 5th, 2026
+Computational Design Seminar
+Computational Practice

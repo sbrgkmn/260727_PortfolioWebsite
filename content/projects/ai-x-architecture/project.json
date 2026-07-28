@@ -1,0 +1,28 @@
+{
+  "slug": "ai-x-architecture",
+  "section": "teaching",
+  "title": "AI x Architecture",
+  "year": "2025",
+  "subtitle": "Elective seminar",
+  "layout": "standard",
+  "tags": ["Artificial Intelligence", "Rendering", "Scripting"],
+  "coverImage": "/projects/ai-x-architecture/cover.webp",
+  "coverAlt": "AI x Architecture student workflows",
+  "summary": "An elective seminar introducing undergraduate and graduate students to artificial-intelligence workflows for design, visualization, scripting, datasets, and generative research.",
+  "body": [
+    "The seminar framed AI as a shifting ecology of methods rather than a singular tool or shortcut. Lectures, tutorials, template files, repositories, peer learning, and workshop sessions supported students with different levels of coding and computational-design experience.",
+    "The Rendering module used ComfyUI, diffusion models, ControlNet preprocessors, remote GPU workflows, and parametric inputs to move beyond one-off prompting toward deliberate and explainable visualization systems.",
+    "The Scripting and Datasets modules introduced LLM-assisted coding, parametric form generators, dataset curation, LoRA training, and workflows linking images, prompts, geometry, and code inside Rhinoceros and Grasshopper.",
+    "Technical experimentation was paired with questions of authorship, bias, representation, and design judgment. Students learned to construct, evaluate, document, and adapt AI workflows for architectural research rather than treating generated output as an endpoint."
+  ],
+  "facts": [
+    ["Course", "ARCH 4050 / 6306"],
+    ["Term", "Fall 2025"],
+    ["Level", "Undergraduate + graduate"],
+    ["Enrollment", "11 students"]
+  ],
+  "source": {
+    "document": "Teaching_Portfolio.pdf",
+    "pages": [34, 35, 36, 37]
+  }
+}

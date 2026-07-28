@@ -1,0 +1,32 @@
+[
+  {
+    "src": "/projects/prototype/gallery/process.webp",
+    "alt": "Prototype studio process and early studies",
+    "caption": "Studio process and early studies",
+    "sourcePage": 25
+  },
+  {
+    "src": "/projects/prototype/gallery/models-01.webp",
+    "alt": "Prototype studio physical models",
+    "caption": "Physical models",
+    "sourcePage": 26
+  },
+  {
+    "src": "/projects/prototype/gallery/models-02.webp",
+    "alt": "Prototype studio material studies",
+    "caption": "Material studies",
+    "sourcePage": 28
+  },
+  {
+    "src": "/projects/prototype/gallery/student-work-01.webp",
+    "alt": "Prototype studio student work",
+    "caption": "Selected student work",
+    "sourcePage": 31
+  },
+  {
+    "src": "/projects/prototype/gallery/student-work-02.webp",
+    "alt": "Prototype studio final projects",
+    "caption": "Final projects",
+    "sourcePage": 33
+  }
+]

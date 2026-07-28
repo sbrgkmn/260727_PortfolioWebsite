@@ -1,0 +1,26 @@
+{
+  "slug": "occa",
+  "section": "work",
+  "title": "Occa",
+  "year": "2022–2023",
+  "subtitle": "Minimal-surface installation inspired by glass-sponge morphology",
+  "layout": "portrait",
+  "tags": ["Installation", "Minimal Surfaces", "Digital Fabrication"],
+  "coverImage": "/projects/occa/cover.jpg",
+  "coverAlt": "Occa suspended installation at Rezan Has Museum",
+  "summary": "Occa is a suspended installation developed for Rezan Has Museum as the culmination of the Parametric Design: Minimal Tectonics seminar.",
+  "body": [
+    "The project abstracts the hollow structure and skeletal logic of Ferrea occa, a glass sponge documented by Ernst Haeckel. Students moved from soap-film form finding to parametric models that replicated, varied, and refined minimal-surface geometries.",
+    "The final installation was produced from laser-cut forex sheet components joined with rivets and suspended from four points with steel ropes. The portfolio metadata lists 2022, while the revised CV lists the completed installation in 2023."
+  ],
+  "facts": [
+    ["Location", "Rezan Has Museum, Istanbul"],
+    ["Design", "Sabri Gökmen, project lead"],
+    ["Material", "Laser-cut forex, rivets, steel rope"],
+    ["Date note", "Portfolio: 2022; revised CV: 2023"]
+  ],
+  "source": {
+    "document": "Research_Portfolio.pdf",
+    "pages": [43, 44]
+  }
+}

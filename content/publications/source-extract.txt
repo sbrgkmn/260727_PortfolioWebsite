@@ -1,0 +1,87 @@
+Source: CV_Sabri_Gokmen_2026_Revised.docx
+CV sections: PEER-REVIEWED JOURNAL ARTICLES and CONFERENCE PROCEEDINGS
+
+===== PUBLISHED JOURNAL ARTICLE =====
+Gokmen, S., Alsan H.F., Arsan T., Özen F., Keskin E.E. (2026) “Integrating stable diffusion via remote server APIs for enhanced parametric design workflows.” International Journal of Architectural Computing. 2026; 0(0). doi:10.1177/14780771251405440.
+
+Gokmen, S. (2023) “Stripped and Layered Fabrication of Minimal Surface Tectonics Using Parametric Algorithms.” Curved and Layered Structures. Volume 10, no.1, 20220210. https://doi.org/10.1515/cls-2022-0210
+
+Gokmen, S., Aykin, Y., Basik, A., Alacam, S. (2023) “A Recursive Algorithm for the Generative Study of Seljuk Muqarnas in Kayseri and Sivas.” Nexus Network Journal, pp.1-22. https://doi.org/10.1007/s00004-023-00686-4
+
+Gokmen, S., Başık, A., Aykın, Y., Alacam, S. “Computational Modeling and Analysis of Seljukid Muqarnas in Kayseri.” Journal on Computing and Cultural Heritage 15, no. 2 (April 2022): Article 27. https://doi.org/10.1145/3477399
+
+Gokmen, S. (2022) “Computation and Optimization of Structural Leaf Venation Patterns for Digital Fabrication.” Computer Aided Design, Volume 144, 103150.https://doi.org/10.1016/j.cad.2021.103150
+
+Gokmen, S. (2020) “Homeomorphic architecture: Radial prisons and contracted graphs.” Environment and Planning B: Urban Analytics and City Science, 48:5, pp.1213-1227. https://doi.org/10.1177/2399808320922239
+
+Gokmen, S. (2020) “Metamorphic Leaves.” Leonardo, MIT Press, Volume 53, Issue 5, October, pp.522-528. https://doi.org/10.1162/leon_a_01741
+
+Gokmen, S. (2020) “Rediscovering Goethe’s concept of polarity: A new direction for architectural morphogenesis.” METU JFA (Journal of Faculty of Architecture), 37:1, pp.51-72. https://doi.org/10.4305/metu.jfa.2020.1.5.
+
+===== JOURNAL ARTICLE IN PROGRESS =====
+(Under Revision) Alsan, H.F., Keskin, E.E., Alioglu, E.F, Arsan, T., Ozen, F., Karaca, A.B., Gokmen, S. “Probabilistic Clustering of Safranbolu House Typologies using Categorical Linear Layers and Mixture of Experts.” Buildings, Special Issue: Intelligent Preservation: AI-Driven Innovation in Cultural Heritage Buildings.
+
+(Under Review) Yılmaz, E. N., Cabbar, A.K., Arsan,T., Ozen, F., Keskin, E.E., Karaca, A.B., Alsan, H.F., Alioğlu, E.F., and Gokmen, S. “Deep Learning Based Semantic Segmentation of Odunpazarı Historical Houses,” METU JFA (Journal of Faculty of Architecture). Submitted March 8th, 2026.
+
+(Under Review) Gokmen, S. “Radial Recursion: Computational Morphology of French Gothic Apses” TAD Journal. Submitted March 9th, 2026.
+
+(Under Review) Gokmen, S. “Reconstructing Palladian Symmetry: A Graph-Based Analysis of Houses and Wings” Nexus Network Journal. Submitted May 16th, 2026.
+
+(Under Review) Gokmen, S. “The Vitruvian Turn: Image-First Generative AI and the Limits of Architectural Operability” Digital Creativity. Submitted July 23rd, 2026.
+
+===== PUBLISHED CONFERENCE PROCEEDING =====
+Gokmen, S., and Vince, A. (2026) “Automating Multi-Modal Dataset Workflows in Architecture.” Paper presented at the ACSA114 Annual Meeting, Chicago, Illinois, March 26-28, 2026.
+
+Gokmen, S., Andrakinich, A., Balmer, J. and Ellinger, J. (2026) “Beginning with AI: Frontloading Computational Thinking and Making in Second Year Design Education.” Paper accepted for presentation at The National Conference on the Beginning Design Student (NCBDS41), Albuquerque, New Mexico, February 26-28, 2026.
+
+Alkan, P, Alsan, H.F., Arsan, T., Gokmen, S. (2025) “Prompt2Product: Using Stable Diffusion for Parametric Modeling and Manufacturing of Ceramic Products,” Paper presented at the 43rd Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2025), Ankara, 1–5 September 2025, Volume 2, 167–174.
+
+Gokmen, S. (2025) “Gothic Anatomy: Computational Analysis of Cathedral Plans Using Branching Graphs.” In Nexus 2025: Relationships Between Architecture and Mathematics: Conference Book, edited by Kim Williams and Cosimo Monteleone, 51–56. Kim Williams Books.
+
+Gokmen, S., Alsan, H.F., Arsan, T. (2024) “Remote Server Integration of Stable Diffusion in Grasshopper for Text to Image and Image to Image Generation”, Estévez, Alberto T., and David A. Torreblanca-Díaz, eds. 2024. Proceedings of the XXVIII Congress of the Ibero-American Society of Digital Graphics (SIGraDi) – Biodigital Intelligent Systems Conference. Barcelona: iBAG-UIC Barcelona. ISBN 978-9915-9635-2-5. Pp. 959 – 970.
+
+Gokmen, S. (2020) “Exploring Homeomorphism in Building Plans,” SIMAUD: Symposium on Simulation in Architecture + Urban Design, SimAUD 2020 May 25-27 Vienna, Austria, (2020), pp. 231-298. http://simaud.org/2020/proceedings/85.pdf.
+
+Gokmen, S., Baerlecken, D. (2014) “Digital Wallpaper: Tiles of Proliferation and Continuity”, ACADIA 14: Design Agency [Proceedings of the 34th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) (Los Angeles 23-25 October, 2014), pp. 301-310. http://papers.cumincad.org/data/works/att/acadia14_301.content.pdf
+
+Gokmen, S. (2014) “Formative Impulse: A Theoretical outline for the study of Goethean Morphology and computational understanding of form”, Rethinking Comprehensive Design: Speculative Counterculture, Proceedings of the 19th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2014) / Kyoto 14-16 May 2014, pp. 863-872. http://papers.cumincad.org/data/works/att/caadria2014_109.content.pdf
+
+Gokmen, S. (2014) “Polychromy: A study on Goethe’s Theory of Colors and Computational Design Pedagogy”, Rethinking Comprehensive Design: Speculative Counterculture, Proceedings of the 19th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2014) / Kyoto 14-16 May 2014, pp.903-912. http://papers.cumincad.org/data/works/att/caadria2014_212.content.pdf
+
+Gokmen, S. (2014) “Tangle Jungle: An experimental project to combine collaboration and craftsmanship in digital design pedagogy”, Rethinking Comprehensive Design: Speculative Counterculture, Proceedings of the 19th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2014) / Kyoto 14-16 May 2014, pp. 13-22. http://papers.cumincad.org/data/works/att/caadria2014_108.content.pdf
+
+Gokmen, S. (2013) “A Morphogenetic Approach for Performative Building Envelope Systems Using Leaf Venetian Patterns,” eCAADe Conference Proceedings, Volume 1, Delft (Netherlands), pp. 497- 506. http://papers.cumincad.org/data/works/att/ecaade2013_167.content.pdf
+
+===== PUBLISHED CONFERENCE PROCEEDING =====
+Baerlecken, D., Gokmen, S. (2015) “Osteotectonics - Trabecular Bone Structures and Their Adaptation for Customized Structural Nodes Using Additive Manufacturing Techniques”, Martens, B, Wurzer, G, Grasl T, Lorenz, WE and Schaffranek, R (eds.), Real Time - Proceedings of the 33rd eCAADe Conference - Volume 2, Vienna University of Technology, Vienna, Austria, 16-18 September 2015, pp. 439-448. http://cumincad.scix.net/cgi-bin/works/Show?ecaade2015_333
+
+Baerlecken, D., Gokmen, S. (2014) “Emphatic Lines: Surface structuring based on Walter Crane's pattern making methods,” Thomps on, E. M. (ed.), Fusion - Proceedings of the 32nd eCAADe Conference - Volume 2, Department of Architecture and Built Environment, Faculty of Engineering and Environment, Newcastle upon Tyne, England, UK, 10-12 September 2014, pp. 107-114. http://papers.cumincad.org/data/works/att/ecaade2014_232.content.pdf
+
+Baerlecken, D., Gokmen, S. (2013) “Gemming: Architectonics of Facets,” Sigradi 2013 [Proceedings of the 17th Conference of the Iberoamerican Society of Digital Graphics – ISBN: 978-95607051-86-1] Chile – Valparaiso 20 – 22 November 2013, pp. 225-229. http://papers.cumincad.org/data/works/att/sigradi2013_226.content.pdf
+
+Gokmen, S. (2013) “Studio on Beauty: A new methodology for digital design research,” Sigradi 2013 [Proceedings of the 17th Conference of the Iberoamerican Society of Digital Graphics – ISBN: 978-95607051-86-1] Chile – Valparaiso 20 – 22 November 2013, pp. 505-509. http://papers.cumincad.org/data/works/att/sigradi2013_280.content.pdf
+
+Gokmen, S. (2012) “The Ornaments of Shoowa Kuba: A digital re-interpretation of a textile art”, SIGraDi Conference Proceedings, Forteleze (Brazil), pp. 79-83.http://papers.cumincad.org/data/works/att/sigradi2012_196.content.pdf
+
+===== PUBLISHED CONFERENCE PROCEEDING IN TURKISH =====
+Ozetci, İ. N., Demir, K. and Gokmen, S., (2024)“Üç Yönlü Periyodik Minimal Yüzeylerin (ÜYPMY) Şerit Tabanlı Dijital Üretimi,” [Digital Fabrication of Strip-Based Three-Way Periodic Minimal Surfaces (TPMS)],” MSTAS 2024. Mimarlıkta Sayısal Tasarım XV. Ulusal Sempozyum, Editors: Serkan Palabiyik, Fatma Süphan Somali, Elif Alkilinç, Derya Demircan, A. Öykü Türken, 356-370.
+
+Gokmen, S., Aykin, Y., Basik, A., Alacam, S. (2021) “Kayseri Hacı Kılıç Cami Mukarnasının Hesaplamalı Olarak Çözümlenmesi [Computational Analysis of the Muqarnas in Kayseri Hacı Kılıç Mosque],” MSTAS 2021. Mimarlıkta Sayısal Tasarım XV. Ulusal Sempozyum, Editors: Gülen Cagdas, Mine Ozkar, Leman Figen Gul, Sema Alacam, Ethem Gurer, Sevil Yazıcı, Burak Delikanlı, Ozlem Cavus, Sevgi Altun, Gulce Kırdar, 182-193.
+
+===== PEER-REVIEWED CONFERENCE POSTER =====
+Gokmen, S., Vince, A., Oh, A. (2025) A Framework for Architectural Geometry Synthesis Using Cellular Automata and Conditioned Diffusion Models. In SA Posters ’25: Proceedings of the SIGGRAPH Asia 2025 Posters, ACM. DOI: 10.1145/3757374.3771526.
+
+===== CONFERENCE PROCEEDING IN PROGRESS =====
+(Abstract Accepted) Mba, D., and Gokmen, S. “Generated Spatial Cues: An AI System for Domestic Massing Design.” Full paper submitted for review to the Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2026) conference.
+
+(Abstract Accepted) Long, J., and Gokmen, S. “Designing Artificial Rock Holds with Generative Artificial Intelligence.” Abstract submitted for review to the SIGraDi 2026 conference.
+
+(Abstract Accepted) Jakkidi, S., and Gokmen, S. “A Rule-Based Design Tool for Parametric Patterning Using Aperiodic Monotiles.” Abstract submitted for review to the SIGraDi 2026 conference.
+
+(Abstract Accepted) Kaonga, B., and Gokmen, S. “Architecture in Flux: A Low-Rank Adaptation (LoRA)-Driven Generative Style Translation Engine.” Abstract submitted for review to the SIGraDi 2026 conference.
+
+(Abstract Submitted) Shaik, B., and Gokmen, S. “Training Muqarnas AI: A LoRA-Fine-Tuned Image-to-Geometry Workflow for Seljuk Ornament.” Abstract submitted for review to the ASCAAD 2026 conference.
+
+(Abstract Submitted) Gokmen, S. “Morphogenetic Typologies: Using Agentic Scripting for Generative Design Pedagogy.” Abstract submitted for review to the ASCAAD 2026 conference.
+
+(Under Review) Shah, K., Vince, A., Gokmen, S., Xue, H., & Wang, P. (2027). “GenArch: A Generative 3D Architecture Model.” Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2027). Manuscript submitted.

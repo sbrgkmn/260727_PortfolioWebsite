@@ -1,0 +1,15 @@
+{
+  "slug": "manifold",
+  "section": "work",
+  "title": "Manifold",
+  "year": "2022",
+  "subtitle": "AKM Sculpture Competition · Istanbul",
+  "layout": "wide",
+  "tags": ["Previous Work", "Competition", "Public Art"],
+  "coverImage": "/projects/manifold/cover.webp",
+  "coverAlt": "Manifold public sculpture competition proposal",
+  "summary": "A branching public sculpture proposal designed around a circular gathering space.",
+  "body": ["Submitted to the AKM Sculpture Competition in Istanbul."],
+  "facts": [["Type", "Sculpture competition"], ["Location", "Istanbul"], ["Year", "2022"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [52]}
+}

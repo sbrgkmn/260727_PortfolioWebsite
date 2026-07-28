@@ -1,0 +1,15 @@
+{
+  "slug": "vitalized-geometry",
+  "section": "work",
+  "title": "Vitalized Geometry",
+  "year": "2015",
+  "subtitle": "Installation · Moutier, Switzerland",
+  "layout": "portrait",
+  "tags": ["Previous Work", "Installation", "BFRLab"],
+  "coverImage": "/projects/vitalized-geometry/cover.webp",
+  "coverAlt": "Vitalized Geometry suspended installation",
+  "summary": "A suspended geometric installation combining patterned surfaces, light, and digitally fabricated components.",
+  "body": ["Developed in Moutier, Switzerland with BFRLab."],
+  "facts": [["Type", "Installation"], ["Location", "Moutier, Switzerland"], ["Collaborator", "BFRLab"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [50]}
+}

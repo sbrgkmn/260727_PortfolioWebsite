@@ -1,0 +1,28 @@
+{
+  "slug": "gothic-suprematist-machine",
+  "section": "teaching",
+  "title": "Gothic Suprematist Machine",
+  "year": "2024",
+  "subtitle": "Advanced design studio",
+  "layout": "standard",
+  "tags": ["Gothic Morphology", "Generative Design", "Historical Analysis"],
+  "coverImage": "/projects/gothic-suprematist-machine/cover.webp",
+  "coverAlt": "Gothic Suprematist Machine student work",
+  "summary": "A design-research studio treating architectural history as active computational material rather than a stylistic reference.",
+  "body": [
+    "Students studied Gothic plans, vaults, towers, spires, sectional bands, and surface systems through symmetry, proportion, hierarchy, repetition, subdivision, and articulation. Suprematism supplied a language of abstraction that moved the work away from literal precedent and toward geometric extraction.",
+    "The studio progressed from collective precedent research to abstraction and generative production. Drawings, diagrams, taxonomies, mesh models, and physical artifacts made each object evidence of an underlying architectural rule.",
+    "Three phases organized the semester: Gothic Suprematism, Suprematist Form Wrapping, and Generative Suprematism. Final scripts produced families of formal variations derived from four research tracks: triforia, towers and spires, cathedral plans, and vaults.",
+    "The work connected historical analysis with computational authorship. Students learned to transform morphological observations into design rules and speculative architectural systems without reducing history to stylistic imitation."
+  ],
+  "facts": [
+    ["Course", "ARCH 4101 / 7101"],
+    ["Term", "Fall 2024"],
+    ["Level", "Undergraduate + graduate"],
+    ["Enrollment", "14 students"]
+  ],
+  "source": {
+    "document": "Teaching_Portfolio.pdf",
+    "pages": [4, 5, 6, 7, 8, 9, 10, 11]
+  }
+}

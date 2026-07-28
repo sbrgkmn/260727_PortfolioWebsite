@@ -1,0 +1,299 @@
+Source: Teaching_Portfolio.pdf
+Selected PDF pages: 4, 5, 6, 7, 8, 9, 10, 11
+
+===== PDF PAGE 4 =====
+6
+7
+T opical Studio
+GOKMEN TEACHING
+Pedagogical Premise 
+Gothic Suprematist Machine was structured as a de-
+sign research studio that treated architectural history 
+as an active computational material. Rather than 
+asking students to reproduce Gothic architecture as 
+style, the studio asked them to inspect Gothic build-
+ings as complex formal bodies: systems of symmetry, 
+proportion, hierarchy, repetition, subdivision, and 
+articulation. Students studied Gothic architecture 
+through plans, vaults, towers, spires, sectional bands, 
+and surface systems, then transformed these observa-
+tions into abstract rules for contemporary architectur-
+al production. 
+ 
+The studio paired this historical inquiry with Su-
+prematism, particularly its legacy of abstraction, com-
+position, and spatial projection. Suprematism provid-
+ed a language for moving away from literal precedent 
+and toward geometric extraction. Gothic architecture 
+provided the disciplinary depth: a dense archive of 
+structural rhythm, spatial sequence, verticality, orna-
+ment, and part-to-whole organization. Between these 
+two poles, students learned to translate historical mor-
+phology into diagrams, taxonomies, digital models, 
+physical artifacts, and generative design systems. 
+ 
+The central pedagogical goal was to help students un-
+derstand that computational design is not only a tech-
+nical skill, but also a way of constructing architectural 
+knowledge. Modeling, scripting, and variation were 
+introduced as methods for reading precedent, testing 
+formal rules, and generating speculative futures from 
+historical material. 
+ 
+Methodology 
+The studio unfolded through a sequence of research, 
+abstraction, and generative production. Students 
+began with collective precedent analysis, developing 
+drawings and diagrams that identified how Gothic ele-
+ments are organized, repeated, and transformed across 
+buildings. This work established a shared archive of 
+morphological research. 
+ 
+In the second phase, students moved from analysis to 
+abstraction. They translated Gothic systems into Su-
+prematist compositions, triangulated surfaces, mass-
+ing studies, and tectonic rules. Modeling workshops 
+introduced workflows for mesh modeling, geometric 
+articulation, and formal variation. Students were 
+asked to move carefully between representation and 
+rule-making: each model was not only an object, but 
+also evidence of an underlying design logic. 
+ 
+In the final phase, students developed individual gen-
+erative machines. These projects used computational 
+scripts to produce families of formal variations derived 
+from their earlier research. The emphasis shifted from 
+single-authored objects to systems capable of produc-
+ing multiple outcomes. Through this process, stu-
+dents connected precedent analysis, visual abstraction, 
+and computational authorship. 
+ 
+Phase I: Gothic Suprematism 
+W eeks 1–4 focused on precedent research, symmetry 
+breakdown, parts-to-whole analysis, and taxonomy. 
+Students worked in groups to study Gothic architec-
+tural systems and develop a shared body of drawings, 
+diagrams, and models. 
+ 
+Phase II: Suprematist Form Wrapping 
+W eeks 5–10 focused on abstraction, mesh modeling, 
+detailing, geometric variation, and model matrices. 
+Students developed individual formal studies that 
+translated Gothic elements into abstracted surfaces, 
+masses, and compositional systems. 
+ 
+Phase III: Generative Suprematism 
+W eeks 11–16 focused on scripting, Gothic mor-
+phogenesis, generative machines, and final variation 
+matrices. Students developed computational systems 
+capable of producing speculative architectural varia-
+tions from their rule sets. 
+ 
+Student Project Tracks 
+The student work presented in the following pages is 
+organized around four primary research tracks. 
+Triforium: Projects in this track investigated Gothic 
+interiors as a system of repetition, branching, group-
+ing and abstract ornament. Students treated the trifo-
+rium as a zone where surface, structure, and percep-
+tion meet, translating its rhythmic logic into abstract 
+façades and networked rib structures. 
+ 
+Spires / Towers: This track focused on verticality, 
+aggregation, tapering, silhouette, and sectional hi-
+erarchy. Students used towers and spires as models 
+for exploring height, stacking and structural rhythm 
+through recursion and variation.
+Cathedral Plans: These projects studied axial 
+organization, bay rhythm, nave and transept relation-
+ships, thresholds, and spatial sequencing. Students 
+transformed plan-based analysis into rule systems for 
+generating new spatial and formal compositions. 
+V aults: Projects in this track examined ribbed vaults, 
+webbing, structural subdivision, and triangulated 
+surface logic. Students translated vault geometry into 
+abstract spatial fields and generative systems through 
+recursive subdivision. 
+ 
+Learning Outcomes 
+By the end of the studio, students were able to analyze 
+historical precedents through formal and computa-
+tional lenses, construct taxonomies of architectural 
+parts, translate morphological observations into design 
+rules, and generate variations using digital models and 
+scripts. The projects demonstrate student learning 
+across research, abstraction, computation, represen-
+tation, and iterative design. T ogether, they show how 
+historical architectural knowledge can be transformed 
+into speculative design systems without reducing 
+history to imitation.
+Gothic Suprematist Machine
+UNC Charlotte / David R. Ravin School of Architecture 
+ 
+Instructor:  
+Sabri Gökmen
+ARCH 4102/7102 | Topical Studio | Fall 2024
+GOTHIC SUPREMATIST MACHINE
+
+===== PDF PAGE 5 =====
+8
+9
+T opical Studio
+GOKMEN TEACHING
+Maggie Orta
+Research T rack: T riforium
+Gothic Suprematist Machine
+Saint Denis
+France
+Saint Denis
+France
+Notre Dame de Paris
+Historical Sample
+Notre Dame de Paris
+Variation 2
+Amiens Cathedral
+Historical Sample
+Saint Denis
+Variation 2
+Amiens Cathedral
+Varitation 2
+Saint Denis
+Varitation 1
+Saint Denis
+Historical Sample
+Amiens Cathedral
+Varitation 1
+Chartres Cathedral
+Varitation 2
+Chartres Cathedral
+Historical Sample
+Notre Dame de Paris
+Varitation 1
+Chartres Cathedral
+Varitation 1
+Strataforum
+Ambulant Growth
+Aquaforum
+Ambulant Growth
+Terraforum
+Ambulant Growth
+Chronoforum
+Ambulant Growth
+Strataforum
+Ambulant Growth
+Aquaforum
+Ambulant Growth
+Terraforum
+Ambulant Growth
+Chronoforum
+Ambulant Growth
+Notre Dame de Paris
+France
+Notre Dame de Paris
+France
+Chartres Cathedral
+France
+Chartres Cathedral
+France
+Amiens Cathedral
+France
+Amiens Cathedral
+France
+
+===== PDF PAGE 6 =====
+11
+TEACHING
+10
+T opical Studio
+GOKMEN
+Maggie Orta
+Gothic Suprematist Machine
+Strataforum
+Convolution
+Strataforum
+Elongation
+Chronoforum
+Convolution
+Aquaforum
+Elongation
+Chronoforum
+Elongation
+Terraforum
+Convolution
+Chronoforum
+Axial dispersion
+Aquaforum
+Convolution
+Aquaforum
+Spatial reorientation
+Terraforum
+Axial dispersion
+Aquaforum
+Axial dispersion
+Terraforum
+Elongation
+Research T rack: T riforium
+
+===== PDF PAGE 7 =====
+13
+TEACHING
+12
+T opical Studio
+GOKMEN
+Joseph Long + Balinase Kaonga
+Gothic Suprematist Machine
+Primary Symmetry, Levels, Buttress,WindowsPrimary Symmetry, Levels, Buttress
+Notre Dame
+Paris, France
+Notre Dame
+Paris, France
+Main Symmetry, Levels, Buttress, VoidsMain Symmetry, Levels
+Notre Dame Rein
+LRein, France
+Main Symmetry, Levels, Buttress, VoidsMain Symmetry, Levels
+Boston Tower
+Lincolnshire, England
+Main Symmetry, Levels, Buttress, VoidsMain Symmetry, Levels
+Chartres Cathedral
+Chartres, France
+Chartres Cathedral
+Chartres, France
+Research T rack: T owers
+
+===== PDF PAGE 8 =====
+15
+TEACHING
+14
+T opical Studio
+GOKMEN
+Joseph Long + Balinase Kaonga
+Gothic Suprematist Machine
+Research T rack: T owers
+
+===== PDF PAGE 9 =====
+17
+TEACHING
+16
+T opical Studio
+GOKMEN
+T om Wileman
+Gothic Suprematist Machine
+Research T rack: Plans
+
+===== PDF PAGE 10 =====
+19
+TEACHING
+18
+T opical Studio
+GOKMEN
+Tianna O’Hare + Erik Pate
+Gothic Suprematist Machine
+Research T rack: V aults
+
+===== PDF PAGE 11 =====
+20
+21
+T opical Studio
+GOKMEN TEACHING
+Final Review
+Gothic Suprematist Machine

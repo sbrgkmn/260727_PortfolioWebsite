@@ -1,0 +1,15 @@
+{
+  "slug": "tangle-jungle",
+  "section": "work",
+  "title": "Tangle Jungle",
+  "year": "2011",
+  "subtitle": "Installation · Georgia Tech, Atlanta",
+  "layout": "wide",
+  "tags": ["Previous Work", "Installation", "Collaborative Making"],
+  "coverImage": "/projects/tangle-jungle/cover.webp",
+  "coverAlt": "Tangle Jungle suspended collaborative installation",
+  "summary": "A collaborative installation exploring digital craftsmanship through an aggregate of interwoven components.",
+  "body": ["Completed at Georgia Tech in Atlanta as an experiment in collective design and fabrication."],
+  "facts": [["Type", "Installation"], ["Location", "Atlanta"], ["Institution", "Georgia Tech"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [51]}
+}

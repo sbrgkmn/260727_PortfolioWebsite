@@ -1,0 +1,104 @@
+Source: Research_Portfolio.pdf
+Selected PDF pages: 43, 44
+
+===== PDF PAGE 43 =====
+84
+85
+GOKMEN  PD & RESEARCH
+20Computation
+The project situated within the contrasting historical 
+context of  the museum, takes its inspiration after Ferrea 
+Occa, a type of  Glass Sponge, which creates four-
+legged intricate hollow surfaces. Considered by some 
+experts to be the longest living form in the world, these 
+Hexactinellid sponges were studied and documented 
+in 1904 by the German biologist Ernst Haeckel in his 
+Artistic Forms of  Nature. The design form combines 
+two hedron geometries resembling sponges that are 
+articulated by branches facing in different directions. 
+The produced surface geometry is built by riveting 
+black and white stripes running in opposite directions 
+before being hanged from four points combined with 
+steel ropes.
+This installation project is the culmination of  “Parametric 
+Design: Minimal Tectonics” seminar completed during 
+Spring 2022 academic term of  Architecture program 
+where research is completed in three stages. In the first 
+stage, students conducted  “form-finding” experiments 
+using the soap film technique developed by Frei Otto 
+in the 1960s and produced different minimal surfaces. 
+In the second stage, the produced geometries were 
+replicated and varied using parametric modeling tools. 
+At the last stage, the selected design was fabricated 
+using digital fabrication algorithms and produced from 
+laser cut forex sheets and rivet joints.
+Project Team:
+Sabri Gökmen, Project Lead
+Fabrication/Assembly: Muvaffak Ali Akyüz, Louis 
+Folkens, Fatma Yeşim Kızılbulut, Özce Özköse, 
+Melike Ayyüce Güneş,  Mustafa Ilgaz Aluç, Şevval 
+Büşra Özmen
+Graphics / Images: Abbas Khan, Mohammed Jarrar, 
+Ahmed Barzan, Ali Ozan Güvenç
+OCCA
+Rezan Has Museum, Istanbul, 2022
+Occa
+Location 
+Year 
+Project Type 
+Design 
+Fabrication / Assembly
+ 
+Graphics / Images 
+Material / Fabrication 
+Rezan Has Museum, Istanbul, Turkiye 
+2022 
+Installation 
+Sabri Gökmen, Project Lead 
+Muvaffak Ali Akyüz, Louis Folkens, 
+Fatma Y eşim Kızılbulut, Özce Özköse, 
+Melike Ayyüce Güneş, Mustafa Ilgaz 
+Aluç, Şevval Büşra Özmen  
+Abbas Khan, Mohammed Jarrar, Ahmed 
+Barzan, Ali Ozan Güvenç 
+Laser-cut forex sheets, rivet joints, black 
+and white stripe components, steel rope 
+suspension 
+Occa
+Occa is a suspended installation developed for Rezan Has Museum 
+in Istanbul as the culmination of the Spring 2022 Parametric De-
+sign: Minimal Tectonics seminar. The project explores the transla-
+tion of biological form, computational geometry, and digital fabrica-
+tion into an architectural-scale installation. It takes inspiration from 
+Ferrea Occa, a type of glass sponge documented by Ernst Haeckel in 
+Artistic Forms of Nature. Rather than reproducing the sponge liter-
+ally, the project abstracts its hollow structure, porous organization, 
+and skeletal logic into a lightweight spatial system. 
+ 
+The design process moved through analog and digital stages. Stu-
+dents first conducted soap-film form-finding experiments inspired 
+by Frei Otto’s minimal surface studies, using surface tension, curva-
+ture, and boundary conditions as generative forces. These physical 
+studies were then translated into parametric models, where the 
+geometries were replicated, varied, and refined through computa-
+tional control. 
+ 
+The final installation was produced from laser-cut forex sheet com-
+ponents, joined with rivets, and suspended from four points with 
+steel ropes. Its black and white striped components emphasize cur-
+vature, directionality, and depth, making the piece legible as both 
+patterned surface and volumetric form. Occa demonstrates how 
+computational design pedagogy can transform natural precedent, 
+material experimentation, and digital fabrication into public-facing 
+creative work.
+Creative W ork
+
+===== PDF PAGE 44 =====
+86
+87
+GOKMEN  PD & RESEARCH
+Occa
+21Computation
+Computation Workflow
+Digital Fabrication Workflow
+Creative W ork

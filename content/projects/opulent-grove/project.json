@@ -1,0 +1,15 @@
+{
+  "slug": "opulent-grove",
+  "section": "work",
+  "title": "Opulent Grove",
+  "year": "2013",
+  "subtitle": "City of Dreams Pavilion Competition",
+  "layout": "wide",
+  "tags": ["Previous Work", "Competition", "Pavilion"],
+  "coverImage": "/projects/opulent-grove/cover.webp",
+  "coverAlt": "Opulent Grove pavilion competition proposal",
+  "summary": "A colorful modular canopy proposed for the City of Dreams Pavilion Competition.",
+  "body": ["The project organizes translucent units into a dense grove that creates shaded gathering spaces below."],
+  "facts": [["Type", "Pavilion competition"], ["Year", "2013"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [51]}
+}

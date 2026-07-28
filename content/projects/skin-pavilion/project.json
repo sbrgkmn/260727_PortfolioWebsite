@@ -1,0 +1,15 @@
+{
+  "slug": "skin-pavilion",
+  "section": "work",
+  "title": "Skin Pavilion",
+  "year": "2011",
+  "subtitle": "Nuit Blanche · Paris",
+  "layout": "wide",
+  "tags": ["Previous Work", "Pavilion", "Installation"],
+  "coverImage": "/projects/skin-pavilion/cover.webp",
+  "coverAlt": "Interior of the Skin Pavilion installation",
+  "summary": "An immersive pavilion assembled from a field of lightweight cellular components.",
+  "body": ["Presented at Nuit Blanche in Paris with Damien Valero, Jerôme Cognet, Gernot Riether, and Jérôme Pougnant."],
+  "facts": [["Type", "Pavilion installation"], ["Location", "Paris"], ["Event", "Nuit Blanche"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [51]}
+}

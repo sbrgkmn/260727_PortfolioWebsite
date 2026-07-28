@@ -1,0 +1,99 @@
+Source: Research_Portfolio.pdf
+Selected PDF pages: 48, 49
+
+===== PDF PAGE 48 =====
+94
+95
+GOKMEN  PD & RESEARCH
+Creative W ork
+Calyx
+Location 
+Year 
+Project Type 
+Design 
+Geometry Optimization 
+Fabrication 
+Photography 
+Client 
+Category Label 
+Material / Fabrication 
+Design Concept
+Rochester, NY 
+2015 
+Public sculpture / campus landmark  
+Sabri Gökmen, Project Lead 
+Mark Luffel 
+Demiurge LLC 
+Courtesy of J. Adam Fenster 
+University of Rochester 
+Computation 
+Optimized stainless steel plates, welded 
+and bolted connections 
+Leaf venation, natural vein systems, 
+self-organization, structural networks
+Calyx
+Calyx is a public sculpture commissioned by the University of Roch-
+ester and selected through a national competition RFP . Conceived as 
+a campus landmark, the project brings together public art, computa-
+tional design, material innovation, and digital fabrication. The work 
+draws inspiration from leaf venation systems, where branching net-
+works organize growth, distribute forces, and create resilient natural 
+structures. Rather than visually imitating nature, Calyx translates 
+biological organization into a generative design process. 
+ 
+The sculpture was developed using custom leaf venation algorithms 
+that generated three-dimensional branching patterns. These algo-
+rithms simulated how veins grow, connect, thicken, and stabilize 
+across a surface, producing an open lattice that rises from a compact 
+base and expands outward into a canopy-like form. A geometry op-
+timization protocol then translated the complex branching network 
+into individual stainless steel pieces that could be fabricated from 
+flat sheets. This process transformed digital pattern logic into cutta-
+ble, weldable, and boltable plate assemblies. 
+ 
+The final work was fabricated from optimized stainless steel plates 
+and assembled through welded and bolted connections. Its open 
+lattice allows light, views, and movement to pass through, while 
+its vivid presence creates a recognizable campus landmark. Calyx 
+demonstrates how generative algorithms, geometric optimization, 
+and digital fabrication can converge in a realized architectural-scale 
+public artwork.
+22Computation
+“Calyx” is a distinctive sculpture commissioned by 
+the University of  Rochester to usher in an era where 
+technology, art, nature, and knowledge seamlessly blend, 
+sparking inspiration for future generations. Drawing its 
+design inspiration from the intricate venation patterns 
+of  leaves, which naturally form structural networks and 
+organic shapes, “Calyx” serves dual purposes. It not 
+only stands as an iconic landmark guiding visitors but 
+also beckons students, offering them a communal space 
+for relaxation and gathering.
+The sculpture’s form emerges from specialized computer 
+software that mimics the self-organization found in 
+natural vein systems. Beginning at its base, simulated 
+veins reach upwards, intertwining and supporting one 
+another to establish structural joints and achieve a stable 
+final shape. Preliminary structural analysis during the 
+project’s early stages revealed patterns reminiscent of  
+leaf  venation, characterized by hierarchical variations in 
+material thickness. Leveraging these insights, “Calyx” 
+was meticulously crafted from optimized stainless steel 
+plates, seamlessly joined through welding and bolted 
+connections.
+CALYX
+Rochester, NY, 2015
+Design: Sabri Gökmen, Project Lead
+Geometry Optimizatiın: Mark Luffel
+Fabrication: Demiurge LLC
+Photography: Courtesy of  J.Adam Fenster 
+Client: University of  Rochester
+
+===== PDF PAGE 49 =====
+96
+97
+GOKMEN  PD & RESEARCH
+Calyx
+23Computation
+Digital Fabrication Workflow
+Creative W ork

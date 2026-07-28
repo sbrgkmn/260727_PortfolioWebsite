@@ -1,0 +1,101 @@
+Source: Research_Portfolio.pdf
+Selected PDF pages: 40, 41, 42
+
+===== PDF PAGE 40 =====
+78
+79
+GOKMEN  PD & RESEARCH
+Creative W ork
+Gothic Diffusion
+Location 
+Year 
+Project Type 
+Artist 
+Collaborator 
+Methods / Output
+Lambla Gallery, UNCC 
+2026 
+Generative AI 
+Sabri Gökmen
+ Joseph Long (Resin Prints) 
+A curated Gothic image corpus was used 
+to train and guide diffusion-based image 
+studies through SDXL LoRA, Control-
+Net, and ComfyUI workflows. Selected 
+outputs were extended through multi-
+view and image-to-mesh processes, pro-
+ducing generated drawings, approximate 
+3D meshes, and resin-printed artifacts.
+Gothic Diffusion
+Gothic Diffusion is an AI-assisted computational design project ex-
+hibited at Lambla Gallery that investigates the relationship between 
+generative images, architectural form, and computational geometry. 
+The project asks what it means for a machine to learn Gothic archi-
+tecture as a system of ribs, tracery, rose windows, vault webs, point-
+ed arches, clustered supports, and ornamental fragments. 
+ 
+The project began with a curated image corpus of Gothic sections, 
+elevations, tracery studies, rose windows, ornamental fragments, 
+and plans. This dataset was used to fine-tune an SDXL model 
+through LoRA training, then guided through ControlNet using 
+line, depth, and edge-based conditions. The resulting image studies 
+were extended into multi-view sequences and converted into ap-
+proximate 3D meshes through image-to-mesh workflows. Selected 
+outputs were fabricated as resin-printed artifacts. 
+ 
+The project demonstrates the visual power of diffusion-based AI 
+while exposing its architectural limits. The generated forms are 
+atmospheric and spatially suggestive, yet they lack explicit geomet-
+ric rules, editable feature histories, structural logic, and parametric 
+relationships. Gothic Diffusion frames image generation as a critical 
+research tool for testing the boundary between visual speculation 
+and computationally legible architectural form.
+
+===== PDF PAGE 41 =====
+80
+81
+GOKMEN  PD & RESEARCH
+Creative W ork
+Gothic Diffusion
+
+===== PDF PAGE 42 =====
+82
+83
+GOKMEN  PD & RESEARCH
+Creative W ork
+Gothic Diffusion
+The Vitruvian Turn: Why Generative Images Fail as Architectural Computation | 9 
+5. Why Generative Images Fail as Architectural Computation 
+Architecture is primarily a generative discipline, but this does not mean generative design is 
+solely dependent on computers or GPUs. With generative AI, architecture faces a crossroads 
+between rule -based geometric scripting and image- based diffusion workflows. The Vitruvian 
+turn signals a return to explicit operations and generative rules that may involve scripts, 
+constraint graphs, parametric dependencies, shape grammars, boundary representations, or other 
+structured descriptions. What these representations share is not a specific software platform but a 
+common property: they make the relations of form available for manipulation. 
+  
+Figure 6. Outputs from the image-to-mesh / resin-printed artifacts. The workflow yields 
+compelling volumetric fragments, but the resulting objects remain semantically thin and 
+only weakly editable as architectural geometry. 
+Image-first diffusion fails this test in four ways. First, it privileges effects over formal and 
+mathematical relations, placing phenomenology over computation. The output records what a 
+form looks like under certain viewing conditions, not what dependencies produced it. Second, it 
+weakens revision. Changes to an image are typically achieved by re -prompting, inpainting, 
+reseeding, or adding new conditions rather than by editing a formal structure from within. This 
+returns the generative process back to the initial noise that created it. Third, it breaks 
+coordination. Even when an image is turned into a mesh, the result rarely carries the semantic 
+structure required for robust exchange with analytical, fabrication, or documentation workflows; 
+the meshes appear as artifacts or objects closed onto themselves (Figure 6). Fourth, it relocates 
+authorship from procedure to curation. The designer becomes highly active in selecting and 
+steering outputs, but comparatively inactive at the level of defining the generative object, the 
+rules, or the algorithm itself. Thus, the generative aspect of architecture becomes a perceptual 
+process rather than a constructive one.  
+Diffusion does not fail because it cannot surprise us; it fails because its surprises are difficult to 
+translate into revisable architectural form. Images remain useful as references, evaluations, and 
+communication devices, and one could argue that diffusion augments the precedent condition by 
+making it generative. However, if images remain the ontological ground of design, they 
+undermine computation. The more precise alternative is not a total rejection of images, but a 
+shift away from representational priority for generative design. Emerging agentic scripting 
+frameworks can offer a viable alternative because they attempt to generate or revise code and 
+operations rather than merely synthesize visual representations (Rietschel, Guo, and Steinfeld 
+2024). These systems are far from solved, and this does not mean generative AI needs to take a

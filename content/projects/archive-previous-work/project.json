@@ -1,0 +1,25 @@
+{
+  "slug": "archive-previous-work",
+  "section": "work",
+  "title": "Archive — Previous Work",
+  "year": "2011–2024",
+  "subtitle": "Creative works and architecture/design competitions",
+  "layout": "wide",
+  "tags": ["Archive", "Creative Practice", "Competitions"],
+  "coverImage": "/projects/archive-previous-work/cover.webp",
+  "coverAlt": "Archive of previous creative and competition work",
+  "summary": "A visual archive of earlier creative works, installations, pavilions, public-art proposals, and architecture/design competitions.",
+  "body": [
+    "The archive includes Gyroid, MinimaBOX, Morphogenetic Vaults, Vitalized Geometry, Opulent Grove, Skin Pavilion, Ver Sacrum, Tangle Jungle, Manifold, and other computational design studies.",
+    "Competition work includes Olivelo Park, Furniture Design for Urban Parks, Bursa Ataturk Sports Facility, Iztuzu Caretta Caretta Hospital, the Didem Madak tomb, the University of Wuppertal replacement building, and Rotonda Mosque."
+  ],
+  "facts": [
+    ["Coverage", "Creative works and competitions"],
+    ["Period", "2011–2024"],
+    ["Format", "Visual archive"]
+  ],
+  "source": {
+    "document": "Research_Portfolio.pdf",
+    "pages": [50, 51, 52, 53]
+  }
+}

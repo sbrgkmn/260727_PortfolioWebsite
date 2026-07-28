@@ -1,0 +1,15 @@
+{
+  "slug": "olivelo-park",
+  "section": "work",
+  "title": "Olivelo Park",
+  "year": "2020",
+  "subtitle": "Ecological Park Competition · Izmir",
+  "layout": "wide",
+  "tags": ["Previous Work", "Competition", "Landscape"],
+  "coverImage": "/projects/olivelo-park/cover.webp",
+  "coverAlt": "Olivelo Park ecological landscape competition proposal",
+  "summary": "An ecological park proposal that integrates lightweight timber structures with a wooded pedestrian landscape.",
+  "body": ["The project received an honorable mention in the Olivelo Ecological Park Competition."],
+  "facts": [["Type", "Landscape competition"], ["Location", "Izmir"], ["Recognition", "Honorable Mention"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [52]}
+}

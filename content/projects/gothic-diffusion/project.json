@@ -1,0 +1,26 @@
+{
+  "slug": "gothic-diffusion",
+  "section": "work",
+  "title": "Gothic Diffusion",
+  "year": "2026",
+  "subtitle": "Generative AI, Gothic morphology, and computational geometry",
+  "layout": "standard",
+  "tags": ["Generative AI", "Gothic Morphology", "Exhibition"],
+  "coverImage": "/projects/gothic-diffusion/cover.jpg",
+  "coverAlt": "Gothic Diffusion image studies",
+  "summary": "Gothic Diffusion is an AI-assisted computational design project that examines what it means for a machine to learn Gothic architecture as a system of ribs, tracery, rose windows, vault webs, pointed arches, and clustered supports.",
+  "body": [
+    "A curated corpus of Gothic sections, elevations, tracery studies, rose windows, ornamental fragments, and plans was used to fine-tune and guide diffusion workflows through SDXL LoRA, ControlNet, and ComfyUI.",
+    "Selected outputs were extended through multi-view and image-to-mesh processes, producing drawings, approximate meshes, and resin-printed artifacts for exhibition at Lambla Gallery."
+  ],
+  "facts": [
+    ["Location", "Lambla Gallery, UNC Charlotte"],
+    ["Artist", "Sabri Gökmen"],
+    ["Collaborator", "Joseph Long, resin prints"],
+    ["Methods", "SDXL LoRA, ControlNet, ComfyUI, image-to-mesh"]
+  ],
+  "source": {
+    "document": "Research_Portfolio.pdf",
+    "pages": [40, 41, 42]
+  }
+}

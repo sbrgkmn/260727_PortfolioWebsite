@@ -1,0 +1,15 @@
+{
+  "slug": "caretta-hospital",
+  "section": "work",
+  "title": "Iztuzu Caretta Caretta Hospital",
+  "year": "2019",
+  "subtitle": "Architecture competition · Iztuzu",
+  "layout": "wide",
+  "tags": ["Previous Work", "Competition", "Architecture"],
+  "coverImage": "/projects/caretta-hospital/cover.webp",
+  "coverAlt": "Iztuzu Caretta Caretta Hospital competition proposal",
+  "summary": "A coastal care facility proposal organized around marine wildlife rehabilitation and public education.",
+  "body": ["The proposal received second prize in the Iztuzu Caretta Caretta Hospital Competition."],
+  "facts": [["Type", "Architecture competition"], ["Location", "Iztuzu"], ["Recognition", "Second Prize"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [53]}
+}

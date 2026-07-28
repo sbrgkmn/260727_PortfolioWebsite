@@ -1,0 +1,685 @@
+Source: Teaching_Portfolio.pdf
+Selected PDF pages: 34, 35, 36, 37
+
+===== PDF PAGE 34 =====
+66
+67
+GOKMEN TEACHING
+AI x Architecture
+Elective Seminar
+Course Summary 
+This elective seminar introduced undergraduate and 
+graduate students to emerging artificial intelligence 
+workflows for architectural design, visualization, 
+scripting, and generative research. The seminar was 
+structured as an accessible but technically ambitious 
+course, welcoming students with different levels of 
+coding, computational design, and AI experience. 
+Rather than presenting AI as a singular tool or short-
+cut, the course framed it as a shifting ecology of 
+methods that can expand architectural authorship, 
+representation, and workflow design. 
+ 
+The central goal of the course was to build AI literacy 
+through direct experimentation and literature review. 
+Students learned to prompt large-language models 
+for design ideas, code, and project narratives; produce 
+architectural images through text-to-image and im-
+age-to-image generation using ComfyUI workflows; 
+generate and post-process geometry from prompts 
+and images; use AI agents for parametric scripting; 
+curate image, text, and geometry datasets; and critical-
+ly reflect on the creative, technical, and ethical implica-
+tions of AI in architectural practice. 
+ 
+The seminar positioned AI as both a creative partner 
+and an object of inquiry. Students were asked not only 
+to produce outputs, but to understand how those 
+outputs were generated, controlled, curated, and 
+interpreted. The course therefore combined technical 
+training with critical reflection, asking students to 
+develop workflows that could be explained, evaluated, 
+and adapted for architectural research and design. 
+ 
+Methodology 
+The course was organized as an open workshop en-
+vironment supported by lectures, tutorials, template 
+files, online repositories, peer learning, and in-class 
+technical support. Approximately thirty percent of 
+class time was dedicated to lectures, tool demon-
+strations, and discussion, while seventy percent was 
+structured as workshop-based learning. This format 
+allowed students to work at different speeds, revisit 
+technical materials through online tutorials, and re-
+ceive targeted feedback during class sessions. 
+ 
+Because AI tools evolve quickly, the course empha-
+sized adaptability over fixed software mastery. Stu-
+dents worked with open-source and cloud-based 
+platforms, including ComfyUI, Runpod, remote 
+GPU workflows, LLM interfaces, scripting agents, and 
+integrated generative tools inside Rhinoceros/Grass-
+hopper. Tutorials were designed to give students a 
+shared technical foundation, while assignments asked 
+them to modify, extend, and critically test workflows 
+for architectural purposes. 
+ 
+The seminar also included readings, tool presenta-
+tions, and discussions on the history, culture, and 
+ethics of artificial intelligence. This helped balance 
+technical experimentation with broader disciplinary 
+questions: What does AI change about representa-
+tion? How does prompting alter authorship? What 
+kinds of biases or constraints are embedded in data-
+sets? How can architects evaluate machine-generated 
+outputs without surrendering design judgment? 
+ 
+Course Structure 
+The semester was divided into three primary modules: 
+Rendering, Scripting, and Datasets. Each module in-
+troduced a different area of AI application and culmi-
+nated in a project or assignment sequence. 
+ 
+Module I: AI & Rendering 
+The first module focused on image synthesis and 
+architectural visualization. Students developed custom 
+ComfyUI workflows using text-to-image, image-to-im-
+age, diffusion models, ControlNet preprocessors, and 
+parametric inputs. W orking individually on selected 
+architectural typologies, students produced visualiza-
+tion studies through controlled variations. The project 
+emphasized technical understanding of inputs and 
+outputs, helping students move beyond prompt-based 
+image generation toward more deliberate workflow 
+construction. 
+ 
+Module II: AI & Scripting 
+The second module introduced AI-assisted coding 
+and parametric form generation. Students worked 
+with scripting agents and large-language models, 
+including tools such as Copilot, Cursor, Claude Code, 
+ChatGPT, and Gemini, to develop architectural form 
+generators in Python, W ebGL, Rhinoceros, or Grass-
+hopper. The emphasis was on documenting the evolu-
+tion of code, testing parametric variation, and under-
+standing how AI agents can support computational 
+modeling without replacing architectural intention. 
+ 
+Module III: AI & Datasets 
+The final module focused on dataset preparation 
+and AI-augmented generative workflows. Students 
+framed research questions, curated images, prompts, 
+or 3D geometry, and developed datasets that could 
+support AI training or generative design experimenta-
+tion. This module introduced students to the logic of 
+dataset construction, including balance, consistency, 
+formatting, and translation between media. Students 
+explored workflows involving 3D meshes, LoRA train-
+ing, and synthetic architectural content generation. 
+ 
+Student W ork Presented 
+The student work from this seminar documents a 
+progression from AI-assisted visualization to AI-as-
+sisted scripting and dataset-based generative research. 
+Projects include custom rendering workflows, image 
+variation matrices, scripted architectural generators, 
+parametric typology studies, curated datasets, and ex-
+perimental workflows that combine images, prompts, 
+geometry, and code. 
+ 
+Learning Outcomes 
+Students developed practical skills in AI tools while 
+strengthening computational and critical thinking that 
+helped demystify AI tools. They learned to construct 
+and evaluate AI workflows, use LLMs for scripting 
+and design support, generate architectural visualiza-
+tions through controlled image pipelines, curate data-
+sets for machine-learning applications, and reflect on 
+the ethical and creative implications of AI in architec-
+ture. The course emphasized that AI is most valuable 
+when paired with architectural judgment: the ability 
+to select, edit, test, interpret, and situate machine-gen-
+erated outputs within a larger design process.
+UNC Charlotte School of Architecture 
+ 
+Instructor:  
+Sabri Gökmen
+ARCH 4050/6306 | Elective Seminar | Fall 2025
+AI x ARCHITECTURE
+
+===== PDF PAGE 35 =====
+68
+69
+GOKMEN TEACHING
+Balinase Kaonga
+David Mba
+4
+WORKFLOW
+An integrated pipeline for transforming conceptual
+sketches into fully rendered 3D environments.
+PARAMETRIC CONCEPT
+SKETCHINGAWING
+COMPUTATIONAL MODELING
+(RHINO + AI INTEGRATION)
+ALGORITHMIC TRANSLATION
+(PYTHON / CLAUDAI SCRIPT)
+SPATIAL VISUALIZATION AND
+SCENE RENDERING
+ (1X) DESK + CHAIR
+(1X) BED
+(1X) CLOSET
+(1X) RUG
+(2X) WINDOWS + BLINDS
+(1X) ARTWORK + POSTERS
+(1X) ENTRANCE DOOR
+(1X) NIGHT STAND
+FURNITURE DESIGN SKETCH
+DEVELOPMENT
+AI-ASSISTED VISUAL
+PROTOTYPING (CHATGPT)
+GEOMETRY
+RECONSTRUCTION AND
+3D MESH PROCESSING
+(COMFYUI)
+ASSET RENDERING AND
+INTEGRATION
+AI X Architecture
+L o
+AR
+Data Set
+UNCC SOA, mixed-use section drawing 
+featuring laundromat café, food stall, communal 
+living, rooftop gardens, and vertical circulation 
+via ladders and walkways.
+UNCC SOA, library section perspective with 
+reading zones, maker spaces, galleries, and 
+vertical interaction; includes conceptual 
+diagrams for overlapping, mixed-age, and 
+furniture-sharing experiences.
+UNCC SOA, vertical section of a 
+community-integrated building 
+with workshops, residences, 
+oﬃces, and green terraces; 
+emphasizes stair-based 
+circulation and urban adjacency.
+UNCC SOA, sectional rendering of a multi-story building with 
+residential units, classrooms, communal gardens, and open atrium 
+spaces; highlights shared zones and environmental integration.
+UNCC SOA, mixed-use building section with underground 
+parking, retail, café, double-height collaborative space, and upper 
+residential /f_loors; color-coded structural elements.
+UNCC SOA, architectural section 
+with brick façade, large windows, 
+staircases, and layered residential 
+and social spaces; includes trees 
+and seating in communal zones.
+UNCC SOA, corporate building 
+section with labeled /f_loors: 
+strategic planning oﬃces, public 
+relations zones, galleries, 
+experience exhibitions, and 
+rooftop gardens; includes 
+Hyundai branding.
+UNCC SOA, urban building complex 
+section with co-working zones, 
+media/music library, cinema, and 
+culture complex; vertically stacked 
+programs from retail to creative 
+workspaces.
+UNCC SOA, sectional rendering of a multi-story 
+building with residential units, classrooms, 
+communal gardens, and open atrium spaces; 
+highlights shared zones and environmental 
+integration.
+UNCC SOA, public building cross-section labeled by elevation: oﬃces, 
+ateliers, auditorium, exhibition, car park, and atrium with open-air 
+cinema, classrooms, and library.
+AI X Architecture
+Output Images
+L o
+AR
+Input Image
+Output Images
+AI X Architecture
+Output Images
+Input Image
+Output Images
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Prompt: Create a Python script to create 10 3d models that rearrange the colored furniture
+within the room in 10 different ways, but still maintain the rules of touching, but keep the colors
+together, meaning red always stays with red, and yellow with yellow, etc, etc. The second change
+is to expand the square footage in 10 different ways that make sense.
+1.200x140 Original - Bed back-left, Desk front-left, Closet back-right
+2.220x150 Larger - Bed back-right, Desk front-right, Closet back-left (mirrored)
+3.240x160 Medium - Bed front-left, Desk back-left, Closet front-right
+4.180x130 Compact - Bed front-right, Desk back-right, Closet front-left
+5.250x170 Spacious - Bed left-center, Desk right-front, Closet right-back
+6.210x160 Wide - Bed right-center, Desk left-front, Closet left-back
+7.230x140 Narrow - Bed right-back, Desk left-back, Closet front-center
+8.200x170 Deep - Bed left-back, Desk right-back, Closet front-right
+9.260x180 Suite - Bed front-center, Desk back-left, Closet back-right
+10.190x150 Moderate - Bed back-center, Desk front-left, Closet front-right
+OUTPUT (CLAUDE.AI)
+INPUT (CLAUDE.AI)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+OUTPUT (CLAUDE.AI)
+INPUT (CLAUDE.AI)
+Prompt: Create 10 varied 3d models utilizing the template script but this time, incorporate interior
+walls, that makes sense to seclude some spaces within the room, but do that 10 different ways, to
+construct a more realistic floor plans
+Variation 1 - L-shaped bathroom (back-right), bed, desk/chair, nightstand, rug
+Variation 2 - Vertical split bathroom (right side), bed, desk/chair, closet, rug
+Variation 3 - L-shaped bathroom (back-left), bed, desk/chair, nightstand, rug
+Variation 4 - Horizontal split bathroom (top), bed, desk/chair, closet, rug
+Variation 5 - L-shaped bathroom (front-right), bed, desk/chair, closet, rug
+Variation 6 - Vertical split bathroom (left side), bed, desk/chair, closet, rug
+Variation 7 - Center bathroom box, bed, desk/chair, closet, nightstand around perimeter
+Variation 8 - L-shaped bathroom (front-left), bed, desk/chair, closet, rug
+Variation 9 - Diagonal bathroom (back-right), bed, desk/chair, closet, nightstand, rug
+Variation 10 - Vertical split bathroom (right side), bed, desk/chair, closet, nightstand, rug
+RENDERS (COMFYUI)
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Prompt: Create a Python script to create 10 3d models that rearrange the colored furniture
+within the room in 10 different ways, but still maintain the rules of touching, but keep the colors
+together, meaning red always stays with red, and yellow with yellow, etc, etc. The second change
+is to expand the square footage in 10 different ways that make sense.
+1.200x140 Original - Bed back-left, Desk front-left, Closet back-right
+2.220x150 Larger - Bed back-right, Desk front-right, Closet back-left (mirrored)
+3.240x160 Medium - Bed front-left, Desk back-left, Closet front-right
+4.180x130 Compact - Bed front-right, Desk back-right, Closet front-left
+5.250x170 Spacious - Bed left-center, Desk right-front, Closet right-back
+6.210x160 Wide - Bed right-center, Desk left-front, Closet left-back
+7.230x140 Narrow - Bed right-back, Desk left-back, Closet front-center
+8.200x170 Deep - Bed left-back, Desk right-back, Closet front-right
+9.260x180 Suite - Bed front-center, Desk back-left, Closet back-right
+10.190x150 Moderate - Bed back-center, Desk front-left, Closet front-right
+OUTPUT (CLAUDE.AI)
+INPUT (CLAUDE.AI)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+OUTPUT (CLAUDE.AI)
+INPUT (CLAUDE.AI)
+Prompt: Create 10 varied 3d models utilizing the template script but this time, incorporate interior
+walls, that makes sense to seclude some spaces within the room, but do that 10 different ways, to
+construct a more realistic floor plans
+Variation 1 - L-shaped bathroom (back-right), bed, desk/chair, nightstand, rug
+Variation 2 - Vertical split bathroom (right side), bed, desk/chair, closet, rug
+Variation 3 - L-shaped bathroom (back-left), bed, desk/chair, nightstand, rug
+Variation 4 - Horizontal split bathroom (top), bed, desk/chair, closet, rug
+Variation 5 - L-shaped bathroom (front-right), bed, desk/chair, closet, rug
+Variation 6 - Vertical split bathroom (left side), bed, desk/chair, closet, rug
+Variation 7 - Center bathroom box, bed, desk/chair, closet, nightstand around perimeter
+Variation 8 - L-shaped bathroom (front-left), bed, desk/chair, closet, rug
+Variation 9 - Diagonal bathroom (back-right), bed, desk/chair, closet, nightstand, rug
+Variation 10 - Vertical split bathroom (right side), bed, desk/chair, closet, nightstand, rug
+RENDERS (COMFYUI)
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Prompt: Create a Python script to create 10 3d models that rearrange the colored furniture
+within the room in 10 different ways, but still maintain the rules of touching, but keep the colors
+together, meaning red always stays with red, and yellow with yellow, etc, etc. The second change
+is to expand the square footage in 10 different ways that make sense.
+1.200x140 Original - Bed back-left, Desk front-left, Closet back-right
+2.220x150 Larger - Bed back-right, Desk front-right, Closet back-left (mirrored)
+3.240x160 Medium - Bed front-left, Desk back-left, Closet front-right
+4.180x130 Compact - Bed front-right, Desk back-right, Closet front-left
+5.250x170 Spacious - Bed left-center, Desk right-front, Closet right-back
+6.210x160 Wide - Bed right-center, Desk left-front, Closet left-back
+7.230x140 Narrow - Bed right-back, Desk left-back, Closet front-center
+8.200x170 Deep - Bed left-back, Desk right-back, Closet front-right
+9.260x180 Suite - Bed front-center, Desk back-left, Closet back-right
+10.190x150 Moderate - Bed back-center, Desk front-left, Closet front-right
+OUTPUT (CLAUDE.AI)
+INPUT (CLAUDE.AI)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+OUTPUT (CLAUDE.AI)
+INPUT (CLAUDE.AI)
+Prompt: Create 10 varied 3d models utilizing the template script but this time, incorporate interior
+walls, that makes sense to seclude some spaces within the room, but do that 10 different ways, to
+construct a more realistic floor plans
+Variation 1 - L-shaped bathroom (back-right), bed, desk/chair, nightstand, rug
+Variation 2 - Vertical split bathroom (right side), bed, desk/chair, closet, rug
+Variation 3 - L-shaped bathroom (back-left), bed, desk/chair, nightstand, rug
+Variation 4 - Horizontal split bathroom (top), bed, desk/chair, closet, rug
+Variation 5 - L-shaped bathroom (front-right), bed, desk/chair, closet, rug
+Variation 6 - Vertical split bathroom (left side), bed, desk/chair, closet, rug
+Variation 7 - Center bathroom box, bed, desk/chair, closet, nightstand around perimeter
+Variation 8 - L-shaped bathroom (front-left), bed, desk/chair, closet, rug
+Variation 9 - Diagonal bathroom (back-right), bed, desk/chair, closet, nightstand, rug
+Variation 10 - Vertical split bathroom (right side), bed, desk/chair, closet, nightstand, rug
+RENDERS (COMFYUI)
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Prompt: Create a Python script to create 10 3d models that rearrange the colored furniture
+within the room in 10 different ways, but still maintain the rules of touching, but keep the colors
+together, meaning red always stays with red, and yellow with yellow, etc, etc. The second change
+is to expand the square footage in 10 different ways that make sense.
+1.200x140 Original - Bed back-left, Desk front-left, Closet back-right
+2.220x150 Larger - Bed back-right, Desk front-right, Closet back-left (mirrored)
+3.240x160 Medium - Bed front-left, Desk back-left, Closet front-right
+4.180x130 Compact - Bed front-right, Desk back-right, Closet front-left
+5.250x170 Spacious - Bed left-center, Desk right-front, Closet right-back
+6.210x160 Wide - Bed right-center, Desk left-front, Closet left-back
+7.230x140 Narrow - Bed right-back, Desk left-back, Closet front-center
+8.200x170 Deep - Bed left-back, Desk right-back, Closet front-right
+9.260x180 Suite - Bed front-center, Desk back-left, Closet back-right
+10.190x150 Moderate - Bed back-center, Desk front-left, Closet front-right
+OUTPUT (CLAUDE.AI)
+INPUT (CLAUDE.AI)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+OUTPUT (CLAUDE.AI)
+INPUT (CLAUDE.AI)
+Prompt: Create 10 varied 3d models utilizing the template script but this time, incorporate interior
+walls, that makes sense to seclude some spaces within the room, but do that 10 different ways, to
+construct a more realistic floor plans
+Variation 1 - L-shaped bathroom (back-right), bed, desk/chair, nightstand, rug
+Variation 2 - Vertical split bathroom (right side), bed, desk/chair, closet, rug
+Variation 3 - L-shaped bathroom (back-left), bed, desk/chair, nightstand, rug
+Variation 4 - Horizontal split bathroom (top), bed, desk/chair, closet, rug
+Variation 5 - L-shaped bathroom (front-right), bed, desk/chair, closet, rug
+Variation 6 - Vertical split bathroom (left side), bed, desk/chair, closet, rug
+Variation 7 - Center bathroom box, bed, desk/chair, closet, nightstand around perimeter
+Variation 8 - L-shaped bathroom (front-left), bed, desk/chair, closet, rug
+Variation 9 - Diagonal bathroom (back-right), bed, desk/chair, closet, nightstand, rug
+Variation 10 - Vertical split bathroom (right side), bed, desk/chair, closet, nightstand, rug
+RENDERS (COMFYUI)
+6
+AI x Architecture
+Elective Seminar
+
+===== PDF PAGE 36 =====
+70
+71
+GOKMEN TEACHING
+Koutar Baddy
+Marco Ramirez-Alvarez
+XY PLOT Depth Map
+ MODEL 2
+modern wooden building, stacked modular volumes, warm timber cladding,
+vertical wood slats, cross-laminated timber structure, precise joinery,
+architectural façade patterning, deep recessed windows, natural wood grain,
+contemporary sustainable architecture, soft daylight, realistic scale, high-quality
+architectural visualization
+Renders Material test
+modern mixed-material building, exposed concrete base volumes,
+warm vertical timber cladding on upper blocks, steel structural
+elements integrated into façade, clean lines, deep window recesses,
+realistic PBR materials, precise joinery, contemporary sustainable
+architecture, soft skylight, sharp shadows, high-resolution
+architectural visualization
+modern concrete building, smooth exposed concrete
+façade, subtle formwork lines, precise edges, deep
+window recesses, minimal openings, soft ambient
+skylight, accurate scale, refined minimalist architecture,
+high-resolution PBR concrete texture, crisp shadows,
+contemporary institutional building, ultra realistic
+architectural visualization
+modern wooden building, stacked modular volumes, warm
+timber cladding, vertical wood slats, cross-laminated timber
+structure, precise joinery, architectural façade patterning,
+deep recessed windows, natural wood grain, contemporary
+sustainable architecture, soft daylight, realistic scale, high-
+quality architectural visualization
+modern steel building, modular stacked volumes,
+exposed steel structural frame, brushed aluminum
+and steel cladding panels, deep window recesses,
+curtain-wall glazing between steel beams, precision
+fabricated joints, realistic architectural scale,
+industrial yet refined aesthetic, clean lines, crisp
+shadows, high-resolution contemporary
+architecture render
+INPUT OUTPUTDepth map+Canny
+ArchitecturalRealMix trained modelFine tuners
+Phase 2 Investigation 
+Conway's game of life Grayscale groups bridge grayscales
+Same Input PROMPT 1—Brutalism + 
+Exposed Concrete + 
+Overcast Sky
+Timber Modernism + 
+Warm Wood + Morning 
+Light
+Metal and Glass Exterior / 
+High Contrast Sunlight
+Stone Façade Exterior / 
+Foggy Ambient Light
+Postmodern Brick & 
+Concrete Exterior / Sharp 
+Daylight Atmosphere
+Technical 
+Implementation
+XY Plot Variation
+X-axis → ControlNet Strength
+● 0.1–0.3:
+ → very free reinterpretations
+ → timber massing shifts, 
+rotated volumes, strong 
+creativity
+● 0.46–0.64:
+ → clearer alignment to 
+original geometry
+ → stable window placement
+ → consistent timber textures
+● 0.82–1.0:
+ → tight shape retention
+ → subtle material and lighting 
+changes only
+Generative Functionality and Variations
+Low CN (0.1–0.28)
+● large geometric departures from 
+the base image
+● new postmodern masses added 
+(cubes, projections, rotated 
+blocks)
+● openings reorganize (vertical vs 
+horizontal emphasis)
+Mid CN (0.46–0.64)
+● brick and concrete textures 
+become more consistent
+● openings, columns, and frames 
+become stable.
+High CN (0.82–1.0)
+● façade alignment closely 
+matches the input layout
+● massing remains stable
+● main variations: glazing 
+proportion, brick tone, daylight 
+intensity
+● concrete panels often appear 
+more deﬁned
+Generative Functionality and Variations
+AI x Architecture
+Elective Seminar
+
+===== PDF PAGE 37 =====
+72
+73
+GOKMEN TEACHING
+Brianna Harbit
+4 December, 2025 AI x Architecture: Tools, Methods, and WorkflowsGenerative Variations
+4 December, 2025 AI x Architecture: Tools, Methods, and WorkflowsWorkflow: ComfyUI
+Input image Prompt Control nets:
+Canny Edge and Depth Anything 
+Trained LoRA: 
+control strength 
+Batch size: 25 at a 
+time
+4 December, 2025 AI x Architecture: Tools, Methods, and Workflows
+VARIATION_SETTINGS = TOWER HEIGHTS
+    # GRADUAL MODE settings:
+ "gradual_min_multiplier": 0.7,   
+ "gradual_max_multiplier": 1.5, 
+ # Castle #1 height (70%)
+ # Castle #10 height (150%)
+GENERATE_MULTIPLE_CASTLES = True 
+START_TOWER_COUNT = 5
+END_TOWER_COUNT = 15 
+CASTLE_SPACING = 100 
+# Starting number of towers 
+# Ending number of towers 
+# Studs between castle centers
+# GENERATE 10 VARIATIONS WITH TOWER 
+WIDTHS FROM 0.6x to 1.6x for i in 
+range(10): 
+# Calculate width multiplier: 0.6 
+to 1.6 in 10 steps width_mult = 0.6 
++ (i * 0.1111) # (1.6 - 0.6) / 9 = 
+0.1111
+Further Exploration
+4 December, 2025 AI x Architecture: Tools, Methods, and Workflows
+Claude ComfyUIRhinoMicrosoft 
+Copilot
+Workflow
+AI x Architecture
+Elective Seminar

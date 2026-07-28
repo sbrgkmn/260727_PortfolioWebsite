@@ -1,0 +1,15 @@
+{
+  "slug": "gyroid",
+  "section": "work",
+  "title": "Gyroid",
+  "year": "2024",
+  "subtitle": "Installation · Kadir Has University, Istanbul",
+  "layout": "standard",
+  "tags": ["Previous Work", "Installation", "Digital Fabrication"],
+  "coverImage": "/projects/gyroid/cover.webp",
+  "coverAlt": "Gyroid installation at Kadir Has University",
+  "summary": "A digitally fabricated installation exploring the continuous geometry and porous structure of a gyroid surface.",
+  "body": ["Created at Kadir Has University in Istanbul with Ibrahim Naci Ozetci and Kaan Demir."],
+  "facts": [["Type", "Installation"], ["Location", "Istanbul"], ["Collaborators", "Ibrahim Naci Ozetci · Kaan Demir"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [50]}
+}

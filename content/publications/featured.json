@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Integrating stable diffusion via remote server APIs for enhanced parametric design workflows.",
+    "href": "https://doi.org/10.1177/14780771251405440",
+    "thumbnail": {
+      "src": "/publications/ijac-2026.webp",
+      "alt": "International Journal of Architectural Computing article cover",
+      "caption": "International Journal of Architectural Computing, 2026",
+      "sourceDocument": "jaca_24_1.largecover.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Stripped and Layered Fabrication of Minimal Surface Tectonics Using Parametric Algorithms.",
+    "href": "https://doi.org/10.1515/cls-2022-0210",
+    "thumbnail": {
+      "src": "/publications/curved-layered-2023.webp",
+      "alt": "Curved and Layered Structures journal cover",
+      "caption": "Curved and Layered Structures, 2023",
+      "sourceDocument": "ChatGPT Image Jun 13, 2026, 11_41_45 AM.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "A Recursive Algorithm for the Generative Study of Seljuk Muqarnas in Kayseri and Sivas.",
+    "href": "https://doi.org/10.1007/s00004-023-00686-4",
+    "thumbnail": {
+      "src": "/publications/nexus-journal-2023.webp",
+      "alt": "Nexus Network Journal cover",
+      "caption": "Nexus Network Journal, 2023",
+      "sourceDocument": "ChatGPT Image Jun 13, 2026, 11_43_09 AM.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Computational Modeling and Analysis of Seljukid Muqarnas in Kayseri.",
+    "href": "https://doi.org/10.1145/3477399",
+    "thumbnail": {
+      "src": "/publications/jocch-2022.webp",
+      "alt": "Journal on Computing and Cultural Heritage cover",
+      "caption": "Journal on Computing and Cultural Heritage, 2022",
+      "sourceDocument": "Screenshot 2026-06-13 105113.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Computation and Optimization of Structural Leaf Venation Patterns for Digital Fabrication.",
+    "href": "https://doi.org/10.1016/j.cad.2021.103150",
+    "thumbnail": {
+      "src": "/publications/cad-2022.webp",
+      "alt": "Computer-Aided Design journal cover",
+      "caption": "Computer-Aided Design, 2022",
+      "sourceDocument": "ChatGPT Image Jun 13, 2026, 11_38_22 AM.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Homeomorphic architecture: Radial prisons and contracted graphs.",
+    "href": "https://doi.org/10.1177/2399808320922239",
+    "thumbnail": {
+      "src": "/publications/environment-planning-b-2020.webp",
+      "alt": "Environment and Planning B journal cover",
+      "caption": "Environment and Planning B, 2020",
+      "sourceDocument": "ChatGPT Image Jun 13, 2026, 11_09_47 AM.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Metamorphic Leaves.",
+    "href": "https://doi.org/10.1162/leon_a_01741",
+    "thumbnail": {
+      "src": "/publications/leonardo-2020.webp",
+      "alt": "Leonardo journal cover",
+      "caption": "Leonardo, 2020",
+      "sourceDocument": "ChatGPT Image Jun 13, 2026, 11_15_46 AM.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Rediscovering Goethe’s concept of polarity: A new direction for architectural morphogenesis.",
+    "href": "https://doi.org/10.4305/metu.jfa.2020.1.5",
+    "thumbnail": {
+      "src": "/publications/metu-jfa-2020.webp",
+      "alt": "METU Journal of the Faculty of Architecture cover",
+      "caption": "METU JFA, 2020",
+      "sourceDocument": "ChatGPT Image Jun 13, 2026, 11_24_08 AM.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "The Vitruvian Turn: Why Generative Images Fail as Architectural Computation.",
+    "href": "https://2026.acadia.org/",
+    "thumbnail": {
+      "src": "/publications/acadia-2026.webp",
+      "alt": "ACADIA 2026 Humanism Recoded conference cover",
+      "caption": "ACADIA 2026",
+      "sourceDocument": "Screenshot 2026-07-02 121143.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Automating Multi-Modal Dataset Workflows in Architecture.",
+    "href": "https://doi.org/10.35483/ACSA.AM.114.22",
+    "thumbnail": {
+      "src": "/publications/acsa-2026.webp",
+      "alt": "ACSA 114 conference abstract book cover",
+      "caption": "ACSA 114 Annual Meeting, 2026",
+      "sourceDocument": "ACSA114-AbstractBook-Cover-618x800.jpg",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Beginning with AI: Frontloading Computational Thinking and Making in Second Year Design Education.",
+    "href": "https://www.academia.edu/168645669/Beginning_with_AI_Frontloading_Computational_Thinking_and_Making_in_Second_Year_Design_Education",
+    "thumbnail": {
+      "src": "/publications/ncbds-2026.webp",
+      "alt": "NCBDS 41 conference program cover",
+      "caption": "NCBDS 41, 2026",
+      "sourceDocument": "2026_0218-_SAP_NCBDS41-Brochure_FINAL 1.pdf",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Prompt2Product: Using Stable Diffusion for Parametric Modeling and Manufacturing of Ceramic Products,",
+    "href": "https://doi.org/10.52842/conf.ecaade.2025.2.167",
+    "thumbnail": {
+      "src": "/publications/ecaade-2025.webp",
+      "alt": "eCAADe 2025 conference proceedings cover",
+      "caption": "eCAADe 2025",
+      "sourceDocument": "Screenshot 2026-06-13 123711.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Gothic Anatomy: Computational Analysis of Cathedral Plans Using Branching Graphs.",
+    "href": "https://www.academia.edu/168645462/GOTHIC_ANATOMY_COMPUTATIONAL_ANALYSIS_OF_CATHEDRAL_PLANS_USING_BRANCHING_GRAPHS",
+    "thumbnail": {
+      "src": "/publications/nexus-2025.webp",
+      "alt": "Nexus 2025 conference book cover",
+      "caption": "Nexus 2025",
+      "sourceDocument": "7_GOKMEN_NEXUS 2025 (1) 1.pdf",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Digital Wallpaper: Tiles of Proliferation and Continuity",
+    "href": "https://papers.cumincad.org/data/works/att/acadia14_301.content.pdf",
+    "thumbnail": {
+      "src": "/publications/acadia-2014.webp",
+      "alt": "ACADIA 2014 Design Agency conference proceedings cover",
+      "caption": "ACADIA 2014",
+      "sourceDocument": "Screenshot 2026-06-13 125508.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "Tangle Jungle: An experimental project to combine collaboration and craftsmanship in digital design pedagogy",
+    "href": "https://papers.cumincad.org/data/works/att/caadria2014_108.content.pdf",
+    "thumbnail": {
+      "src": "/publications/caadria-2014.webp",
+      "alt": "CAADRIA 2014 conference proceedings cover",
+      "caption": "CAADRIA 2014",
+      "sourceDocument": "ChatGPT Image Jun 13, 2026, 01_01_01 PM.png",
+      "sourcePage": 1
+    }
+  },
+  {
+    "title": "A Morphogenetic Approach for Performative Building Envelope Systems Using Leaf Venetian Patterns,",
+    "href": "https://papers.cumincad.org/data/works/att/ecaade2013_167.content.pdf",
+    "thumbnail": {
+      "src": "/publications/ecaade-2013.webp",
+      "alt": "eCAADe 2013 Computation and Performance conference proceedings cover",
+      "caption": "eCAADe 2013",
+      "sourceDocument": "largepreview.webp",
+      "sourcePage": 1
+    }
+  }
+]

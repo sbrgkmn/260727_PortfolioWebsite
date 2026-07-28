@@ -1,0 +1,2011 @@
+Source: Teaching_Portfolio.pdf
+Selected PDF pages: 18, 19, 20, 21, 22, 23
+
+===== PDF PAGE 18 =====
+34
+35
+GOKMEN TEACHING
+Morphogenetic T ypologies
+T opical Studio
+Project Summary 
+Morphogenetic T ypologies investigated historical 
+architectural precedents through computational 
+and generative methods. The studio focused on 
+pre-20th-century, wing-based building types whose 
+spatial organization developed through symmetry, 
+proportional systems, subdivision, accretion, axial hi-
+erarchy, and branching. Rather than treating historical 
+buildings as dormant artifacts or stylistic references, 
+students studied them as rule-based systems capable of 
+producing new architectural variations. 
+ 
+The studio asked students to examine how large ar-
+chitectural types organize complexity. Palaces, manor 
+houses, pavilion hospitals, asylums, radial prisons, and 
+Palladian villas were treated as formal machines: build-
+ings whose plans, wings, courtyards, axes, thresholds, 
+and circulation structures were shaped by repeatable 
+organizational principles. Through this lens, historical 
+architecture became a source of computational intelli-
+gence. Students were not asked to reproduce historical 
+styles, but to extract the abstract rules that allowed 
+each typology to grow, stabilize, mutate, and produce 
+coherent spatial order. 
+ 
+Methodology 
+The semester was organized in two primary stages: 
+computational analysis and generative synthesis. 
+ 
+In the first half of the semester, students conducted 
+computational analysis of selected precedents. W ork-
+ing within typological research groups, they began by 
+documenting and reconstructing historical buildings 
+through drawings, diagrams, and digital models. This 
+phase emphasized abstraction. Students reduced com-
+plex architectural plans into legible geometric systems, 
+studying how symmetry, ratio, axial organization, 
+triangulation, subdivision, repetition, and branching 
+shaped each precedent. 
+ 
+This analytical phase asked students to move care-
+fully from image to diagram, from diagram to rule, 
+and from rule to model. They developed symmetry 
+breakdowns, proportional studies, growth diagrams, 
+and taxonomies of formal operations. T riangulation 
+was used as both an analytical and generative method: 
+a way to clarify relationships between centers, wings, 
+axes, courtyards, and peripheral zones. Through this 
+work, students learned to describe historical architec-
+ture not only through form, style, or program, but 
+through the deeper formal and organizational proce-
+dures that structure typological identity. 
+ 
+The second half of the semester shifted from analysis 
+to synthesis. Students translated their precedent stud-
+ies into parametric algorithms and generative work-
+flows. Using agentic scripting tools such as Cursor and 
+Codex, students translated formal rules into recursive 
+algorithms and generative design interfaces capable 
+of producing controlled variations of their selected 
+typologies. The goal was to implement historical rules 
+as operative design procedures, allowing each typology 
+to be tested through parameter changes, formal muta-
+tions, and scripted variation. 
+ 
+This phase treated the algorithm as an architectur-
+al research instrument. Students used scripting to 
+automate the transformation of typological rules, 
+producing families of massing, plan, and spatial 
+configurations. Agentic scripting tools supported the 
+development of code, debugging, parametric logic, 
+and iterative exploration, allowing students to move 
+more fluidly between architectural intention and com-
+putational implementation. Rather than producing a 
+single final design, each project developed a generative 
+machine capable of exploring variation for the final 
+review.  
+ 
+Students also investigated how AI tools could extend 
+architectural morphology through dataset prepara-
+tion, synthetic outputs, and the study of variation. 
+The emphasis remained architectural: AI and scripting 
+were used to test how far typological identity could be 
+stretched before it became unstable, unbalanced, or 
+transformed into a new formal species. 
+ 
+Research Tracks 
+Student projects were organized around historical-
+ly significant architectural typologies and extracted 
+formal growth principles. Palace studies examined 
+grouping, symmetrical hierarchy and recursive seg-
+mentation in plan. Manor house projects focused on 
+accretion, domestic expansion, asymmetry, chimney 
+clustering and wing-based growth. Pavilion hospital 
+studies investigated modular repetition, environmen-
+tal spacing, and distributed massing strategies. Each 
+typology was first analyzed through diagrams that later 
+became explicit rules for the generative machines.  
+Student Outcomes 
+The final work demonstrated a progression from his-
+torical analysis to computational authorship. Students 
+produced precedent diagrams, abstraction studies, 
+symmetry analyses, triangulated mappings, typological 
+taxonomies, digital reconstructions, scripted systems, 
+parametric models, synthetic outputs, and machine 
+matrices. Using agentic scripting and AI-assisted work-
+flows, they translated historical architectural knowl-
+edge into generative design systems without reducing 
+precedent to stylistic imitation. 
+ 
+T ogether, the student work positioned typology as an 
+active design engine. Each project began with the close 
+study of a historical precedent and transformed its 
+underlying organizational logic into a computational 
+model capable of generating, varying, and critically 
+testing architectural form. The studio connected 
+architectural history with contemporary computation-
+al practice and emerging artificial intelligence tools, 
+showing students how historical morphology can 
+support new methods of design research, parametric 
+variation, and speculative architectural production.
+UNC Charlotte School of Architecture 
+ 
+Instructor:  
+Sabri Gökmen
+ARCH 4102/7102 | Topical Studio | Spring 2026
+MORPHOGENETIC TYPOLOGIES
+
+===== PDF PAGE 19 =====
+36
+37
+GOKMEN TEACHING
+T opical Studio
+Morphogenetic T ypologies
+Ayesha Akhter and V ashti Williams
+Symmetry 80:20
+50% 
+wing
+length
+50% 
+wing
+length
+90% 
+wing 
+length
+10% wing length
+50%
+50% 50%
+50%
+Diagram 1
+Wings 
+1. Wings grow from a node on the main axis.
+2. The wing spine grows along with the wings.
+3. Wing width is fixed.
+4. Wing spacing is controlled by a multiple of  Wing width. (2.5x)
+5. The wing span along the loop ramps from “mostly full perimeter” toward an arc-only window
+           bettween chamfer and semicircle; at full semicircle the wings sit on that arc window.  
+6. Wing distribution is proportionate.
+7. Wings do not overlap with other Wings. 
+8. Wings have a maturity threshold at 40. 
+9. Wings begin to grow towers when they hit the maturity index.
+10. Wing growth ends when a tower grows exactly on the wing spine in the center. 
+11. Double Loaded Wings can have lateral shifts.
+Symmetry line redistributes 
+wings and volume for wings 
+on both sides
+primary 
+axis
+Diagram 2
+Diagram 3
+Diagram 4
+shiftwings by the same 
+unit amount between each 
+unit leg 
+shift wings by the same 
+unit amount between each 
+unit leg 
+10% space for wings 90% space for wings
+Volume
+Branch 2, Sub-Branch 0
+Primary Axis
+1. The primary axis is horizontal, it grows from the hub from opposite directions.
+2. Bottom grows from the center of  the hub, sides rise into a U, then the top closes from the sides, 
+          then morphs into a rectangle, then a chamfer, then final semi-circle
+3. Longer axes increase the number of  Wings deployed along the axes. 
+4. Primary axis can be single-loaded or double-loaded with Wings.
+5. Semicircular paths are not double-loaded with Wings.
+6. The closed shapes are built from segments, blended with smoothstep 
+          between integer states, with samples rotated so one shape doesn’t “fold” badly into the next.
+Principles
+Corridor Growth
+1 2 3
+54
+Symmetry 60:40
+WpWpWp
+WiWi
+WsWs
+Wp - Primary Wing
+Ws- Secondary Wing 
+Wi   - Immature Wing
+C - Central Mass
+C
+C W’
+W’ W’W’ WpWi Wi Wi
+WpWpWpWp Wp Wp
+Wp - Primary Wing
+W’ - Modified Wing 
+Wi  - Immature Wing
+Wing’s Lateral & vertical Growth
+WiWi
+WiWp
+Wp WpWp Wp
+Wp
+WsWp - Primary Wing
+Ws- Secondary Wing 
+Wi   - Immature Wing
+C - Central Mass
+C
+Symmetry 50:50Towers & ProtrusionsNodes
+Symmetry
+Wings Length
+Towers & ProtrusionsNodesSymmetry
+Symmetry 20:80
+Wing’s Lateral & vertical Growth
+Branch 3, Sub-Branch 2
+Lariboisière Hospital
+Typology of  pavilion hospital
+Courtyard Radial
+Prince Albert Royal Infirmary 
+University College Hospital,London
+Norfolk Hospital, Norfolk
+Workhouse Union Hospital
+Stuyvenburg Hospital, Belgium
+Wing’s Population
+Cambridge Military Hospital
+Parallel Linear
+Typology of  pavilion hospital
+West Bromwich District Hospital
+Dansberry Hospital Royal Herbert Hospital
+Prince Albert Royal Infirmary 
+St Thomas' Hospital
+Pavilion Hospitals
+
+===== PDF PAGE 20 =====
+39
+TEACHING
+38
+GOKMEN
+/uni25C6
+3
+1
+1/uni25C6
+2
+2
+/uni25C6
+1
+Levels: 1 - 3 /uni25C6 1 - 1 /uni25C6 2 /uni25C6 2
+Splits:  3 /uni2192 [3/uni21920,/uni25C6,0] [/uni25B6/uni21923/uni21920,/uni25C6,0] [3/uni21920,0,/uni25C6] 
+23%
+25%
+52%
+~923 /f_t/two.numerator/space.frac/uni2192 53% ~613 /f_t/two.numerator/space.frac/uni2192 35%~215 /f_t/two.numerator/space.frac/uni2192 12%
+/uni25C6
+3
+1
+1/uni25C6
+2
+2
+/uni25C6
+1
+Levels: 1 - 3 /uni25C6 1 - 1 /uni25C6 2 /uni25C6 2
+Splits:  3 /uni2192 [3/uni21920,/uni25C6,0] [/uni25B6/uni21923/uni21920,/uni25C6,0] [3/uni21920,0,/uni25C6] 
+23%
+25%
+52%
+~923 /f_t/two.numerator/space.frac/uni2192 53% ~613 /f_t/two.numerator/space.frac/uni2192 35%~215 /f_t/two.numerator/space.frac/uni2192 12%
+Levels:  1 - 2 - 4 /uni25C6 2 - 2 - 2 - 2
+Splits:  2 /uni2192 [2/uni21920,0] [2/uni21920,/uni25C6,0] [2/uni21920,0] [2/uni21920,0]
+31%
+69%
+~140 /f_t/two.numerator/space.frac/uni2192 18% ~140 /f_t/two.numerator/space.frac/uni2192 18%~459/f_t/two.numerator/space.frac/uni2192 64%
+1
+2
+4
+2
+2
+2
+2
+/uni25C6
+Levels:  1 - 2 - 4 /uni25C6 2 - 2 - 2 - 2
+Splits:  2 /uni2192 [2/uni21920,0] [2/uni21920,/uni25C6,0] [2/uni21920,0] [2/uni21920,0]
+31%
+69%
+~140 /f_t/two.numerator/space.frac/uni2192 18% ~140 /f_t/two.numerator/space.frac/uni2192 18%~459/f_t/two.numerator/space.frac/uni2192 64%
+1
+2
+4
+2
+2
+2
+2
+/uni25C6
+Levels:  1 - 2 /uni25C6 5 - 6 - 3 - 10 - 4 - 4 - 4 - 4 - 4 - 7 - 4 - 2 - 2
+Splits:  3 /uni2192 [2/uni2192(3/uni2192(2/uni21920,0),(6/uni21920,0,0,0,0,0),(2/uni21920,0)) (3/uni2192(2/uni21920,0),(/uni25B6/uni21926/uni21920,0,0,0,0,0),(2/uni21920,0))] ...
+  ... [/uni25C6] [2/uni2192(3/uni2192(2/uni21920,0),(6/uni21920,0,0,0,0,0),(2/uni21920,0)) (3/uni2192(2/uni21920,0),(6/uni21920,0,0,0,0,0),(2/uni21920,0))]
+31%
+69%
+~140 /f_t/two.numerator/space.frac/uni2192 18% ~140 /f_t/two.numerator/space.frac/uni2192 18%~459/f_t/two.numerator/space.frac/uni2192 64%
+1
+2
+5
+6
+3
+10
+4
+44
+447422
+/uni25C6
+Levels:  1 - 2 /uni25C6 5 - 6 - 3 - 10 - 4 - 4 - 4 - 4 - 4 - 7 - 4 - 2 - 2
+Splits:  3 /uni2192 [2/uni2192(3/uni2192(2/uni21920,0),(6/uni21920,0,0,0,0,0),(2/uni21920,0)) (3/uni2192(2/uni21920,0),(/uni25B6/uni21926/uni21920,0,0,0,0,0),(2/uni21920,0))] ...
+  ... [/uni25C6] [2/uni2192(3/uni2192(2/uni21920,0),(6/uni21920,0,0,0,0,0),(2/uni21920,0)) (3/uni2192(2/uni21920,0),(6/uni21920,0,0,0,0,0),(2/uni21920,0))]
+31%
+69%
+~140 /f_t/two.numerator/space.frac/uni2192 18% ~140 /f_t/two.numerator/space.frac/uni2192 18%~459/f_t/two.numerator/space.frac/uni2192 64%
+1
+2
+5
+6
+3
+10
+4
+44
+447422
+/uni25C6
+1
+3
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+2
+A1
+A2
+A3
+A4
+A1
+A4
+B1
+B2
+A2
+A3
+B3
+B4
+A1
+B2
+A4
+B3
+B1
+A2
+A3
+C1
+C2
+B4
+C3
+C4
+C5
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+A2
+A3
+A4
+A1
+A4
+B1
+B2
+A2
+A3
+B3
+B4
+A1
+B2
+A4
+B3
+B1
+A2
+A3
+C1
+C2
+B4
+C3
+C4
+C5
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+A2
+A3
+A4
+A1
+A2
+A4
+B1
+B2
+B3
+B4
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+A2
+A3
+A4
+A1
+A2
+A4
+B1
+B2
+B3
+B4
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+A2
+A3
+A4
+A1
+A2
+A4
+B1
+B2
+B3
+B4
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+A2
+A3
+A1
+A2
+A3
+B1
+B2
+B3
+B4
+A1
+A2
+B1
+B3
+A3
+B2
+B4
+C1
+C2
+C3
+C4
+A1
+A2
+B1
+B3
+C1
+C4
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+D3
+D4
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E1
+E2
+E3
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F1
+F2
+F3
+F4
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+F1
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F2
+F3
+F4
+G1
+G2
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+F1
+G1
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F2
+F3
+F4
+G2
+H1
+H2
+H3
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+F1
+G1
+H1
+H2
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F2
+F3
+F4
+G2
+H3
+I1
+I2
+I3
+I4
+I5
+A1
+A2
+A3
+A1
+A2
+A3
+B1
+B2
+B3
+B4
+A1
+A2
+B1
+B3
+A3
+B2
+B4
+C1
+C2
+C3
+C4
+A1
+A2
+B1
+B3
+C1
+C4
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+D3
+D4
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E1
+E2
+E3
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F1
+F2
+F3
+F4
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+F1
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F2
+F3
+F4
+G1
+G2
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+F1
+G1
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F2
+F3
+F4
+G2
+H1
+H2
+H3
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+F1
+G1
+H1
+H2
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F2
+F3
+F4
+G2
+H3
+I1
+I2
+I3
+I4
+I5
+A1
+A2
+A3
+A1
+A2
+A3
+B1
+B2
+B3
+B4
+A1
+A2
+B1
+B3
+A3
+B2
+B4
+C1
+C2
+C3
+C4
+A1
+A2
+B1
+B3
+C1
+C4
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+D3
+D4
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E1
+E2
+E3
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F1
+F2
+F3
+F4
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+F1
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F2
+F3
+F4
+G1
+G2
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+F1
+G1
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F2
+F3
+F4
+G2
+H1
+H2
+H3
+A1
+A2
+B1
+B3
+C1
+C4
+D3
+D4
+E1
+E3
+F1
+G1
+H1
+H2
+A3
+B2
+B4
+C2
+C3
+D1
+D2
+E2
+F2
+F3
+F4
+G2
+H3
+I1
+I2
+I3
+I4
+I5
+A1
+A2
+A3
+A4
+A3
+A4
+A1
+A2
+B1
+B2
+B3
+B4
+A3
+B2
+A4
+B4
+A1
+A2
+B1
+C1
+C2
+B3
+C3
+C4
+A3
+B2
+C2
+A4
+B4
+C3
+C4
+A1
+A2
+B1
+C1
+D1
+D2
+B3
+D3
+D4
+D5
+A3
+B2
+C2
+D2
+A4
+B4
+C3
+C4
+D5
+A1
+A2
+B1
+C1
+D1
+E1
+E2
+B3
+D3
+D4
+E3
+E4
+A1
+A2
+A3
+A4
+A3
+A4
+A1
+A2
+B1
+B2
+B3
+B4
+A3
+B2
+A4
+B4
+A1
+A2
+B1
+C1
+C2
+B3
+C3
+C4
+A3
+B2
+C2
+A4
+B4
+C3
+C4
+A1
+A2
+B1
+C1
+D1
+D2
+B3
+D3
+D4
+D5
+A3
+B2
+C2
+D2
+A4
+B4
+C3
+C4
+D5
+A1
+A2
+B1
+C1
+D1
+E1
+E2
+B3
+D3
+D4
+E3
+E4
+A1
+A2
+A3
+A4
+A3
+A4
+A1
+A2
+B1
+B2
+B3
+B4
+A3
+B2
+A4
+B4
+A1
+A2
+B1
+C1
+C2
+B3
+C3
+C4
+A3
+B2
+C2
+A4
+B4
+C3
+C4
+A1
+A2
+B1
+C1
+D1
+D2
+B3
+D3
+D4
+D5
+A3
+B2
+C2
+D2
+A4
+B4
+C3
+C4
+D5
+A1
+A2
+B1
+C1
+D1
+E1
+E2
+B3
+D3
+D4
+E3
+E4
+A1
+A2
+A3
+A4
+A1
+A4
+B1
+B2
+A2
+A3
+B3
+B4
+A1
+B2
+A4
+B3
+B1
+A2
+A3
+C1
+C2
+B4
+C3
+C4
+C5
+A1
+B2
+A4
+C2
+B3
+C5
+B1
+A2
+A3
+C1
+B4
+D1
+D2
+C3
+C4
+D3
+D4
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+A1
+B1
+A2
+B3
+B4
+A4
+C1
+C2
+C3
+B2
+C4
+C5
+C6
+C7
+A3
+B5
+1
+2
+3
+Morphogenetic T ypologies
+Ethan Bolton and Marco Ramirez
+T opical Studio
+Picturesque V ernacular Houses
+Pavilion Hospitals
+
+===== PDF PAGE 21 =====
+41
+TEACHING
+40
+GOKMEN
+Vitoria Muchiutti and Bryan V argas Elvira
+T opical Studio
+Full Triangulation
+Initial geometry
+Sample A Sample B Sample C
+Square 5
+121902
+Model Location 3
+Half  Heart
+Half  Star 4
+536626
+Model Location 1 
+Triangle
+Prince de Condé 
+plan
+Prince de Condé 
+1765
+Oeuvres d'architecture
+Sample C
+Sample B
+Sample A
+Base Diagram 1/4 of  base Diagram Add Objects
+Prince de Condé 
+1/4
+Triangle 1
+17
+Half  Heart 1
+498267
+Half  Heart 2
+600534
+Square 1
+284241
+Half  Star 1
+809561
+Square 3
+119952
+Morphogenetic T ypologies
+Peyre’s Palaces
+
+===== PDF PAGE 22 =====
+42
+43
+T opical Studio
+GOKMEN TEACHING
+Max Rodriguez and Jack Wier
+T opical Studio
+Hat/f_ield House
+2 4
+5
+2 24
+2 4
+5
+2
+2
+5
+2
+2 2
+2 2
+2 2
+A A(/]B)A
+A(/]B)A(/]C) A(/]B)A(/]C)A(/]D)
+A(/]B[B)A(/]C[B)A(/]D[B) A(/]B[B)A(/]C[B)A(/]D(/[A)[B)
+Syntax
+Monticute House
+2 2 1
+1 1
+1
+2 2 1
+1
+1
+2 1
+A
+A(/]B)A A(/]B)A([B)(]B)
+A(/]B)A([B)(]B(/]C)) A(/]B)A([B)(]B(/]C))/D
+Syntax
+AA
+Audley End House AB[A(/A)A(/B)B[A(/A)A(/B)A[B[A(/B)B
+B([A)A([B)B([B)A([A)B
+B([B)B([B)B([A)B([A)B([B)B(/A)A
+AB(/B)A[B[B(/B)A(/A)A(/B)B
+B([A)B([B)B([A)B([A)
+B([B)B([B)B(/A)B([A)B
+B([A)A([A)A([B)A([B)A/B
+B([B)B([A)A/B
+BABBABAABAAAAA
+5
+5
+2
+2
+1 1
+13
+1
+3
+2
+1 1
+13
+3
+2
+1 1
+1
+AA A(/[B)A/[C
+A(/[B]C)A/[C A(/[B]CB]C)A/[C A(/[B]CB]CB]C)A/[C
+A(/[B]CB]CB]CB]C)A/[C A(/[B]CB]CB]CB]CB]C)A/[C
+Syntax
+A
+Morphogenetic T ypologies
+Palatial Country Houses
+
+===== PDF PAGE 23 =====
+44
+45
+T opical Studio
+GOKMEN TEACHING
+Final Review
+Morphogenetic T ypologies

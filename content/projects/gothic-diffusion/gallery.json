@@ -1,0 +1,20 @@
+[
+  {
+    "src": "/projects/gothic-diffusion/gallery/generated-rosettes.webp",
+    "alt": "Gothic Diffusion generated rose-window studies",
+    "caption": "Generated Gothic rose-window studies",
+    "sourcePage": 40
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/dataset-and-training.webp",
+    "alt": "Gothic Diffusion dataset, training, and generated image comparisons",
+    "caption": "Dataset, training, and generated image comparisons",
+    "sourcePage": 41
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/exhibition.webp",
+    "alt": "Gothic Diffusion exhibition installation and projection",
+    "caption": "Exhibition installation and projection",
+    "sourcePage": 42
+  }
+]

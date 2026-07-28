@@ -1,0 +1,27 @@
+{
+  "slug": "spiromorphs",
+  "section": "work",
+  "title": "Spiromorphs",
+  "year": "2021–2022",
+  "subtitle": "Procedural generative artwork built from recursive circular motion",
+  "layout": "wide",
+  "tags": ["Generative Art", "Morphology", "p5.js"],
+  "coverImage": "/projects/spiromorphs/thumbnail.webp",
+  "coverAlt": "Single red and gold Spiromorph generative artwork",
+  "summary": "Spiromorphs is a procedural generative artwork that produces emergent spiral morphologies from unique hash-based configurations.",
+  "body": [
+    "Each composition is generated through chained circles that overlay periodic motions, producing patterned behavior, quasi-chaotic motion, rotational drift, and layered color variation.",
+    "The system includes six morphology types, sixteen color combinations, six symmetry-fold conditions, three animation speeds, and parameters controlling direction, length, opacity, circle count, and rotation."
+  ],
+  "facts": [
+    ["Artist", "Sabri Gökmen"],
+    ["Platform", "Web browser, p5.js"],
+    ["Launch", "December 10, 2021"],
+    ["Completion", "January 3, 2022"],
+    ["Project link", "https://www.artblocks.io/project/221"]
+  ],
+  "source": {
+    "document": "Research_Portfolio.pdf",
+    "pages": [45]
+  }
+}

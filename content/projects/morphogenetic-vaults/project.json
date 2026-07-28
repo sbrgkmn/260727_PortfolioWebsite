@@ -1,0 +1,15 @@
+{
+  "slug": "morphogenetic-vaults",
+  "section": "work",
+  "title": "Morphogenetic Vaults",
+  "year": "2019",
+  "subtitle": "Generative structural study",
+  "layout": "standard",
+  "tags": ["Previous Work", "Morphogenesis", "Structural Form"],
+  "coverImage": "/projects/morphogenetic-vaults/cover.webp",
+  "coverAlt": "Morphogenetic Vaults computational variations",
+  "summary": "A generative study of branching vault structures developed through morphological variation.",
+  "body": ["The project tests families of structurally differentiated surfaces produced through shared geometric rules."],
+  "facts": [["Type", "Computational study"], ["Year", "2019"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [50]}
+}

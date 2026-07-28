@@ -1,0 +1,15 @@
+{
+  "slug": "wuppertal-replacement-building",
+  "section": "work",
+  "title": "Replacement Building for University of Wuppertal",
+  "year": "2011",
+  "subtitle": "Architecture competition · Wuppertal",
+  "layout": "wide",
+  "tags": ["Previous Work", "Competition", "Architecture"],
+  "coverImage": "/projects/wuppertal-replacement-building/cover.webp",
+  "coverAlt": "University of Wuppertal replacement building competition proposal",
+  "summary": "A university building proposal organized as a terraced academic complex with landscaped roofs.",
+  "body": ["The proposal received second prize in the Replacement Building for University of Wuppertal Design Competition."],
+  "facts": [["Type", "Architecture competition"], ["Location", "Wuppertal"], ["Recognition", "Second Prize"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [53]}
+}

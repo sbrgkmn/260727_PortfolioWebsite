@@ -1,0 +1,27 @@
+{
+  "slug": "steambot",
+  "section": "work",
+  "title": "SteamBot",
+  "year": "2026",
+  "subtitle": "Computational methods for integrated robotic bending of steamed timber",
+  "layout": "wide",
+  "tags": ["Robotic Fabrication", "Timber", "Material Research"],
+  "coverImage": "/projects/steambot/thumbnail.webp",
+  "coverAlt": "Single SteamBot bent-timber column prototype",
+  "summary": "SteamBot investigates how computational design and industrial robotics can extend steam bending while preserving wood grain, flexibility, springback, and material behavior.",
+  "body": [
+    "The project develops a jigless robotic steam-bending workflow for producing modular timber members from linear wood strips. It replaces fixed formwork with a programmable forming process that can generate controlled families of related but non-identical components.",
+    "Research combines material characterization, computational modeling, toolpath development, robotic bending, curing, and assembly studies. The resulting members can be configured as columns, linear walls, and larger pavilion-scale structures."
+  ],
+  "facts": [
+    ["Agency", "UNC Charlotte Faculty Research Grant"],
+    ["Role", "Principal Investigator"],
+    ["Co-PI", "L. Taner Tunc"],
+    ["Duration", "January 2025–June 2026"],
+    ["Status", "Completed"]
+  ],
+  "source": {
+    "document": "Research_Portfolio.pdf",
+    "pages": [23, 24, 25, 26]
+  }
+}

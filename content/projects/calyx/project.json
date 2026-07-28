@@ -1,0 +1,27 @@
+{
+  "slug": "calyx",
+  "section": "work",
+  "title": "Calyx",
+  "year": "2015",
+  "subtitle": "Public sculpture generated from leaf-venation systems",
+  "layout": "portrait",
+  "tags": ["Public Art", "Leaf Venation", "Digital Fabrication"],
+  "coverImage": "/projects/calyx/cover.jpg",
+  "coverAlt": "Calyx public sculpture at the University of Rochester",
+  "summary": "Calyx is a public sculpture commissioned by the University of Rochester that translates biological organization into a generative design and fabrication process.",
+  "body": [
+    "Custom leaf-venation algorithms generated three-dimensional branching patterns that grow, connect, thicken, and stabilize across a surface, producing an open lattice that expands from a compact base into a canopy-like form.",
+    "Geometry optimization translated the branching network into individual stainless-steel plates that could be cut, welded, and bolted into an architectural-scale campus landmark."
+  ],
+  "facts": [
+    ["Location", "Rochester, New York"],
+    ["Design", "Sabri Gökmen, project lead"],
+    ["Geometry optimization", "Mark Luffel"],
+    ["Fabrication", "Demiurge LLC"],
+    ["Client", "University of Rochester"]
+  ],
+  "source": {
+    "document": "Research_Portfolio.pdf",
+    "pages": [48, 49]
+  }
+}

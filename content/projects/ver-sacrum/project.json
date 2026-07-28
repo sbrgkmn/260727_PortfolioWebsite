@@ -1,0 +1,15 @@
+{
+  "slug": "ver-sacrum",
+  "section": "work",
+  "title": "Ver Sacrum",
+  "year": "2015",
+  "subtitle": "Installation · Decatur",
+  "layout": "portrait",
+  "tags": ["Previous Work", "Installation", "BFRLab"],
+  "coverImage": "/projects/ver-sacrum/cover.webp",
+  "coverAlt": "Ver Sacrum digitally fabricated installation",
+  "summary": "A suspended installation composed from perforated, folded geometric panels.",
+  "body": ["Developed in Decatur with BFRLab."],
+  "facts": [["Type", "Installation"], ["Location", "Decatur"], ["Collaborator", "BFRLab"]],
+  "source": {"document": "Research_Portfolio.pdf", "pages": [51]}
+}
