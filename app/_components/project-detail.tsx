@@ -1,14 +1,33 @@
-import type { Project } from "../../content/portfolio";
+import {
+  getSingleYear,
+  selectedWorkLabels,
+  type Project,
+} from "../../content/portfolio";
+import { ProjectSlideshow } from "./project-slideshow";
 import { SiteHeader } from "./site-header";
 
 type ProjectDetailProps = {
   project: Project;
 };
 
+const workLocationFallbacks: Record<string, string> = {
+  steambot: "UNC Charlotte",
+  spiromorphs: "Online / Art Blocks",
+};
+
+function findFact(project: Project, labelIncludes: string) {
+  return project.facts.find(([label]) =>
+    label.toLowerCase().includes(labelIncludes),
+  )?.[1];
+}
+
 export function ProjectDetail({ project }: ProjectDetailProps) {
   const isTeaching = project.section === "teaching";
-  const isArchive = project.slug === "archive-previous-work";
+  const isWorkArchive = project.slug === "archive-previous-work";
+  const isTeachingArchive = project.slug === "archive-previous-teaching";
+  const isArchive = isWorkArchive || isTeachingArchive;
   const isPreviousWork = project.tags.includes("Previous Work");
+  const hasProjectIndex = !isArchive;
   const returnHref = isTeaching
     ? "/#teaching"
     : isPreviousWork
@@ -18,32 +37,72 @@ export function ProjectDetail({ project }: ProjectDetailProps) {
     ? "Teaching"
     : isPreviousWork
       ? "Previous work"
-      : "Selected work";
+      : "Work";
+
+  const teachingInfo = [
+    ["Term", findFact(project, "term") ?? project.year],
+    ["Topics", project.tags.join(", ")],
+    ["Level", findFact(project, "level") ?? ""],
+    ["Number of students", findFact(project, "enrollment") ?? ""],
+    ["Location", "UNC Charlotte"],
+  ];
+
+  const workType = selectedWorkLabels[project.slug] ?? project.tags[0] ?? "";
+  const workTopics =
+    project.tags
+      .filter(
+        (tag) =>
+          tag.toLowerCase() !== workType.toLowerCase() &&
+          tag !== "Previous Work",
+      )
+      .join(", ") || project.tags.join(", ");
+  const workInfo = [
+    ["Year", getSingleYear(project.year)],
+    ["Type", workType],
+    ["Topics", workTopics],
+    [
+      "Location",
+      findFact(project, "location") ??
+        workLocationFallbacks[project.slug] ??
+        "",
+    ],
+  ];
+  const projectInfo = isTeaching ? teachingInfo : workInfo;
+  const collectionUrl = findFact(project, "collection");
 
   return (
     <main className="project-page">
       <SiteHeader />
 
-      <article className={`project-detail project-detail--${project.section}`}>
-        <header className="project-detail__header">
+      <article
+        className={`project-detail project-detail--${project.section}${
+          hasProjectIndex ? " project-detail--indexed" : ""
+        }`}
+      >
+        <header
+          className={`project-detail__header${
+            hasProjectIndex ? " project-detail__header--indexed" : ""
+          }${isArchive ? " project-detail__header--archive" : ""}`}
+        >
           <div>
-            <a className="eyebrow-link" href={returnHref}>
-              {sectionLabel}
-            </a>
             <h1>{project.title}</h1>
+            {hasProjectIndex && (
+              <dl
+                className={`project-index${
+                  isTeaching ? "" : " project-index--work"
+                }`}
+              >
+                {projectInfo.map(([label, value]) => (
+                  <div key={label}>
+                    <dt>{label}</dt>
+                    <dd>{value}</dd>
+                  </div>
+                ))}
+              </dl>
+            )}
           </div>
-          <div className="project-detail__meta">
-            <span>{project.year}</span>
-            <span>{project.subtitle}</span>
-            <span>{project.tags.join(" · ")}</span>
-          </div>
-        </header>
 
-        {!isTeaching && !isArchive && (
-          <figure className="project-hero">
-            <img src={project.coverImage} alt={project.coverAlt} />
-          </figure>
-        )}
+        </header>
 
         {!isArchive && (
           <div className="project-detail__body">
@@ -52,49 +111,54 @@ export function ProjectDetail({ project }: ProjectDetailProps) {
               {project.body.map((paragraph) => (
                 <p key={paragraph}>{paragraph}</p>
               ))}
+              {collectionUrl && (
+                <a
+                  className="project-external-link"
+                  href={collectionUrl}
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  View Spiromorphs collection
+                </a>
+              )}
             </div>
-
-            <dl className="project-facts">
-              {project.facts.map(([label, value]) => (
-                <div key={`${label}-${value}`}>
-                  <dt>{label}</dt>
-                  <dd>
-                    {value.startsWith("http") ? (
-                      <a href={value}>{value}</a>
-                    ) : (
-                      value
-                    )}
-                  </dd>
-                </div>
-              ))}
-            </dl>
           </div>
         )}
 
         {project.media.length > 0 && (
           <section
             className={`project-gallery${
-              isArchive ? " project-gallery--archive" : ""
+              isArchive
+                ? " project-gallery--archive"
+                : " project-gallery--slides"
             }`}
-            aria-labelledby="project-gallery-title"
+            aria-label={`${project.title} gallery`}
           >
-            <div className="section-heading">
-              <h2 id="project-gallery-title">
-                {isArchive
-                  ? "Previous projects"
-                  : isTeaching
-                    ? "Selected student work"
-                    : "Selected media"}
-              </h2>
-            </div>
-            <div className="project-gallery__grid">
-              {project.media.map((item) => (
-                <figure key={item.src}>
-                  <img src={item.src} alt={item.alt} loading="lazy" />
-                  <figcaption>{item.caption}</figcaption>
-                </figure>
-              ))}
-            </div>
+            {isArchive ? (
+              <div className="project-gallery__grid">
+                {project.media.map((item) => (
+                  <figure key={item.src}>
+                    <img src={item.src} alt={item.alt} loading="lazy" />
+                    {item.caption && (
+                      <figcaption>
+                        <span className="project-gallery__caption-title">
+                          {item.caption}
+                        </span>
+                        {(item.year || item.type) && (
+                          <span className="project-gallery__caption-meta">
+                            {item.year}
+                            {item.year && item.type ? " · " : ""}
+                            {item.type}
+                          </span>
+                        )}
+                      </figcaption>
+                    )}
+                  </figure>
+                ))}
+              </div>
+            ) : (
+              <ProjectSlideshow title={project.title} items={project.media} />
+            )}
           </section>
         )}
 

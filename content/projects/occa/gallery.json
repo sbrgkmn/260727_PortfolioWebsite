@@ -1,20 +1,27 @@
 [
   {
-    "src": "/projects/occa/gallery/installation.webp",
-    "alt": "Occa suspended installation in the gallery",
-    "caption": "Suspended Occa installation",
-    "sourcePage": 43
+    "src": "/projects/occa/gallery/s3.jpg",
+    "alt": "Occa suspended installation in the Rezan Has Museum",
+    "caption": "Occa installation at Rezan Has Museum"
   },
   {
-    "src": "/projects/occa/gallery/detail.webp",
-    "alt": "Occa installation detail showing folded sheet components",
-    "caption": "Folded sheet components and suspended assembly",
-    "sourcePage": 44
+    "src": "/projects/occa/gallery/ssad.jpg",
+    "alt": "Occa suspended installation showing its striped branching surfaces",
+    "caption": "Suspended branching structure"
   },
   {
-    "src": "/projects/occa/gallery/fabrication.webp",
-    "alt": "Occa parametric geometry and fabrication diagrams",
-    "caption": "Parametric geometry and fabrication diagrams",
-    "sourcePage": 44
+    "src": "/projects/occa/gallery/s2.jpg",
+    "alt": "View from below the Occa installation showing its spatial scale",
+    "caption": "Installation view from below"
+  },
+  {
+    "src": "/projects/occa/gallery/Figure 3.jpg",
+    "alt": "Occa parametric geometry and fabrication workflow",
+    "caption": "Parametric geometry and fabrication workflow"
+  },
+  {
+    "src": "/projects/occa/gallery/PORTFOLIO_November_2023 21.jpeg",
+    "alt": "Occa component organization and assembly diagram",
+    "caption": "Component organization and assembly"
   }
 ]

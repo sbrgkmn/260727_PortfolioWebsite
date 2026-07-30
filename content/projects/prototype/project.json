@@ -6,7 +6,7 @@
   "subtitle": "Second-year design studio",
   "layout": "standard",
   "tags": ["Computational Thinking", "AI-Assisted Design", "Fabrication"],
-  "coverImage": "/projects/prototype/cover.webp",
+  "coverImage": "/teaching/prototype/cover.webp",
   "coverAlt": "Prototype studio models and drawings",
   "summary": "Prototype introduced second-year students to architecture as a process of rule-making, iteration, material translation, and the design of generative systems.",
   "body": [

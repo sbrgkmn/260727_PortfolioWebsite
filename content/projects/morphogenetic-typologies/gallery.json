@@ -1,26 +1,32 @@
 [
   {
-    "src": "/projects/morphogenetic-typologies/gallery/process.webp",
-    "alt": "Morphogenetic Typologies computational process",
-    "caption": "Computational process",
+    "src": "/teaching/morphogenetic-typologies/slides/slide-01.webp",
+    "alt": "Morphogenetic Typologies student work, Ayesha Akhter + Vashti Williams",
+    "caption": "Ayesha Akhter + Vashti Williams",
     "sourcePage": 19
   },
   {
-    "src": "/projects/morphogenetic-typologies/gallery/student-work-01.webp",
-    "alt": "Morphogenetic Typologies student studies",
-    "caption": "Selected student studies",
+    "src": "/teaching/morphogenetic-typologies/slides/slide-02.webp",
+    "alt": "Morphogenetic Typologies student work, Ethan Bolton + Marco Ramirez",
+    "caption": "Ethan Bolton + Marco Ramirez",
     "sourcePage": 20
   },
   {
-    "src": "/projects/morphogenetic-typologies/gallery/student-work-02.webp",
-    "alt": "Morphogenetic Typologies generated forms",
-    "caption": "Generated forms",
+    "src": "/teaching/morphogenetic-typologies/slides/slide-03.webp",
+    "alt": "Morphogenetic Typologies student work, Vitoria Muchiutti + Bryan Vargas Elvira",
+    "caption": "Vitoria Muchiutti + Bryan Vargas Elvira",
     "sourcePage": 21
   },
   {
-    "src": "/projects/morphogenetic-typologies/gallery/student-work-03.webp",
-    "alt": "Morphogenetic Typologies final student work",
-    "caption": "Final student work",
+    "src": "/teaching/morphogenetic-typologies/slides/slide-04.webp",
+    "alt": "Morphogenetic Typologies student work, Max Rodriguez + Jack Wier",
+    "caption": "Max Rodriguez + Jack Wier",
+    "sourcePage": 22
+  },
+  {
+    "src": "/teaching/morphogenetic-typologies/slides/slide-05.webp",
+    "alt": "Morphogenetic Typologies student work, Final review",
+    "caption": "Final review",
     "sourcePage": 23
   }
 ]

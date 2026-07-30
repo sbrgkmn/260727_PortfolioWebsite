@@ -1,20 +1,37 @@
 [
   {
-    "src": "/projects/steambot/gallery/workflow.webp",
-    "alt": "SteamBot robotic steam-bending workflow and fabrication studies",
-    "caption": "Robotic steam-bending workflow and fabrication studies",
-    "sourcePage": 24
+    "src": "/projects/steambot/gallery/ChatGPT Image May 30, 2026, 09_46_01 AM.png",
+    "alt": "SteamBot steam-bent timber prototypes",
+    "caption": "Steam-bent timber prototypes"
   },
   {
-    "src": "/projects/steambot/gallery/robotic-cell.webp",
-    "alt": "SteamBot timber member positioned in the robotic fabrication cell",
-    "caption": "Timber forming in the robotic fabrication cell",
-    "sourcePage": 25
+    "src": "/projects/steambot/gallery/ChatGPT Image May 30, 2026, 09_52_51 AM.png",
+    "alt": "SteamBot robotic steam-bending fabrication process",
+    "caption": "Robotic steam-bending process"
   },
   {
-    "src": "/projects/steambot/gallery/prototypes.webp",
-    "alt": "SteamBot bent-timber prototypes and connection tests",
-    "caption": "Bent-timber prototypes and connection tests",
-    "sourcePage": 26
+    "src": "/projects/steambot/gallery/ChatGPT Image May 30, 2026, 10_22_43 AM.png",
+    "alt": "SteamBot exhibition prototype",
+    "caption": "Exhibition prototype"
+  },
+  {
+    "src": "/projects/steambot/gallery/Figure 1.png",
+    "alt": "SteamBot digital-material fabrication workflow diagram",
+    "caption": "Digital-material workflow"
+  },
+  {
+    "src": "/projects/steambot/gallery/Steambot - Artboard 4+5 Diagrams Update (1).png",
+    "alt": "SteamBot columns, walls, and pavilion system diagrams",
+    "caption": "Columns, walls, and pavilion studies"
+  },
+  {
+    "src": "/projects/steambot/gallery/1.png",
+    "alt": "SteamBot robotic arm XY and XZ rotation study",
+    "caption": "Robotic arm rotation study"
+  },
+  {
+    "src": "/projects/steambot/gallery/Steambot - fr(1).png",
+    "alt": "SteamBot robotic bending simulation",
+    "caption": "Robotic bending simulation"
   }
 ]

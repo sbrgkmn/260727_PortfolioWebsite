@@ -3,25 +3,27 @@
   "section": "work",
   "title": "Calyx",
   "year": "2015",
-  "subtitle": "Public sculpture generated from leaf-venation systems",
+  "subtitle": "Site-specific public sculpture · Rochester, New York",
   "layout": "portrait",
   "tags": ["Public Art", "Leaf Venation", "Digital Fabrication"],
   "coverImage": "/projects/calyx/cover.jpg",
   "coverAlt": "Calyx public sculpture at the University of Rochester",
-  "summary": "Calyx is a public sculpture commissioned by the University of Rochester that translates biological organization into a generative design and fabrication process.",
+  "summary": "Calyx is a site-specific sculpture commissioned by the University of Rochester to celebrate a new age in which technology, art, nature, and knowledge become intertwined.",
   "body": [
-    "Custom leaf-venation algorithms generated three-dimensional branching patterns that grow, connect, thicken, and stabilize across a surface, producing an open lattice that expands from a compact base into a canopy-like form.",
-    "Geometry optimization translated the branching network into individual stainless-steel plates that could be cut, welded, and bolted into an architectural-scale campus landmark."
+    "The sculpture’s dynamic form and patterning are influenced by leaf-venation systems found in nature, which produce structural networks and organic forms.",
+    "Its canopy acts as a recognizable campus landmark while creating a gathering place for students and visitors."
   ],
   "facts": [
-    ["Location", "Rochester, New York"],
-    ["Design", "Sabri Gökmen, project lead"],
-    ["Geometry optimization", "Mark Luffel"],
+    ["Role", "Designer"],
+    ["Design", "Sabri Gokmen"],
+    ["Geometric Optimization", "Mark Luffel"],
     ["Fabrication", "Demiurge LLC"],
-    ["Client", "University of Rochester"]
+    ["Photography", "Courtesy of J. Adam Fenster, University of Rochester"],
+    ["Client", "University of Rochester"],
+    ["Location", "Rochester, New York"]
   ],
   "source": {
-    "document": "Research_Portfolio.pdf",
-    "pages": [48, 49]
+    "document": "https://www.sabrigokmen.com/calyx",
+    "pages": []
   }
 }

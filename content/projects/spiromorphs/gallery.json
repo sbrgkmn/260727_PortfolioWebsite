@@ -1,8 +1,57 @@
 [
   {
-    "src": "/projects/spiromorphs/gallery/generative-series.webp",
-    "alt": "Spiromorphs generative drawing series",
-    "caption": "Generative drawing series",
-    "sourcePage": 45
+    "src": "/projects/spiromorphs/gallery/source-site/web/source-01.webp",
+    "alt": "Spiromorphs generative artwork in coral and violet",
+    "caption": "Featured variation 01"
+  },
+  {
+    "src": "/projects/spiromorphs/gallery/source-site/web/source-02.webp",
+    "alt": "Spiromorphs generative artwork variation two",
+    "caption": "Featured variation 02"
+  },
+  {
+    "src": "/projects/spiromorphs/gallery/source-site/web/source-03.webp",
+    "alt": "Spiromorphs generative artwork variation three",
+    "caption": "Featured variation 03"
+  },
+  {
+    "src": "/projects/spiromorphs/gallery/source-site/web/source-04.webp",
+    "alt": "Spiromorphs mint zero in yellow, orange, and red",
+    "caption": "Mint #0"
+  },
+  {
+    "src": "/projects/spiromorphs/gallery/source-site/web/source-07.webp",
+    "alt": "Spiromorphs test mint 06",
+    "caption": "Test mint #06"
+  },
+  {
+    "src": "/projects/spiromorphs/gallery/source-site/web/source-20.webp",
+    "alt": "Chart of light and dark Spiromorphs color combinations",
+    "caption": "Color combinations"
+  },
+  {
+    "src": "/projects/spiromorphs/gallery/source-site/web/source-21.webp",
+    "alt": "Animated Spiromorphs drawing mechanism",
+    "caption": "Animated drawing mechanism"
+  },
+  {
+    "src": "/projects/spiromorphs/gallery/source-site/web/source-22.webp",
+    "alt": "Animated Spiromorphs trajectory study",
+    "caption": "Animated trajectory study"
+  },
+  {
+    "src": "/projects/spiromorphs/gallery/source-site/web/source-23.webp",
+    "alt": "Animated Spiromorphs color iteration",
+    "caption": "Animated color iteration"
+  },
+  {
+    "src": "/projects/spiromorphs/gallery/source-site/web/source-24.webp",
+    "alt": "Six Spiromorphs symmetry-fold conditions",
+    "caption": "Six symmetry folds"
+  },
+  {
+    "src": "/projects/spiromorphs/gallery/source-site/web/33.webp",
+    "alt": "Comparison of the six Spiromorphs morphology types",
+    "caption": "Six morphology types"
   }
 ]

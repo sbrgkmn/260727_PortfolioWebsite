@@ -9,9 +9,12 @@
     "install:ci": "npm ci --ignore-scripts --no-audit --no-fund",
     "dev": "node node_modules/vite/bin/vite.js",
     "build": "node node_modules/vinext/dist/cli.js build && node scripts/validate-artifact.mjs",
+    "build:pages": "node node_modules/next/dist/bin/next build && npm run validate:pages",
+    "deploy:cloudflare": "npm run build && node scripts/prepare-cloudflare-deploy.mjs && node node_modules/wrangler/bin/wrangler.js deploy --config dist/server/wrangler.json",
     "start": "node node_modules/vinext/dist/cli.js start",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "validate:artifact": "node scripts/validate-artifact.mjs",
+    "validate:pages": "node scripts/validate-pages-export.mjs",
     "lint": "node node_modules/eslint/bin/eslint.js . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "bash scripts/sites-env.sh -- drizzle-kit generate"
   },

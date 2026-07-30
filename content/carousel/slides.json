@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Calyx",
+    "type": "Public art",
+    "href": "/work/calyx",
+    "src": "/carousel/1.avif",
+    "alt": "Calyx public sculpture installed on the University of Rochester campus"
+  },
+  {
+    "title": "Central Bank of Iraq",
+    "type": "Parametric modeling",
+    "href": "/work/cbi",
+    "src": "/carousel/1.jpg",
+    "alt": "Parametric architectural tower studies for the Central Bank of Iraq"
+  },
+  {
+    "title": "Central Bank of Iraq",
+    "type": "Facade analysis",
+    "href": "/work/cbi",
+    "src": "/carousel/2.jpg",
+    "alt": "Parametric facade panel analysis for the Central Bank of Iraq"
+  },
+  {
+    "title": "SteamBot",
+    "type": "Robotic fabrication",
+    "href": "/work/steambot",
+    "src": "/carousel/ChatGPT Image May 30, 2026, 09_46_01 AM.png",
+    "alt": "SteamBot steam-bent timber prototypes"
+  },
+  {
+    "title": "Gothic Diffusion",
+    "type": "Generative AI",
+    "href": "/work/gothic-diffusion",
+    "src": "/carousel/GD_2026_RoseWindows.png",
+    "alt": "Gothic Diffusion generated rose-window studies"
+  },
+  {
+    "title": "Gothic Diffusion",
+    "type": "Exhibition",
+    "href": "/work/gothic-diffusion",
+    "src": "/carousel/gothic-diffusion.jpg",
+    "alt": "Gothic Diffusion exhibition installation"
+  },
+  {
+    "title": "Gothic Diffusion",
+    "type": "Generative AI",
+    "href": "/work/gothic-diffusion",
+    "src": "/carousel/IMG_9304.png",
+    "alt": "Gothic Diffusion generative architectural variations"
+  },
+  {
+    "title": "Occa",
+    "type": "Installation",
+    "href": "/work/occa",
+    "src": "/carousel/s3.jpg",
+    "alt": "Occa suspended installation at Rezan Has Museum"
+  },
+  {
+    "title": "Spiromorphs",
+    "type": "Generative art",
+    "href": "/work/spiromorphs",
+    "src": "/carousel/spiromorphs.jpg",
+    "alt": "Selection of colorful Spiromorphs generative artworks"
+  }
+]

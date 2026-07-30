@@ -1,38 +1,68 @@
 [
   {
-    "src": "/projects/computational-practice/gallery/exercise-01.webp",
-    "alt": "Computational Practice parametric exercise",
-    "caption": "Parametric exercise",
+    "src": "/teaching/computational-practice/slides/slide-01.webp",
+    "alt": "Computational Practice student work, Mattie Smith + Jonah Jones; Watson Davenport + Carter Bestafka",
+    "caption": "Mattie Smith + Jonah Jones; Watson Davenport + Carter Bestafka",
     "sourcePage": 39
   },
   {
-    "src": "/projects/computational-practice/gallery/exercise-02.webp",
-    "alt": "Computational Practice geometric studies",
-    "caption": "Geometric studies",
+    "src": "/teaching/computational-practice/slides/slide-02.webp",
+    "alt": "Computational Practice student work, Sene Cherry + Gabriella Ciceron + Nick Vuchev",
+    "caption": "Sene Cherry + Gabriella Ciceron + Nick Vuchev",
     "sourcePage": 40
   },
   {
-    "src": "/projects/computational-practice/gallery/exercise-03.webp",
-    "alt": "Computational Practice fabrication studies",
-    "caption": "Fabrication studies",
+    "src": "/teaching/computational-practice/slides/slide-03.webp",
+    "alt": "Computational Practice student work, Danielle Heckler + Robert Tomazic; Kennedy Reid + Karmyn Sessoms",
+    "caption": "Danielle Heckler + Robert Tomazic; Kennedy Reid + Karmyn Sessoms",
+    "sourcePage": 41
+  },
+  {
+    "src": "/teaching/computational-practice/slides/slide-04.webp",
+    "alt": "Computational Practice student work, Hannah Grace Coker + Emily Fox; Evan Acome + Kim Truong",
+    "caption": "Hannah Grace Coker + Emily Fox; Evan Acome + Kim Truong",
+    "sourcePage": 42
+  },
+  {
+    "src": "/teaching/computational-practice/slides/slide-05.webp",
+    "alt": "Computational Practice student work, Sene Cherry + Gabriella Ciceron; AJ Jackson + Ania Suber",
+    "caption": "Sene Cherry + Gabriella Ciceron; AJ Jackson + Ania Suber",
     "sourcePage": 43
   },
   {
-    "src": "/projects/computational-practice/gallery/exercise-04.webp",
-    "alt": "Computational Practice student work",
-    "caption": "Selected student work",
+    "src": "/teaching/computational-practice/slides/slide-06.webp",
+    "alt": "Computational Practice student work, Carter Bestafka + Jonathan Mathis + Nick Vuchev; Ethan Elmer + Wills Sims + Leo Rossi",
+    "caption": "Carter Bestafka + Jonathan Mathis + Nick Vuchev; Ethan Elmer + Wills Sims + Leo Rossi",
+    "sourcePage": 44
+  },
+  {
+    "src": "/teaching/computational-practice/slides/slide-07.webp",
+    "alt": "Computational Practice student work, Sundus Abu Reyal + Koutar Baddy + Jenny Shima; Navya Agrawal + Samantha Lopez Boza + Carolina Moreira + Paula Sanchez Barrera",
+    "caption": "Sundus Abu Reyal + Koutar Baddy + Jenny Shima; Navya Agrawal + Samantha Lopez Boza + Carolina Moreira + Paula Sanchez Barrera",
     "sourcePage": 45
   },
   {
-    "src": "/projects/computational-practice/gallery/exercise-05.webp",
-    "alt": "Computational Practice computational models",
-    "caption": "Computational models",
+    "src": "/teaching/computational-practice/slides/slide-08.webp",
+    "alt": "Computational Practice student work, Abby Mitchell + Charlie Pyle + Ryan Ragona; Ayesha Akhter + Valery Badawy + Sally Hunley",
+    "caption": "Abby Mitchell + Charlie Pyle + Ryan Ragona; Ayesha Akhter + Valery Badawy + Sally Hunley",
+    "sourcePage": 46
+  },
+  {
+    "src": "/teaching/computational-practice/slides/slide-09.webp",
+    "alt": "Computational Practice student work, Taylor Beard + Kayla Evans + Cora Hunt; AJ Jackson + Ania Suber + J’Anna Worth",
+    "caption": "Taylor Beard + Kayla Evans + Cora Hunt; AJ Jackson + Ania Suber + J’Anna Worth",
     "sourcePage": 47
   },
   {
-    "src": "/projects/computational-practice/gallery/exercise-06.webp",
-    "alt": "Computational Practice final projects",
-    "caption": "Final projects",
+    "src": "/teaching/computational-practice/slides/slide-10.webp",
+    "alt": "Computational Practice student work, Final review",
+    "caption": "Final review",
+    "sourcePage": 48
+  },
+  {
+    "src": "/teaching/computational-practice/slides/slide-11.webp",
+    "alt": "Computational Practice student work, Final review",
+    "caption": "Final review",
     "sourcePage": 49
   }
 ]

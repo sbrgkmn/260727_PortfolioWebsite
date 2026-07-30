@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { SiteFooter } from "./_components/site-footer";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -21,7 +22,7 @@ export const metadata: Metadata = {
     template: "%s — Sabri Gökmen",
   },
   description:
-    "Selected work, teaching, publications, and grants by architect and computational designer Sabri Gökmen.",
+    "Work, teaching, publications, and grants by architect and computational designer Sabri Gökmen.",
   openGraph: {
     type: "website",
     title: "Sabri Gökmen — Architect, Designer, Educator",
@@ -60,6 +61,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+        <SiteFooter />
       </body>
     </html>
   );

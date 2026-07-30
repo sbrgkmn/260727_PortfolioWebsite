@@ -1,20 +1,67 @@
 [
   {
-    "src": "/projects/gothic-diffusion/gallery/generated-rosettes.webp",
+    "src": "/projects/gothic-diffusion/gallery/ChatGPT Image Jun 16, 2026, 11_30_05 AM.png",
+    "alt": "Gothic Diffusion exhibition installation with projected rose-window imagery",
+    "caption": "Exhibition installation"
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/ChatGPT Image Jun 16, 2026, 11_38_12 AM (2).png",
+    "alt": "Illuminated Gothic Diffusion architectural model",
+    "caption": "Illuminated architectural model"
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/ChatGPT Image Jun 16, 2026, 11_38_12 AM (3).png",
+    "alt": "Second illuminated Gothic Diffusion architectural model",
+    "caption": "Model variation"
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/gothic_diffusion_6_step_sequence.png",
+    "alt": "Gothic Diffusion six-step process from LoRA training through resin printing",
+    "caption": "Six-step diffusion-to-fabrication sequence"
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/1.gif",
+    "alt": "Animated Gothic Diffusion morphology study one",
+    "caption": "Animated morphology study 01"
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/2.gif",
+    "alt": "Animated Gothic Diffusion morphology study two",
+    "caption": "Animated morphology study 02"
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/3.gif",
+    "alt": "Animated Gothic Diffusion morphology study three",
+    "caption": "Animated morphology study 03"
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/4.gif",
+    "alt": "Animated Gothic Diffusion morphology study four",
+    "caption": "Animated morphology study 04"
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/5.gif",
+    "alt": "Animated Gothic Diffusion morphology study five",
+    "caption": "Animated morphology study 05"
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/6.gif",
+    "alt": "Animated Gothic Diffusion morphology study six",
+    "caption": "Animated morphology study 06"
+  },
+  {
+    "src": "/projects/gothic-diffusion/gallery/GD_2026_RoseWindows.png",
     "alt": "Gothic Diffusion generated rose-window studies",
-    "caption": "Generated Gothic rose-window studies",
-    "sourcePage": 40
+    "caption": "Generated rose-window studies"
   },
   {
-    "src": "/projects/gothic-diffusion/gallery/dataset-and-training.webp",
-    "alt": "Gothic Diffusion dataset, training, and generated image comparisons",
-    "caption": "Dataset, training, and generated image comparisons",
-    "sourcePage": 41
+    "src": "/projects/gothic-diffusion/gallery/image-grid.jpg",
+    "alt": "Grid of Gothic Diffusion generated architectural variations",
+    "caption": "Generated variation matrix"
   },
   {
-    "src": "/projects/gothic-diffusion/gallery/exhibition.webp",
-    "alt": "Gothic Diffusion exhibition installation and projection",
-    "caption": "Exhibition installation and projection",
-    "sourcePage": 42
+    "src": "/projects/gothic-diffusion/gallery/image.png",
+    "alt": "Gothic Diffusion black-and-white training and diagram studies",
+    "caption": "Training and diagram studies"
   }
 ]

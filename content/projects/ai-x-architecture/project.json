@@ -6,7 +6,7 @@
   "subtitle": "Elective seminar",
   "layout": "standard",
   "tags": ["Artificial Intelligence", "Rendering", "Scripting"],
-  "coverImage": "/projects/ai-x-architecture/cover.webp",
+  "coverImage": "/teaching/ai-x-architecture/cover.webp",
   "coverAlt": "AI x Architecture student workflows",
   "summary": "An elective seminar introducing undergraduate and graduate students to artificial-intelligence workflows for design, visualization, scripting, datasets, and generative research.",
   "body": [

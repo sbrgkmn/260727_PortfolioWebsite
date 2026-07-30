@@ -1,0 +1,62 @@
+[
+  {
+    "src": "/projects/CBI/1.jpg",
+    "alt": "Low-angle rendering of the Central Bank of Iraq tower and its branching facade",
+    "caption": "Tower facade — architectural rendering"
+  },
+  {
+    "src": "/projects/CBI/2.png",
+    "alt": "Aerial rendering of the Central Bank of Iraq tower, podium, and riverside setting",
+    "caption": "Aerial view — architectural rendering"
+  },
+  {
+    "src": "/projects/CBI/3.png",
+    "alt": "Large Grasshopper definition used to coordinate the Central Bank of Iraq facade",
+    "caption": "Parametric facade definition"
+  },
+  {
+    "src": "/projects/CBI/image (7).png",
+    "alt": "Rhino and Grasshopper interface showing a curved Central Bank of Iraq facade segment",
+    "caption": "Facade geometry and scripting workflow"
+  },
+  {
+    "src": "/projects/CBI/image (6).png",
+    "alt": "Rhino model showing panelized curved facade geometry for the Central Bank of Iraq",
+    "caption": "Panelized surface development"
+  },
+  {
+    "src": "/projects/CBI/34543.png",
+    "alt": "Color-coded panel and mullion model for a curved Central Bank of Iraq facade zone",
+    "caption": "Facade panel coordination"
+  },
+  {
+    "src": "/projects/CBI/P6_2.jpg",
+    "alt": "Three-dimensional model of cladding panels wrapping a curved facade edge",
+    "caption": "Cladding panel layout"
+  },
+  {
+    "src": "/projects/CBI/TT10 - P5.png",
+    "alt": "Detailed color-coded model of Central Bank of Iraq facade panels and connections",
+    "caption": "Panel and connection detailing"
+  },
+  {
+    "src": "/projects/CBI/TT11.jpg",
+    "alt": "Detailed three-dimensional model of a Central Bank of Iraq facade bay",
+    "caption": "Facade bay coordination model"
+  },
+  {
+    "src": "/projects/CBI/analiz_3d.jpg",
+    "alt": "Axonometric analysis model of a long curved Central Bank of Iraq facade assembly",
+    "caption": "Integrated facade geometry"
+  },
+  {
+    "src": "/projects/CBI/axon1.jpg",
+    "alt": "Axonometric detail of layered Central Bank of Iraq facade profiles",
+    "caption": "Layered facade profiles"
+  },
+  {
+    "src": "/projects/CBI/kesit.jpg",
+    "alt": "Section perspective through Central Bank of Iraq facade framing and cladding",
+    "caption": "Facade assembly section"
+  }
+]
