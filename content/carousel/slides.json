@@ -7,18 +7,18 @@
     "alt": "Calyx public sculpture installed on the University of Rochester campus"
   },
   {
-    "title": "Central Bank of Iraq",
-    "type": "Parametric modeling",
-    "href": "/work/cbi",
+    "title": "Prompt-to-Geometry",
+    "type": "Generative AI",
+    "href": "/grants/prompt-to-geometry",
     "src": "/carousel/1.jpg",
-    "alt": "Parametric architectural tower studies for the Central Bank of Iraq"
+    "alt": "Prompt-to-Geometry generative AI architectural studies"
   },
   {
-    "title": "Central Bank of Iraq",
-    "type": "Facade analysis",
-    "href": "/work/cbi",
+    "title": "SafranGAN",
+    "type": "Deep Learning",
+    "href": "/grants/safranbolu-house-typologies",
     "src": "/carousel/2.jpg",
-    "alt": "Parametric facade panel analysis for the Central Bank of Iraq"
+    "alt": "SafranGAN deep-learning studies of Safranbolu house typologies"
   },
   {
     "title": "SteamBot",
@@ -42,11 +42,11 @@
     "alt": "Gothic Diffusion exhibition installation"
   },
   {
-    "title": "Gothic Diffusion",
-    "type": "Generative AI",
-    "href": "/work/gothic-diffusion",
+    "title": "Ornament is Prime!",
+    "type": "Exhibition",
+    "href": "/teaching/archive-previous-teaching",
     "src": "/carousel/IMG_9304.png",
-    "alt": "Gothic Diffusion generative architectural variations"
+    "alt": "Ornament is Prime! exhibition installation"
   },
   {
     "title": "Occa",
