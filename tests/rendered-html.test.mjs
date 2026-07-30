@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { access, readdir } from "node:fs/promises";
+import { access, readFile } from "node:fs/promises";
 import test from "node:test";
 
 const workSlugs = [
@@ -9,6 +9,7 @@ const workSlugs = [
   "spiromorphs",
   "calyx",
   "archetype",
+  "cbi",
 ];
 
 const previousWorkSlugs = [
@@ -74,9 +75,18 @@ async function render(pathname) {
   );
 }
 
+async function loadCarouselSlides() {
+  const slidesUrl = new URL(
+    "../content/carousel/slides.json",
+    import.meta.url,
+  );
+  return JSON.parse(await readFile(slidesUrl, "utf8"));
+}
+
 test("renders only the approved work and teaching index", async () => {
   const response = await render("/");
   const html = await response.text();
+  const carouselSlides = await loadCarouselSlides();
 
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
@@ -87,25 +97,36 @@ test("renders only the approved work and teaching index", async () => {
   }
 
   assert.match(html, /href="\/work\/archive-previous-work"/);
-  assert.doesNotMatch(html, /<img\b/);
+  assert.match(html, /class="project-carousel"/);
+  assert.equal(
+    (html.match(/class="project-carousel__slide/g) ?? []).length,
+    carouselSlides.length,
+  );
+  assert.equal(
+    (html.match(/class="landing-disclosure"/g) ?? []).length,
+    5,
+  );
+  assert.doesNotMatch(html, /class="landing-disclosure" open/);
+  assert.match(html, />Pause<\/button>/);
   assert.doesNotMatch(html, /\d+ entries|selected grants and proposals/i);
 
-  const selectedWorkOrder = [
-    "steambot",
-    "gothic-diffusion",
-    "occa",
-    "spiromorphs",
-    "calyx",
-    "archetype",
-    "archive-previous-work",
-  ];
-  const selectedWorkPositions = selectedWorkOrder.map((slug) =>
-    html.indexOf(`href="/work/${slug}"`),
-  );
-  assert.ok(selectedWorkPositions.every((position) => position >= 0));
+  const selectedWorkSlugs = [
+    ...html.matchAll(
+      /<a class="catalog-row" href="\/work\/([^"]+)"/g,
+    ),
+  ].map((match) => match[1]);
   assert.deepEqual(
-    selectedWorkPositions,
-    selectedWorkPositions.toSorted((a, b) => a - b),
+    selectedWorkSlugs,
+    [
+      "steambot",
+      "gothic-diffusion",
+      "archetype",
+      "cbi",
+      "occa",
+      "spiromorphs",
+      "calyx",
+      "archive-previous-work",
+    ],
   );
 
   for (const slug of previousWorkSlugs) {
@@ -144,13 +165,10 @@ test("renders only the approved work and teaching index", async () => {
     html,
     /<figcaption>International Journal of Architectural Computing, 2026<\/figcaption>/,
   );
-  const renderedGrantSlugs = new Set(
-    [...html.matchAll(/\/grants\/([a-z0-9-]+)/g)].map(
-      (match) => match[1],
-    ),
-  );
-  assert.equal(renderedGrantSlugs.size, 8);
-  assert.match(html, /href="\/CV_SabriGokmen_2026\.docx"/);
+  assert.match(html, /href="\/grants\/prompt-to-geometry"/);
+  assert.match(html, /href="\/grants\/safranbolu-house-typologies"/);
+  assert.match(html, /href="\/grants\/muqarnas-design-tools"/);
+  assert.match(html, /href="\/CV_Sabri_Gokmen_2026\.docx"/);
   assert.match(
     html,
     /href="https:\/\/smartech\.gatech\.edu\/handle\/1853\/58649"/,
@@ -174,20 +192,31 @@ test("renders only the approved work and teaching index", async () => {
   assert.doesNotMatch(html, /5,000 USD/);
   assert.match(html, /2026–2027/);
 
-  for (const slug of grantSlugs) {
-    assert.match(html, new RegExp(`/grants/${slug}`));
-  }
+  assert.equal(
+    (
+      html.match(
+        /class="catalog-row(?: catalog-row--static)? grant-entry"/g,
+      ) ?? []
+    ).length,
+    grantSlugs.length,
+  );
 });
 
 test("renders work and teaching detail routes", async () => {
   const workResponse = await render("/work/steambot");
+  const cbiResponse = await render("/work/cbi");
   const teachingResponse = await render("/teaching/prototype");
   const workHtml = await workResponse.text();
+  const cbiHtml = await cbiResponse.text();
   const teachingHtml = await teachingResponse.text();
 
   assert.equal(workResponse.status, 200);
   assert.match(workHtml, /SteamBot/);
-  assert.match(workHtml, /class="project-hero"/);
+  assert.match(workHtml, /class="project-slideshow/);
+  assert.equal(cbiResponse.status, 200);
+  assert.match(cbiHtml, /Central Bank of Iraq \(CBI\)/);
+  assert.equal((cbiHtml.match(/<figure\b/g) ?? []).length, 12);
+  assert.match(cbiHtml, /src="\/projects\/CBI\/1\.jpg"/);
   assert.equal(teachingResponse.status, 200);
   assert.match(teachingHtml, /Prototype/);
   assert.match(
@@ -214,7 +243,11 @@ test("renders previous work as individual single-image project pages", async () 
 
   assert.equal(response.status, 200);
   assert.match(html, /Gyroid/);
-  assert.match(html, /src="\/projects\/gyroid\/cover\.webp"/);
+  assert.match(
+    html,
+    /class="project-detail project-detail--work project-detail--indexed"/,
+  );
+  assert.match(html, /<dt>Year<\/dt><dd>2024<\/dd>/);
   assert.doesNotMatch(html, /class="project-gallery/);
   assert.match(html, /href="\/work\/archive-previous-work"/);
 });
@@ -224,7 +257,7 @@ test("renders the previous-work archive as a static four-by-four gallery", async
   const html = await response.text();
 
   assert.equal(response.status, 200);
-  assert.match(html, /Archive – Previous Work/);
+  assert.match(html, /<h1>Previous Work<\/h1>/);
   assert.match(html, /class="project-gallery project-gallery--archive"/);
   assert.equal((html.match(/<figure>/g) ?? []).length, 16);
   assert.doesNotMatch(html, /class="project-hero"/);
@@ -232,31 +265,33 @@ test("renders the previous-work archive as a static four-by-four gallery", async
   assert.match(html, /href="\/#work"/);
 });
 
-test("includes a cover, cropped gallery, and source media for every entry", async () => {
-  for (const slug of [...workSlugs, ...teachingSlugs]) {
-    const projectDir = new URL(`../public/projects/${slug}/`, import.meta.url);
-    const files = await readdir(projectDir);
-    assert.ok(files.some((file) => /^cover\.(jpg|webp)$/.test(file)));
+test("includes every configured project and carousel image", async () => {
+  for (const slug of [
+    ...workSlugs,
+    ...teachingSlugs,
+    ...previousWorkSlugs,
+    "archive-previous-work",
+  ]) {
+    const projectJsonUrl = new URL(
+      `../content/projects/${slug}/project.json`,
+      import.meta.url,
+    );
+    const galleryJsonUrl = new URL(
+      `../content/projects/${slug}/gallery.json`,
+      import.meta.url,
+    );
+    const project = JSON.parse(await readFile(projectJsonUrl, "utf8"));
+    const gallery = JSON.parse(await readFile(galleryJsonUrl, "utf8"));
 
-    const galleryDir = new URL("gallery/", projectDir);
-    const gallery = await readdir(galleryDir);
-    assert.ok(gallery.some((file) => /\.webp$/.test(file)));
-
-    const mediaDir = new URL("media/", projectDir);
-    const media = await readdir(mediaDir);
-    assert.ok(media.some((file) => /^source-p\d+\.webp$/.test(file)));
+    await access(new URL(`../public${project.coverImage}`, import.meta.url));
+    for (const item of gallery) {
+      await access(new URL(`../public${item.src}`, import.meta.url));
+    }
   }
 
-  for (const slug of previousWorkSlugs) {
-    await access(
-      new URL(`../public/projects/${slug}/cover.webp`, import.meta.url),
-    );
-    await access(
-      new URL(`../content/projects/${slug}/project.json`, import.meta.url),
-    );
-    await access(
-      new URL(`../content/projects/${slug}/gallery.json`, import.meta.url),
-    );
+  const carouselSlides = await loadCarouselSlides();
+  for (const slide of carouselSlides) {
+    await access(new URL(`../public${slide.src}`, import.meta.url));
   }
 
   await access(
@@ -264,18 +299,6 @@ test("includes a cover, cropped gallery, and source media for every entry", asyn
   );
   await access(new URL("../content/grants/grants.json", import.meta.url));
   await access(
-    new URL("../public/projects/steambot/thumbnail.webp", import.meta.url),
-  );
-  await access(
-    new URL("../public/projects/spiromorphs/thumbnail.webp", import.meta.url),
-  );
-  await access(
-    new URL(
-      "../public/projects/archetype/gallery/poster.webp",
-      import.meta.url,
-    ),
-  );
-  await access(
-    new URL("../public/CV_SabriGokmen_2026.docx", import.meta.url),
+    new URL("../public/CV_Sabri_Gokmen_2026.docx", import.meta.url),
   );
 });

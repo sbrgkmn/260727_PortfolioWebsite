@@ -8,8 +8,8 @@ export function SiteHeader({ home = false }: SiteHeaderProps) {
   const prefix = home ? "" : "/";
 
   return (
-    <header className="site-header">
-      <a className="identity" href={home ? "#top" : "/"}>
+    <header className="site-header" id="site-top">
+      <a className="identity" href={home ? "#site-top" : "/"}>
         {profile.name}
       </a>
       <nav aria-label="Primary navigation">

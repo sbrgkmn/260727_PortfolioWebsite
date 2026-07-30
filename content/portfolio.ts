@@ -12,6 +12,8 @@ import calyx from "./projects/calyx/project.json";
 import calyxGallery from "./projects/calyx/gallery.json";
 import carettaHospital from "./projects/caretta-hospital/project.json";
 import carettaHospitalGallery from "./projects/caretta-hospital/gallery.json";
+import cbi from "./projects/cbi/project.json";
+import cbiGallery from "./projects/cbi/gallery.json";
 import computationalPractice from "./projects/computational-practice/project.json";
 import computationalPracticeGallery from "./projects/computational-practice/gallery.json";
 import didemMadakTomb from "./projects/didem-madak-tomb/project.json";
@@ -96,6 +98,8 @@ export type Project = Omit<
     src: string;
     alt: string;
     caption: string;
+    year?: string;
+    type?: string;
   }[];
 };
 
@@ -104,6 +108,7 @@ export type Publication = {
   title: string;
   category: string;
   citation: string;
+  venue: string;
   href: string;
   thumbnail: {
     src: string;
@@ -127,8 +132,24 @@ type GrantRecord = {
 export type Grant = Omit<GrantRecord, "amount"> & {
   slug: string;
   periodLabel: string;
+  fundingSource: string;
   summary: string;
 };
+
+export const selectedWorkLabels: Record<string, string> = {
+  "gothic-diffusion": "Exhibition",
+  steambot: "Research",
+  archetype: "Symposium",
+  occa: "Installation",
+  spiromorphs: "Generative Art",
+  calyx: "Public Art",
+  cbi: "Consultancy",
+  "archive-previous-work": "Archive",
+};
+
+export function getSingleYear(year: string) {
+  return year.match(/\d{4}/g)?.at(-1) ?? year;
+}
 
 const profileSource = {
   name: "Sabri Gökmen",
@@ -167,7 +188,9 @@ function prepareProject(
     ...record,
     title:
       record.slug === "archive-previous-work"
-        ? "Archive – Previous Work"
+        ? "Previous Work"
+        : record.slug === "archive-previous-teaching"
+          ? "Previous Teaching"
         : record.title,
     section: record.section as ProjectSection,
     layout: record.layout as ProjectLayout,
@@ -183,6 +206,7 @@ const records: [ProjectRecord, Project["media"]][] = [
   [spiromorphs, spiromorphsGallery],
   [calyx, calyxGallery],
   [archetype, archetypeGallery],
+  [cbi, cbiGallery],
   [archivePreviousWork, archivePreviousWorkGallery],
   [gyroid, gyroidGallery],
   [vitalizedGeometry, vitalizedGeometryGallery],
@@ -218,11 +242,18 @@ export const previousWorkProjects = workProjects.filter((project) =>
 
 export const featuredWorkProjects = workProjects.filter(
   (project) => !project.tags.includes("Previous Work"),
+).sort(
+  (a, b) =>
+    Number.parseInt(b.year, 10) - Number.parseInt(a.year, 10),
 );
 
 export const teachingProjects = records
   .map(([record, gallery]) => prepareProject(record, gallery))
-  .filter((project) => project.section === "teaching");
+  .filter((project) => project.section === "teaching")
+  .sort(
+    (a, b) =>
+      Number.parseInt(b.year, 10) - Number.parseInt(a.year, 10),
+  );
 
 const publicationIndex = new Map(
   publicationRecords.map((publication) => [publication.title, publication]),
@@ -236,6 +267,7 @@ export const publications: Publication[] = featuredPublicationRecords
     }
     return {
       ...publication,
+      venue: featured.venue,
       href: featured.href,
       thumbnail: featured.thumbnail,
     };
@@ -258,8 +290,13 @@ export const grants: Grant[] = featuredGrantRecords.map((featured) => {
     status: grant.status,
     slug: featured.slug,
     periodLabel: featured.periodLabel,
+    fundingSource: featured.fundingSource,
     summary: featured.summary,
   };
+}).sort((a, b) => {
+  const yearA = Number.parseInt(a.periodLabel.match(/\d{4}/)?.[0] ?? "0", 10);
+  const yearB = Number.parseInt(b.periodLabel.match(/\d{4}/)?.[0] ?? "0", 10);
+  return yearB - yearA;
 });
 
 export function getWorkProject(slug: string) {

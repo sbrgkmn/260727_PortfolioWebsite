@@ -3,96 +3,128 @@
     "src": "/projects/archive-previous-work/gallery/gyroid.webp",
     "alt": "Gyroid installation",
     "caption": "Gyroid",
+    "year": "2024",
+    "type": "Installation",
     "sourcePage": 50
   },
   {
     "src": "/projects/archive-previous-work/gallery/vitalized-geometry.webp",
     "alt": "Vitalized Geometry installation",
     "caption": "Vitalized Geometry",
+    "year": "2015",
+    "type": "Installation",
     "sourcePage": 50
   },
   {
     "src": "/projects/archive-previous-work/gallery/minimabox.webp",
     "alt": "MinimaBOX pavilion proposal",
     "caption": "MinimaBOX",
+    "year": "2020",
+    "type": "Pavilion",
     "sourcePage": 50
   },
   {
     "src": "/projects/archive-previous-work/gallery/morphogenetic-vaults.webp",
     "alt": "Morphogenetic Vaults studies",
     "caption": "Morphogenetic Vaults",
+    "year": "2019",
+    "type": "Study",
     "sourcePage": 50
   },
   {
     "src": "/projects/archive-previous-work/gallery/tangle-jungle.webp",
     "alt": "Tangle Jungle installation",
     "caption": "Tangle Jungle",
+    "year": "2011",
+    "type": "Installation",
     "sourcePage": 51
   },
   {
     "src": "/projects/archive-previous-work/gallery/ver-sacrum.webp",
     "alt": "Ver Sacrum installation",
     "caption": "Ver Sacrum",
+    "year": "2015",
+    "type": "Installation",
     "sourcePage": 51
   },
   {
     "src": "/projects/archive-previous-work/gallery/opulent-grove.webp",
     "alt": "Opulent Grove pavilion proposal",
     "caption": "Opulent Grove",
+    "year": "2013",
+    "type": "Competition",
     "sourcePage": 51
   },
   {
     "src": "/projects/archive-previous-work/gallery/skin-pavilion.webp",
     "alt": "Skin Pavilion installation",
     "caption": "Skin Pavilion",
+    "year": "2011",
+    "type": "Installation",
     "sourcePage": 51
   },
   {
     "src": "/projects/archive-previous-work/gallery/manifold.webp",
     "alt": "Manifold sculpture competition proposal",
     "caption": "Manifold",
+    "year": "2022",
+    "type": "Competition",
     "sourcePage": 52
   },
   {
     "src": "/projects/archive-previous-work/gallery/bursa-sports-facility.webp",
     "alt": "Bursa Ataturk Sports Facility competition proposal",
     "caption": "Bursa Ataturk Sports Facility Competition",
+    "year": "2022",
+    "type": "Competition",
     "sourcePage": 52
   },
   {
     "src": "/projects/archive-previous-work/gallery/olivelo-park.webp",
     "alt": "Olivelo Park competition proposal",
     "caption": "Olivelo Park",
+    "year": "2020",
+    "type": "Competition",
     "sourcePage": 52
   },
   {
     "src": "/projects/archive-previous-work/gallery/urban-park-furniture.webp",
     "alt": "Furniture Design for Urban Parks competition proposal",
     "caption": "Furniture Design for Urban Parks Competition",
+    "year": "2020",
+    "type": "Competition",
     "sourcePage": 52
   },
   {
     "src": "/projects/archive-previous-work/gallery/caretta-hospital.webp",
     "alt": "Iztuzu Caretta Caretta Hospital competition proposal",
     "caption": "Iztuzu Caretta Caretta Hospital Competition",
+    "year": "2019",
+    "type": "Competition",
     "sourcePage": 53
   },
   {
     "src": "/projects/archive-previous-work/gallery/rotonda-mosque.webp",
     "alt": "Rotonda Mosque competition proposal",
     "caption": "Rotonda Mosque",
+    "year": "2019",
+    "type": "Competition",
     "sourcePage": 53
   },
   {
     "src": "/projects/archive-previous-work/gallery/didem-madak-tomb.webp",
     "alt": "Tomb for Didem Madak competition proposal",
     "caption": "Tomb for Didem Madak",
+    "year": "2020",
+    "type": "Competition",
     "sourcePage": 53
   },
   {
     "src": "/projects/archive-previous-work/gallery/wuppertal-replacement-building.webp",
     "alt": "Replacement Building for University of Wuppertal competition proposal",
     "caption": "Replacement Building for University of Wuppertal",
+    "year": "2011",
+    "type": "Competition",
     "sourcePage": 53
   }
 ]

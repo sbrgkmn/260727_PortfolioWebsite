@@ -1,39 +1,81 @@
 import { SiteHeader } from "./_components/site-header";
+import { ProjectCarousel } from "./_components/project-carousel";
 import {
   featuredWorkProjects,
+  getSingleYear,
   grants,
   profile,
   publications,
+  selectedWorkLabels,
   teachingProjects,
 } from "../content/portfolio";
+
+function formatPublicationTitle(title: string) {
+  return title.replace(/[.,]+$/, "");
+}
+
+const inactiveGrantSlugs = new Set([
+  "minimal-matter",
+  "graft",
+  "designhub-ist",
+  "digital-design-fabrication-lab",
+]);
+
+function DisclosureHeading({
+  id,
+  label,
+}: {
+  id: string;
+  label: string;
+}) {
+  return (
+    <summary className="section-heading">
+      <span className="section-title" id={id}>
+        {label}
+      </span>
+      <span className="section-toggle" aria-hidden="true" />
+    </summary>
+  );
+}
 
 export default function Home() {
   return (
     <main>
       <SiteHeader home />
 
-      <section className="intro" id="top">
-        <h1>{profile.headline}</h1>
-        <p>{profile.introduction}</p>
+      <section className="intro">
+        <h1 aria-label={profile.headline}>
+          <span>Computational design across morphology,</span>
+          <span>artificial intelligence, and material fabrication.</span>
+        </h1>
+        <ProjectCarousel />
       </section>
 
       <section className="work" id="work" aria-labelledby="work-title">
-        <div className="section-heading">
-          <h2 id="work-title">Selected work</h2>
-        </div>
-        <div className="catalog-list">
-          {featuredWorkProjects.map((project) => (
-            <a
-              className="catalog-row"
-              href={`/work/${project.slug}`}
-              key={project.slug}
-            >
-              <span className="catalog-year">{project.year}</span>
-              <h3>{project.title}</h3>
-              <span className="catalog-type">{project.tags[0]}</span>
-            </a>
-          ))}
-        </div>
+        <details className="landing-disclosure">
+          <DisclosureHeading id="work-title" label="Work" />
+          <div className="landing-disclosure__content">
+            <div className="catalog-list">
+              {featuredWorkProjects.map((project) => (
+                <a
+                  className="catalog-row"
+                  href={`/work/${project.slug}`}
+                  key={project.slug}
+                >
+                  <span className="catalog-year">
+                    {project.slug === "archive-previous-work"
+                      ? project.year
+                      : getSingleYear(project.year)}
+                  </span>
+                  <h3>{project.title}</h3>
+                  <span className="catalog-type">
+                    {selectedWorkLabels[project.slug] ?? project.tags[0]}
+                  </span>
+                </a>
+              ))}
+            </div>
+          </div>
+        </details>
       </section>
 
       <section
@@ -41,22 +83,24 @@ export default function Home() {
         id="teaching"
         aria-labelledby="teaching-title"
       >
-        <div className="section-heading">
-          <h2 id="teaching-title">Teaching</h2>
-        </div>
-        <div className="catalog-list">
-          {teachingProjects.map((project) => (
-            <a
-              className="catalog-row"
-              href={`/teaching/${project.slug}`}
-              key={project.slug}
-            >
-              <span className="catalog-year">{project.year}</span>
-              <h3>{project.title}</h3>
-              <span className="catalog-type">{project.tags[0]}</span>
-            </a>
-          ))}
-        </div>
+        <details className="landing-disclosure">
+          <DisclosureHeading id="teaching-title" label="Teaching" />
+          <div className="landing-disclosure__content">
+            <div className="catalog-list">
+              {teachingProjects.map((project) => (
+                <a
+                  className="catalog-row"
+                  href={`/teaching/${project.slug}`}
+                  key={project.slug}
+                >
+                  <span className="catalog-year">{project.year}</span>
+                  <h3>{project.title}</h3>
+                  <span className="catalog-type">{project.subtitle}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+        </details>
       </section>
 
       <section
@@ -64,32 +108,37 @@ export default function Home() {
         id="publications"
         aria-labelledby="publications-title"
       >
-        <div className="section-heading">
-          <h2 id="publications-title">Publications</h2>
-        </div>
-        <div className="catalog-list">
-          {publications.map((publication) => (
-            <a
-              className="catalog-row publication-entry"
-              href={publication.href}
-              target="_blank"
-              rel="noreferrer"
-              aria-label={`Open ${publication.title}`}
-              key={publication.title}
-            >
-              <span className="catalog-year publication-year">
-                {publication.year}
-              </span>
-              <div className="publication-copy">
-                <h3>{publication.title}</h3>
-                <p>{publication.citation}</p>
-              </div>
-              <span className="catalog-type publication-type">
-                {publication.category}
-              </span>
-            </a>
-          ))}
-        </div>
+        <details className="landing-disclosure">
+          <DisclosureHeading id="publications-title" label="Publications" />
+          <div className="landing-disclosure__content">
+            <div className="catalog-list">
+              {publications.map((publication) => (
+                <a
+                  className="catalog-row publication-entry"
+                  href={publication.href}
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label={`Open ${formatPublicationTitle(
+                    publication.title,
+                  )}`}
+                  key={publication.title}
+                >
+                  <span className="catalog-year publication-year">
+                    {publication.year}
+                  </span>
+                  <div className="publication-copy">
+                    <h3 title={formatPublicationTitle(publication.title)}>
+                      {formatPublicationTitle(publication.title)}
+                    </h3>
+                  </div>
+                  <span className="catalog-type publication-type">
+                    {publication.venue}
+                  </span>
+                </a>
+              ))}
+            </div>
+          </div>
+        </details>
       </section>
 
       <section
@@ -97,30 +146,56 @@ export default function Home() {
         id="grants"
         aria-labelledby="grants-title"
       >
-        <div className="section-heading">
-          <h2 id="grants-title">Grants</h2>
-        </div>
-        <div className="catalog-list">
-          {grants.map((grant) => (
-            <a
-              className="catalog-row"
-              href={`/grants/${grant.slug}`}
-              key={grant.title}
-            >
-              <span className="catalog-year">{grant.periodLabel}</span>
-              <div>
-                <h3>{grant.title}</h3>
-                <p className="catalog-detail">{grant.agency}</p>
-              </div>
-              <span className="catalog-type">{grant.status}</span>
-            </a>
-          ))}
-        </div>
+        <details className="landing-disclosure">
+          <DisclosureHeading id="grants-title" label="Grants" />
+          <div className="landing-disclosure__content">
+            <div className="catalog-list">
+              {grants.map((grant) => {
+                const row = (
+                  <>
+                    <span className="catalog-year">{grant.periodLabel}</span>
+                    <div>
+                      <h3>{grant.title}</h3>
+                    </div>
+                    <span className="catalog-type">{grant.fundingSource}</span>
+                  </>
+                );
+
+                if (inactiveGrantSlugs.has(grant.slug)) {
+                  return (
+                    <div
+                      className="catalog-row catalog-row--static grant-entry"
+                      key={grant.title}
+                    >
+                      {row}
+                    </div>
+                  );
+                }
+
+                return (
+                  <a
+                    className="catalog-row grant-entry"
+                    href={
+                      grant.slug === "steambot"
+                        ? "/work/steambot"
+                        : `/grants/${grant.slug}`
+                    }
+                    key={grant.title}
+                  >
+                    {row}
+                  </a>
+                );
+              })}
+            </div>
+          </div>
+        </details>
       </section>
 
       <section className="about" id="about" aria-labelledby="about-title">
-        <h2 id="about-title">About</h2>
-        <div>
+        <details className="landing-disclosure">
+          <DisclosureHeading id="about-title" label="About" />
+          <div className="landing-disclosure__content">
+            <div className="about-content">
           <p className="about-statement">
             Sabri Gokmen is a computational designer and researcher with more
             than 15 years of experience in parametric modeling, generative art,
@@ -153,31 +228,22 @@ export default function Home() {
             , dividing his time among teaching, research, and coding.
           </p>
           <div className="about-links">
-            <a href={profile.links.website} target="_blank" rel="noreferrer">
-              Website
-            </a>
-            <a href={`mailto:${profile.email}`}>Email</a>
-            <a href={profile.links.research} target="_blank" rel="noreferrer">
-              Academia
-            </a>
             <a href={profile.links.youtube} target="_blank" rel="noreferrer">
               YouTube
             </a>
-            <a href={profile.links.linktree} target="_blank" rel="noreferrer">
-              Linktree
+            <a href={profile.links.research} target="_blank" rel="noreferrer">
+              Academia
             </a>
-            <a href="/CV_SabriGokmen_2026.docx" download>
-              Download CV
+            <span>Blog</span>
+            <a href="/CV_Sabri_Gokmen_2026.docx" download>
+              CV
             </a>
           </div>
-        </div>
+            </div>
+          </div>
+        </details>
       </section>
 
-      <footer>
-        <span>© 2026 {profile.name}. All rights reserved.</span>
-        <span>{profile.location}</span>
-        <a href="#top">Back to top ↑</a>
-      </footer>
     </main>
   );
 }

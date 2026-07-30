@@ -1,0 +1,29 @@
+{
+  "slug": "cbi",
+  "section": "work",
+  "title": "Central Bank of Iraq (CBI)",
+  "year": "2023",
+  "subtitle": "Parametric modeling and BIM consultancy",
+  "layout": "wide",
+  "tags": ["Consultancy", "Parametric Modeling", "BIM"],
+  "coverImage": "/projects/CBI/1.jpg",
+  "coverAlt": "Low-angle rendering of the Central Bank of Iraq tower in Baghdad",
+  "summary": "Parametric modeling and BIM consultancy for the construction and digital fabrication of the Central Bank of Iraq facade systems.",
+  "body": [
+    "The consultancy supports the construction of the Central Bank of Iraq in Baghdad, designed by Zaha Hadid Architects. Parametric models coordinate complex building geometry across curtain-wall systems, composite aluminum facade panels, aluminum cladding, and related construction details.",
+    "The work develops digital tools and Grasshopper scripts that integrate BIM coordination with fabrication workflows. Because the detailed project models are confidential, the gallery presents the architectural renderings and an overview of the computational definition used to manage the facade geometry."
+  ],
+  "facts": [
+    ["Type", "Parametric modeling / BIM consultancy"],
+    ["Location", "Baghdad, Iraq"],
+    ["Contractor", "DAAX Construction MMC"],
+    ["Concept design", "Zaha Hadid Architects"],
+    ["Facade design", "Mimsa Aluminum"],
+    ["Role", "Parametric designer / BIM consultant"],
+    ["Start", "January 2023"]
+  ],
+  "source": {
+    "document": "Portfolio screenshot supplied with project media",
+    "pages": [30]
+  }
+}

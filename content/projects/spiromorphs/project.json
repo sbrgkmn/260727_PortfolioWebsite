@@ -3,25 +3,30 @@
   "section": "work",
   "title": "Spiromorphs",
   "year": "2021–2022",
-  "subtitle": "Procedural generative artwork built from recursive circular motion",
+  "subtitle": "Generative Art / NFTs",
   "layout": "wide",
   "tags": ["Generative Art", "Morphology", "p5.js"],
   "coverImage": "/projects/spiromorphs/thumbnail.webp",
-  "coverAlt": "Single red and gold Spiromorph generative artwork",
-  "summary": "Spiromorphs is a procedural generative artwork that produces emergent spiral morphologies from unique hash-based configurations.",
+  "coverAlt": "Spiromorphs generative artwork",
+  "summary": "Spiromorphs are procedural roulette figures that generate emergent spiral morphologies from a unique hash. Each configuration is constructed from chained circles that overlay periodic motions, producing endless variations of color and form with patterned yet quasi-chaotic behavior.",
   "body": [
-    "Each composition is generated through chained circles that overlay periodic motions, producing patterned behavior, quasi-chaotic motion, rotational drift, and layered color variation.",
-    "The system includes six morphology types, sixteen color combinations, six symmetry-fold conditions, three animation speeds, and parameters controlling direction, length, opacity, circle count, and rotation."
+    "The project grew from a long-running interest in natural form, symmetry, growth, generative systems, and morphology. It brings years of code-based research into an aesthetic exploration of spiraling forms.",
+    "The system produces six morphology types—Sling, Puff, Bond, Cycle, Warp, and Star—along with sixteen color combinations, six symmetry folds, and three animation speeds. Direction, length, opacity, circle count, and rotation are all driven by the hash.",
+    "Each variation is drawn through a method related to the plotting action of a spirograph. High increments and long trajectories allow the algorithm to create smooth formal visualizations and animated color studies.",
+    "Five percent of the project proceeds were designated for the National Alzheimer’s Foundation in support of families affected by Alzheimer’s disease."
   ],
   "facts": [
-    ["Artist", "Sabri Gökmen"],
+    ["Role", "Artist and generative-system designer"],
+    ["Medium", "Generative Art / NFTs"],
+    ["Location", "Online / Art Blocks"],
     ["Platform", "Web browser, p5.js"],
-    ["Launch", "December 10, 2021"],
+    ["Launch", "December 10, 2021, 2pm CT"],
     ["Completion", "January 3, 2022"],
-    ["Project link", "https://www.artblocks.io/project/221"]
+    ["Project link", "https://www.artblocks.io/project/221"],
+    ["Collection", "https://opensea.io/collection/spiromorphs-by-sab"]
   ],
   "source": {
-    "document": "Research_Portfolio.pdf",
-    "pages": [45]
+    "document": "https://www.sabrigokmen.com/spiromorphs",
+    "pages": []
   }
 }

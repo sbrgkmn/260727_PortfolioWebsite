@@ -6,7 +6,7 @@
   "subtitle": "Computational design seminar",
   "layout": "standard",
   "tags": ["Parametric Design", "Minimal Surfaces", "Digital Fabrication"],
-  "coverImage": "/projects/computational-practice/cover.webp",
+  "coverImage": "/teaching/computational-practice/cover.webp",
   "coverAlt": "Computational Practice student work",
   "summary": "A large-format seminar connecting parametric modeling, geometry, materiality, and digital fabrication through architectural applications.",
   "body": [

@@ -1,20 +1,20 @@
 [
   {
-    "src": "/projects/ai-x-architecture/gallery/workflow.webp",
-    "alt": "AI x Architecture generative design workflow",
-    "caption": "Generative design workflow",
+    "src": "/teaching/ai-x-architecture/slides/slide-01.webp",
+    "alt": "AI x Architecture student work, Balinase Kaonga + David Mba",
+    "caption": "Balinase Kaonga + David Mba",
     "sourcePage": 35
   },
   {
-    "src": "/projects/ai-x-architecture/gallery/student-work-01.webp",
-    "alt": "AI x Architecture student work",
-    "caption": "Selected student work",
+    "src": "/teaching/ai-x-architecture/slides/slide-02.webp",
+    "alt": "AI x Architecture student work, Koutar Baddy + Marco Ramirez-Alvarez",
+    "caption": "Koutar Baddy + Marco Ramirez-Alvarez",
     "sourcePage": 36
   },
   {
-    "src": "/projects/ai-x-architecture/gallery/student-work-02.webp",
-    "alt": "AI x Architecture final projects",
-    "caption": "Final projects",
+    "src": "/teaching/ai-x-architecture/slides/slide-03.webp",
+    "alt": "AI x Architecture student work, Brianna Harbit",
+    "caption": "Brianna Harbit",
     "sourcePage": 37
   }
 ]

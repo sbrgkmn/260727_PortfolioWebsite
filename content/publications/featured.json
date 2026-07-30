@@ -2,6 +2,7 @@
   {
     "title": "Integrating stable diffusion via remote server APIs for enhanced parametric design workflows.",
     "href": "https://doi.org/10.1177/14780771251405440",
+    "venue": "International Journal of Architectural Computing",
     "thumbnail": {
       "src": "/publications/ijac-2026.webp",
       "alt": "International Journal of Architectural Computing article cover",
@@ -13,6 +14,7 @@
   {
     "title": "Stripped and Layered Fabrication of Minimal Surface Tectonics Using Parametric Algorithms.",
     "href": "https://doi.org/10.1515/cls-2022-0210",
+    "venue": "Curved and Layered Structures",
     "thumbnail": {
       "src": "/publications/curved-layered-2023.webp",
       "alt": "Curved and Layered Structures journal cover",
@@ -24,6 +26,7 @@
   {
     "title": "A Recursive Algorithm for the Generative Study of Seljuk Muqarnas in Kayseri and Sivas.",
     "href": "https://doi.org/10.1007/s00004-023-00686-4",
+    "venue": "Nexus Network Journal",
     "thumbnail": {
       "src": "/publications/nexus-journal-2023.webp",
       "alt": "Nexus Network Journal cover",
@@ -35,6 +38,7 @@
   {
     "title": "Computational Modeling and Analysis of Seljukid Muqarnas in Kayseri.",
     "href": "https://doi.org/10.1145/3477399",
+    "venue": "Journal on Computing and Cultural Heritage",
     "thumbnail": {
       "src": "/publications/jocch-2022.webp",
       "alt": "Journal on Computing and Cultural Heritage cover",
@@ -46,6 +50,7 @@
   {
     "title": "Computation and Optimization of Structural Leaf Venation Patterns for Digital Fabrication.",
     "href": "https://doi.org/10.1016/j.cad.2021.103150",
+    "venue": "Computer-Aided Design",
     "thumbnail": {
       "src": "/publications/cad-2022.webp",
       "alt": "Computer-Aided Design journal cover",
@@ -57,6 +62,7 @@
   {
     "title": "Homeomorphic architecture: Radial prisons and contracted graphs.",
     "href": "https://doi.org/10.1177/2399808320922239",
+    "venue": "Environment and Planning B",
     "thumbnail": {
       "src": "/publications/environment-planning-b-2020.webp",
       "alt": "Environment and Planning B journal cover",
@@ -68,6 +74,7 @@
   {
     "title": "Metamorphic Leaves.",
     "href": "https://doi.org/10.1162/leon_a_01741",
+    "venue": "Leonardo",
     "thumbnail": {
       "src": "/publications/leonardo-2020.webp",
       "alt": "Leonardo journal cover",
@@ -79,6 +86,7 @@
   {
     "title": "Rediscovering Goethe’s concept of polarity: A new direction for architectural morphogenesis.",
     "href": "https://doi.org/10.4305/metu.jfa.2020.1.5",
+    "venue": "METU Journal of the Faculty of Architecture",
     "thumbnail": {
       "src": "/publications/metu-jfa-2020.webp",
       "alt": "METU Journal of the Faculty of Architecture cover",
@@ -90,6 +98,7 @@
   {
     "title": "The Vitruvian Turn: Why Generative Images Fail as Architectural Computation.",
     "href": "https://2026.acadia.org/",
+    "venue": "ACADIA",
     "thumbnail": {
       "src": "/publications/acadia-2026.webp",
       "alt": "ACADIA 2026 Humanism Recoded conference cover",
@@ -101,6 +110,7 @@
   {
     "title": "Automating Multi-Modal Dataset Workflows in Architecture.",
     "href": "https://doi.org/10.35483/ACSA.AM.114.22",
+    "venue": "ACSA Annual Meeting",
     "thumbnail": {
       "src": "/publications/acsa-2026.webp",
       "alt": "ACSA 114 conference abstract book cover",
@@ -112,6 +122,7 @@
   {
     "title": "Beginning with AI: Frontloading Computational Thinking and Making in Second Year Design Education.",
     "href": "https://www.academia.edu/168645669/Beginning_with_AI_Frontloading_Computational_Thinking_and_Making_in_Second_Year_Design_Education",
+    "venue": "NCBDS",
     "thumbnail": {
       "src": "/publications/ncbds-2026.webp",
       "alt": "NCBDS 41 conference program cover",
@@ -123,6 +134,7 @@
   {
     "title": "Prompt2Product: Using Stable Diffusion for Parametric Modeling and Manufacturing of Ceramic Products,",
     "href": "https://doi.org/10.52842/conf.ecaade.2025.2.167",
+    "venue": "eCAADe",
     "thumbnail": {
       "src": "/publications/ecaade-2025.webp",
       "alt": "eCAADe 2025 conference proceedings cover",
@@ -134,6 +146,7 @@
   {
     "title": "Gothic Anatomy: Computational Analysis of Cathedral Plans Using Branching Graphs.",
     "href": "https://www.academia.edu/168645462/GOTHIC_ANATOMY_COMPUTATIONAL_ANALYSIS_OF_CATHEDRAL_PLANS_USING_BRANCHING_GRAPHS",
+    "venue": "Nexus",
     "thumbnail": {
       "src": "/publications/nexus-2025.webp",
       "alt": "Nexus 2025 conference book cover",
@@ -145,6 +158,7 @@
   {
     "title": "Digital Wallpaper: Tiles of Proliferation and Continuity",
     "href": "https://papers.cumincad.org/data/works/att/acadia14_301.content.pdf",
+    "venue": "ACADIA",
     "thumbnail": {
       "src": "/publications/acadia-2014.webp",
       "alt": "ACADIA 2014 Design Agency conference proceedings cover",
@@ -156,6 +170,7 @@
   {
     "title": "Tangle Jungle: An experimental project to combine collaboration and craftsmanship in digital design pedagogy",
     "href": "https://papers.cumincad.org/data/works/att/caadria2014_108.content.pdf",
+    "venue": "CAADRIA",
     "thumbnail": {
       "src": "/publications/caadria-2014.webp",
       "alt": "CAADRIA 2014 conference proceedings cover",
@@ -167,6 +182,7 @@
   {
     "title": "A Morphogenetic Approach for Performative Building Envelope Systems Using Leaf Venetian Patterns,",
     "href": "https://papers.cumincad.org/data/works/att/ecaade2013_167.content.pdf",
+    "venue": "eCAADe",
     "thumbnail": {
       "src": "/publications/ecaade-2013.webp",
       "alt": "eCAADe 2013 Computation and Performance conference proceedings cover",

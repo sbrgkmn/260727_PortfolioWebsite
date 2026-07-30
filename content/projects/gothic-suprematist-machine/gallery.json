@@ -1,32 +1,44 @@
 [
   {
-    "src": "/projects/gothic-suprematist-machine/gallery/studio-process.webp",
-    "alt": "Gothic Suprematist Machine studio process and diagrams",
-    "caption": "Studio process and diagrams",
+    "src": "/teaching/gothic-suprematist-machine/slides/slide-01.webp",
+    "alt": "Gothic Suprematist Machine student work, Maggie Orta",
+    "caption": "Maggie Orta",
     "sourcePage": 5
   },
   {
-    "src": "/projects/gothic-suprematist-machine/gallery/student-work-01.webp",
-    "alt": "Gothic Suprematist Machine student work",
-    "caption": "Selected student work",
+    "src": "/teaching/gothic-suprematist-machine/slides/slide-02.webp",
+    "alt": "Gothic Suprematist Machine student work, Maggie Orta",
+    "caption": "Maggie Orta",
     "sourcePage": 6
   },
   {
-    "src": "/projects/gothic-suprematist-machine/gallery/student-work-02.webp",
-    "alt": "Gothic Suprematist Machine models and drawings",
-    "caption": "Models and drawings",
+    "src": "/teaching/gothic-suprematist-machine/slides/slide-03.webp",
+    "alt": "Gothic Suprematist Machine student work, Joseph Long + Balinase Kaonga",
+    "caption": "Joseph Long + Balinase Kaonga",
+    "sourcePage": 7
+  },
+  {
+    "src": "/teaching/gothic-suprematist-machine/slides/slide-04.webp",
+    "alt": "Gothic Suprematist Machine student work, Joseph Long + Balinase Kaonga",
+    "caption": "Joseph Long + Balinase Kaonga",
     "sourcePage": 8
   },
   {
-    "src": "/projects/gothic-suprematist-machine/gallery/student-work-03.webp",
-    "alt": "Gothic Suprematist Machine digital and physical studies",
-    "caption": "Digital and physical studies",
+    "src": "/teaching/gothic-suprematist-machine/slides/slide-05.webp",
+    "alt": "Gothic Suprematist Machine student work, Tom Wileman",
+    "caption": "Tom Wileman",
+    "sourcePage": 9
+  },
+  {
+    "src": "/teaching/gothic-suprematist-machine/slides/slide-06.webp",
+    "alt": "Gothic Suprematist Machine student work, Tianna O’Hare + Erik Pate",
+    "caption": "Tianna O’Hare + Erik Pate",
     "sourcePage": 10
   },
   {
-    "src": "/projects/gothic-suprematist-machine/gallery/student-work-04.webp",
-    "alt": "Gothic Suprematist Machine final projects",
-    "caption": "Final projects",
+    "src": "/teaching/gothic-suprematist-machine/slides/slide-07.webp",
+    "alt": "Gothic Suprematist Machine student work, Final review",
+    "caption": "Final review",
     "sourcePage": 11
   }
 ]

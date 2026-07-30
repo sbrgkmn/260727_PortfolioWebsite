@@ -1,32 +1,56 @@
 [
   {
-    "src": "/projects/prototype/gallery/process.webp",
-    "alt": "Prototype studio process and early studies",
-    "caption": "Studio process and early studies",
+    "src": "/teaching/prototype/slides/slide-01.webp",
+    "alt": "Prototype student work, Mackenzie Dolle + Hunter Shaffer + Michael Wallace + Hadley Melton",
+    "caption": "Mackenzie Dolle + Hunter Shaffer + Michael Wallace + Hadley Melton",
     "sourcePage": 25
   },
   {
-    "src": "/projects/prototype/gallery/models-01.webp",
-    "alt": "Prototype studio physical models",
-    "caption": "Physical models",
+    "src": "/teaching/prototype/slides/slide-02.webp",
+    "alt": "Prototype student work, Olivia Dreyfus + Mo Pirela + Kaylie Vong + Iterland Wells; Jameson Jensen + David Kushnir + Christian Richter + Agnes Rodts",
+    "caption": "Olivia Dreyfus + Mo Pirela + Kaylie Vong + Iterland Wells; Jameson Jensen + David Kushnir + Christian Richter + Agnes Rodts",
     "sourcePage": 26
   },
   {
-    "src": "/projects/prototype/gallery/models-02.webp",
-    "alt": "Prototype studio material studies",
-    "caption": "Material studies",
+    "src": "/teaching/prototype/slides/slide-03.webp",
+    "alt": "Prototype student work, Prototype studio cohort",
+    "caption": "Prototype studio cohort",
+    "sourcePage": 27
+  },
+  {
+    "src": "/teaching/prototype/slides/slide-04.webp",
+    "alt": "Prototype student work, Fabrizio Farfan + Sabrina Coffaro + Paige Reed + Rishika Turlapaty; Jameson Jensen + David Kushnir + Christian Richter + Agnes Rodts",
+    "caption": "Fabrizio Farfan + Sabrina Coffaro + Paige Reed + Rishika Turlapaty; Jameson Jensen + David Kushnir + Christian Richter + Agnes Rodts",
     "sourcePage": 28
   },
   {
-    "src": "/projects/prototype/gallery/student-work-01.webp",
-    "alt": "Prototype studio student work",
-    "caption": "Selected student work",
+    "src": "/teaching/prototype/slides/slide-05.webp",
+    "alt": "Prototype student work, Daniel Ragona + Eva Monson + Ian Rudert + Christina Aliatimi; Mackenzie Dolle + Hunter Shaffer + Michael Wallace + Hadley Melton",
+    "caption": "Daniel Ragona + Eva Monson + Ian Rudert + Christina Aliatimi; Mackenzie Dolle + Hunter Shaffer + Michael Wallace + Hadley Melton",
+    "sourcePage": 29
+  },
+  {
+    "src": "/teaching/prototype/slides/slide-06.webp",
+    "alt": "Prototype student work, Midterm review",
+    "caption": "Midterm review",
+    "sourcePage": 30
+  },
+  {
+    "src": "/teaching/prototype/slides/slide-07.webp",
+    "alt": "Prototype student work, Hadley Melton + Jair Rincon Padilla",
+    "caption": "Hadley Melton + Jair Rincon Padilla",
     "sourcePage": 31
   },
   {
-    "src": "/projects/prototype/gallery/student-work-02.webp",
-    "alt": "Prototype studio final projects",
-    "caption": "Final projects",
+    "src": "/teaching/prototype/slides/slide-08.webp",
+    "alt": "Prototype student work, Jameson Jensen + David Kushnir",
+    "caption": "Jameson Jensen + David Kushnir",
+    "sourcePage": 32
+  },
+  {
+    "src": "/teaching/prototype/slides/slide-09.webp",
+    "alt": "Prototype student work, Mackenzie Dolle + Jair Rincon Padilla",
+    "caption": "Mackenzie Dolle + Jair Rincon Padilla",
     "sourcePage": 33
   }
 ]

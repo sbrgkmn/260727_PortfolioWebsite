@@ -1,20 +1,22 @@
 [
   {
-    "src": "/projects/calyx/gallery/installation.webp",
-    "alt": "Calyx branching installation in the gallery",
-    "caption": "Calyx installation",
-    "sourcePage": 48
+    "src": "/projects/calyx/gallery/web/slide-01.webp",
+    "alt": "Calyx sculpture in use on the University of Rochester campus",
+    "caption": "Campus installation"
   },
   {
-    "src": "/projects/calyx/gallery/assembly.webp",
-    "alt": "Calyx assembly and fabrication detail",
-    "caption": "Assembly and fabrication detail",
-    "sourcePage": 49
+    "src": "/projects/calyx/gallery/web/slide-02.webp",
+    "alt": "Aerial view of Calyx on the University of Rochester campus",
+    "caption": "University of Rochester campus setting"
   },
   {
-    "src": "/projects/calyx/gallery/geometry.webp",
-    "alt": "Calyx branching geometry and component diagram",
-    "caption": "Branching geometry and component diagram",
-    "sourcePage": 49
+    "src": "/projects/calyx/gallery/web/slide-03.webp",
+    "alt": "Exploded assembly drawing of the Calyx sculpture",
+    "caption": "Component assembly"
+  },
+  {
+    "src": "/projects/calyx/gallery/web/slide-04.webp",
+    "alt": "Calyx canopy and its leaf-venation shadow viewed from above",
+    "caption": "Canopy and leaf-venation shadow"
   }
 ]
