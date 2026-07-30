@@ -100,6 +100,8 @@ export type Project = Omit<
     caption: string;
     year?: string;
     type?: string;
+    institution?: string;
+    recognition?: string;
   }[];
 };
 

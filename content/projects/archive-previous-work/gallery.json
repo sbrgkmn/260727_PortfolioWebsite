@@ -85,6 +85,7 @@
     "caption": "Olivelo Park",
     "year": "2020",
     "type": "Competition",
+    "recognition": "Honorable Mention",
     "sourcePage": 52
   },
   {
@@ -101,6 +102,7 @@
     "caption": "Iztuzu Caretta Caretta Hospital Competition",
     "year": "2019",
     "type": "Competition",
+    "recognition": "2nd Prize",
     "sourcePage": 53
   },
   {
@@ -117,6 +119,7 @@
     "caption": "Tomb for Didem Madak",
     "year": "2020",
     "type": "Competition",
+    "recognition": "Jury Prize",
     "sourcePage": 53
   },
   {
@@ -125,6 +128,7 @@
     "caption": "Replacement Building for University of Wuppertal",
     "year": "2011",
     "type": "Competition",
+    "recognition": "2nd Prize",
     "sourcePage": 53
   }
 ]

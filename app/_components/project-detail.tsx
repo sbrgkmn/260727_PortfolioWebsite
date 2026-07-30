@@ -21,6 +21,17 @@ function findFact(project: Project, labelIncludes: string) {
   )?.[1];
 }
 
+function getArchiveMeta(
+  item: Project["media"][number],
+  isTeachingArchive: boolean,
+) {
+  const values = isTeachingArchive
+    ? [item.institution, item.year]
+    : [item.year, item.type, item.recognition];
+
+  return values.filter(Boolean).join(" \u00b7 ");
+}
+
 export function ProjectDetail({ project }: ProjectDetailProps) {
   const isTeaching = project.section === "teaching";
   const isWorkArchive = project.slug === "archive-previous-work";
@@ -144,11 +155,9 @@ export function ProjectDetail({ project }: ProjectDetailProps) {
                         <span className="project-gallery__caption-title">
                           {item.caption}
                         </span>
-                        {(item.year || item.type) && (
+                        {getArchiveMeta(item, isTeachingArchive) && (
                           <span className="project-gallery__caption-meta">
-                            {item.year}
-                            {item.year && item.type ? " · " : ""}
-                            {item.type}
+                            {getArchiveMeta(item, isTeachingArchive)}
                           </span>
                         )}
                       </figcaption>

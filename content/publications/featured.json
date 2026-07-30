@@ -96,18 +96,6 @@
     }
   },
   {
-    "title": "The Vitruvian Turn: Why Generative Images Fail as Architectural Computation.",
-    "href": "https://2026.acadia.org/",
-    "venue": "ACADIA",
-    "thumbnail": {
-      "src": "/publications/acadia-2026.webp",
-      "alt": "ACADIA 2026 Humanism Recoded conference cover",
-      "caption": "ACADIA 2026",
-      "sourceDocument": "Screenshot 2026-07-02 121143.png",
-      "sourcePage": 1
-    }
-  },
-  {
     "title": "Automating Multi-Modal Dataset Workflows in Architecture.",
     "href": "https://doi.org/10.35483/ACSA.AM.114.22",
     "venue": "ACSA Annual Meeting",
