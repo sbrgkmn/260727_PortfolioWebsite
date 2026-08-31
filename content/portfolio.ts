@@ -177,6 +177,7 @@ export const profile = {
     research: "https://khas.academia.edu/SabriGokmen",
     youtube:
       "https://www.youtube.com/channel/UCHGjWx-r-g_scgX-kIQc5sw/videos",
+    blog: "https://medium.com/@contact_71117",
     academicProfile: "https://coaa.charlotte.edu/people/sabri-gokmen/",
     linktree: "https://linktr.ee/Sabrgb",
   },

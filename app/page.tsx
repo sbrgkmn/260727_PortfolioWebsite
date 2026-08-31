@@ -234,7 +234,9 @@ export default function Home() {
             <a href={profile.links.research} target="_blank" rel="noreferrer">
               Academia
             </a>
-            <span>Blog</span>
+            <a href={profile.links.blog} target="_blank" rel="noreferrer">
+              Blog
+            </a>
             <a href="/CV_Sabri_Gokmen_2026.docx" download>
               CV
             </a>
