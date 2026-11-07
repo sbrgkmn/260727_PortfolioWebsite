@@ -111,14 +111,14 @@ export type Publication = {
   category: string;
   citation: string;
   venue: string;
-  href: string;
+  href: string | null;
   thumbnail: {
     src: string;
     alt: string;
     caption: string;
     sourceDocument: string;
     sourcePage: number;
-  };
+  } | null;
 };
 
 type GrantRecord = {

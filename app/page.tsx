@@ -112,17 +112,9 @@ export default function Home() {
           <DisclosureHeading id="publications-title" label="Publications" />
           <div className="landing-disclosure__content">
             <div className="catalog-list">
-              {publications.map((publication) => (
-                <a
-                  className="catalog-row publication-entry"
-                  href={publication.href}
-                  target="_blank"
-                  rel="noreferrer"
-                  aria-label={`Open ${formatPublicationTitle(
-                    publication.title,
-                  )}`}
-                  key={publication.title}
-                >
+              {publications.map((publication) => {
+                const row = (
+                  <>
                   <span className="catalog-year publication-year">
                     {publication.year}
                   </span>
@@ -134,8 +126,35 @@ export default function Home() {
                   <span className="catalog-type publication-type">
                     {publication.venue}
                   </span>
-                </a>
-              ))}
+                  </>
+                );
+
+                if (!publication.href) {
+                  return (
+                    <div
+                      className="catalog-row catalog-row--static publication-entry"
+                      key={publication.title}
+                    >
+                      {row}
+                    </div>
+                  );
+                }
+
+                return (
+                  <a
+                    className="catalog-row publication-entry"
+                    href={publication.href}
+                    target="_blank"
+                    rel="noreferrer"
+                    aria-label={`Open ${formatPublicationTitle(
+                      publication.title,
+                    )}`}
+                    key={publication.title}
+                  >
+                    {row}
+                  </a>
+                );
+              })}
             </div>
           </div>
         </details>
