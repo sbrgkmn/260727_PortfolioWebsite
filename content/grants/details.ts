@@ -19,6 +19,31 @@ export type GrantDetailContent = {
 };
 
 export const grantDetails: Record<string, GrantDetailContent> = {
+  "minimal-matter": {
+    title: "Minimal Matter",
+    agency: "School of Architecture Faculty Research Grant, UNC Charlotte",
+    amount: "5,000 USD",
+    role: "Principal Investigator",
+    team: [
+      "Sabri Gokmen",
+      "Pelin Alkan (co-PI)",
+      "Jordan Harrelson (RA)",
+    ],
+    duration: "July 2026–May 2027",
+    status: "Ongoing",
+    summary: "Permeable interior walls from 3D-printed minimal-surface clay modules.",
+    body: [
+      "Minimal Matter investigates modular clay components derived from minimal-surface geometry. The research connects computational design with clay extrusion to explore permeable interior wall systems.",
+      "The prototype studies examine the relationship between continuous surfaces, openings, and the layered texture of 3D printing. The gallery documents physical models from the ongoing research."
+    ],
+    publications: [],
+    media: [
+      {src: "/grants/minimal-matter/ead-figure-4.webp", alt: "Gyroid, Schwarz P, Schwarz D and I-WP clay specimens in two views", caption: "EAD27 figure 4 — Four minimal-surface families; physical scale is not normalized"},
+      {src: "/grants/minimal-matter/ead-figure-8.webp", alt: "Single, double and triple stacked Schwarz D clay assemblies", caption: "EAD27 figure 8 — Periodic assembly studies; not structural tests"},
+      {src: "/grants/minimal-matter/ead-figure-2.webp", alt: "ClayFlow slicing interface, deposited preview and computed analysis", caption: "EAD27 figure 2 — Clay-specific slicing interface; values are software estimates"},
+      {src: "/grants/minimal-matter/ead-figure-6.webp", alt: "Comparative Gyroid test prints at 35, 42 and 50 degree stacking-angle thresholds", caption: "EAD27 figure 6 — Stacking-angle calibration studies; physical scale is not normalized"}
+    ],
+  },
   "prompt-to-geometry": {
     title: "Prompt-to-Geometry",
     agency: "Office of Undergraduate Research Summer Program, UNC Charlotte",
@@ -46,7 +71,7 @@ export const grantDetails: Record<string, GrantDetailContent> = {
         caption: "Generated geometric variants",
       },
       {
-        src: "/grants/prompt%20to%20geometry/3.png",
+        src: "/grants/prompt%20to%20geometry/workflow-high-resolution.png",
         alt: "Node-based computational workflow connecting images and geometry",
         caption: "Image-to-geometry workflow",
       },
@@ -66,12 +91,12 @@ export const grantDetails: Record<string, GrantDetailContent> = {
         caption: "Selected designs and prompt excerpts",
       },
       {
-        src: "/grants/prompt%20to%20geometry/7.png",
+        src: "/grants/prompt%20to%20geometry/geometry-workflow-high-resolution.png",
         alt: "Node-based parametric definition for generated geometry",
         caption: "Parametric definition",
       },
       {
-        src: "/grants/prompt%20to%20geometry/8.png",
+        src: "/grants/prompt%20to%20geometry/massing-variations-high-resolution.png",
         alt: "Collection of generated architectural massing models",
         caption: "Generated massing collection",
       },

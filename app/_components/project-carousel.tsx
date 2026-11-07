@@ -52,6 +52,7 @@ export function ProjectCarousel() {
             <img
               src={slide.src}
               alt={slide.alt}
+              style={slide.fit === "contain" ? { objectFit: "contain", backgroundColor: "#fff" } : undefined}
               loading={index === 0 ? "eager" : "lazy"}
               decoding="async"
             />

@@ -15,7 +15,6 @@ function formatPublicationTitle(title: string) {
 }
 
 const inactiveGrantSlugs = new Set([
-  "minimal-matter",
   "graft",
   "designhub-ist",
   "digital-design-fabrication-lab",
@@ -43,11 +42,8 @@ export default function Home() {
     <main>
       <SiteHeader home />
 
-      <section className="intro">
-        <h1 aria-label={profile.headline}>
-          <span>Computational design across morphology,</span>
-          <span>artificial intelligence, and material fabrication.</span>
-        </h1>
+      <h1 className="sr-only">{profile.name} — {profile.headline}</h1>
+      <section className="intro" aria-label="Featured projects">
         <ProjectCarousel />
       </section>
 

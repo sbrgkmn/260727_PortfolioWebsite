@@ -1,0 +1,39 @@
+{
+  "slug": "metamorphic-architecture",
+  "section": "work",
+  "title": "Metamorphic Architecture",
+  "year": "2026",
+  "subtitle": "Goethean Morphology and Generative Algorithms",
+  "layout": "standard",
+  "tags": [
+    "Book in development",
+    "Computational Morphology",
+    "Generative Algorithms"
+  ],
+  "coverImage": "/projects/metamorphic-architecture/book-cover.png",
+  "coverAlt": "Conceptual cover of Metamorphic Architecture with a leaf symmetry diagram",
+  "summary": "Metamorphic Architecture brings Goethean morphology into architectural theory and computational design, showing how polarity, recursion, and serial transformation can explain and generate related families of architectural forms.",
+  "body": [
+    "Metamorphic Architecture develops Goethe’s concept of metamorphosis into a contemporary framework for understanding and generating architectural form. It asks how forms can change while retaining recognizable relationships, and how these relationships can be described through polarity, serial development, and recursive operations. Written to connect traditions usually studied separately, the book brings Goethean philosophy and morphology into dialogue with architectural theory and computational design.",
+    "Organized into four interconnected parts, the book moves from the philosophical foundations of metamorphosis to the study of living form, architectural organization, and generative algorithms. It examines Goethe’s accounts of expansion and contraction alongside botanical and anatomical studies, before investigating symmetry, proportion, organicism, and the differentiation of architectural bodies. The final part translates these relationships into computational procedures that generate and compare families of forms. Original diagrams, transformation sequences, and parametric studies carry the argument throughout, making formal development visible as a sequence of related states.",
+    "The book’s contribution is to establish metamorphosis as an explicit method of morphological inquiry and architectural generation. Its relevance in 2026 lies in a question sharpened by generative artificial intelligence: how can architects evaluate relationships among alternatives when producing variation has become increasingly automated? Goethean morphology offers criteria for examining continuity, differentiation, and developmental organization across such alternatives. By linking historical ideas with executable procedures, the book proposes a technical philosophy of form that can guide both comparative analysis and design experimentation. It addresses architectural researchers, educators, and advanced students seeking a rigorous account of transformation across natural, built, and computational forms."
+  ],
+  "facts": [
+    [
+      "Author",
+      "Sabri Gokmen"
+    ],
+    [
+      "Location",
+      "UNC Charlotte"
+    ],
+    [
+      "Status",
+      "Monograph in development"
+    ]
+  ],
+  "source": {
+    "document": "MetamorphicArchitecture_Proposal.docx; SampleChapter.docx, Figures 6.3â€“6.5",
+    "pages": []
+  }
+}

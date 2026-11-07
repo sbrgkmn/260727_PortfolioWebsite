@@ -1,33 +1,5 @@
 [
   {
-    "title": "Calyx",
-    "type": "Public art",
-    "href": "/work/calyx",
-    "src": "/carousel/1.avif",
-    "alt": "Calyx public sculpture installed on the University of Rochester campus"
-  },
-  {
-    "title": "Prompt-to-Geometry",
-    "type": "Generative AI",
-    "href": "/grants/prompt-to-geometry",
-    "src": "/carousel/1.jpg",
-    "alt": "Prompt-to-Geometry generative AI architectural studies"
-  },
-  {
-    "title": "SafranGAN",
-    "type": "Deep Learning",
-    "href": "/grants/safranbolu-house-typologies",
-    "src": "/carousel/2.jpg",
-    "alt": "SafranGAN deep-learning studies of Safranbolu house typologies"
-  },
-  {
-    "title": "SteamBot",
-    "type": "Robotic fabrication",
-    "href": "/work/steambot",
-    "src": "/carousel/ChatGPT Image May 30, 2026, 09_46_01 AM.png",
-    "alt": "SteamBot steam-bent timber prototypes"
-  },
-  {
     "title": "Gothic Diffusion",
     "type": "Generative AI",
     "href": "/work/gothic-diffusion",
@@ -61,5 +33,41 @@
     "href": "/work/spiromorphs",
     "src": "/carousel/spiromorphs.jpg",
     "alt": "Selection of colorful Spiromorphs generative artworks"
+  },
+  {
+    "title": "Minimal Matter",
+    "fit": "contain",
+    "type": "Clay fabrication",
+    "href": "/grants/minimal-matter",
+    "src": "/grants/minimal-matter/ead-carousel.webp",
+    "alt": "EAD27 comparison of Gyroid, Schwarz P, Schwarz D and I-WP clay-printed specimens"
+  },
+  {
+    "title": "Calyx",
+    "type": "Public art",
+    "href": "/work/calyx",
+    "src": "/carousel/1.avif",
+    "alt": "Calyx public sculpture installed on the University of Rochester campus"
+  },
+  {
+    "title": "Prompt-to-Geometry",
+    "type": "Generative AI",
+    "href": "/grants/prompt-to-geometry",
+    "src": "/carousel/1.jpg",
+    "alt": "Prompt-to-Geometry generative AI architectural studies"
+  },
+  {
+    "title": "SafranGAN",
+    "type": "Deep Learning",
+    "href": "/grants/safranbolu-house-typologies",
+    "src": "/carousel/2.jpg",
+    "alt": "SafranGAN deep-learning studies of Safranbolu house typologies"
+  },
+  {
+    "title": "SteamBot",
+    "type": "Robotic fabrication",
+    "href": "/work/steambot",
+    "src": "/carousel/ChatGPT Image May 30, 2026, 09_46_01 AM.png",
+    "alt": "SteamBot steam-bent timber prototypes"
   }
 ]

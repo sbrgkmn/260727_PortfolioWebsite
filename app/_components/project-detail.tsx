@@ -118,7 +118,9 @@ export function ProjectDetail({ project }: ProjectDetailProps) {
         {!isArchive && (
           <div className="project-detail__body">
             <div className="project-copy">
-              <p className="project-summary">{project.summary}</p>
+              <p className="project-summary">
+                {project.summary}
+              </p>
               {project.body.map((paragraph) => (
                 <p key={paragraph}>{paragraph}</p>
               ))}

@@ -1,6 +1,8 @@
 import aiXArchitecture from "./projects/ai-x-architecture/project.json";
 import aiXArchitectureGallery from "./projects/ai-x-architecture/gallery.json";
 import archetype from "./projects/archetype/project.json";
+import metamorphic from "./projects/metamorphic-architecture/project.json";
+import metamorphicGallery from "./projects/metamorphic-architecture/gallery.json";
 import archetypeGallery from "./projects/archetype/gallery.json";
 import archivePreviousTeaching from "./projects/archive-previous-teaching/project.json";
 import archivePreviousTeachingGallery from "./projects/archive-previous-teaching/gallery.json";
@@ -177,7 +179,7 @@ export const profile = {
     research: "https://khas.academia.edu/SabriGokmen",
     youtube:
       "https://www.youtube.com/channel/UCHGjWx-r-g_scgX-kIQc5sw/videos",
-    blog: "https://medium.com/@contact_71117",
+    blog: "https://medium.com/@digitalromanticism",
     academicProfile: "https://coaa.charlotte.edu/people/sabri-gokmen/",
     linktree: "https://linktr.ee/Sabrgb",
   },
@@ -203,6 +205,7 @@ function prepareProject(
 }
 
 const records: [ProjectRecord, Project["media"]][] = [
+  [metamorphic, metamorphicGallery],
   [steambot, steambotGallery],
   [gothicDiffusion, gothicDiffusionGallery],
   [occa, occaGallery],
